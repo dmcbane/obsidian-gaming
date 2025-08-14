@@ -1,0 +1,13 @@
+{
+  "find-unlinked-files:find-unresolved-link": [
+    {
+      "modifiers": [
+        "Alt",
+        "Meta",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "app:open-help": []
+}

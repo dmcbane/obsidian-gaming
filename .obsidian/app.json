@@ -1,0 +1,14 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 90
+  },
+  "useMarkdownLinks": true,
+  "newFileLocation": "current"
+}

@@ -1,0 +1,37 @@
+---
+title: Surita Kawah - Planet
+updated: 2024-09-07 16:44:07Z
+created: 2024-09-07 01:00:18Z
+tags:
+  - planet
+  - pwp
+---
+
+## Surita Kawah &ndash; Planet
+
+Surita Kawah (Heavy Industry/Megacorps) is a dreary world of massive, planet-spanning manufacturing operations, sad tenement housing and polluted strip mines. It's one major urban center, Neo Eden, houses about 3 million inhabitants, largely the bureaucrats and menial laborers who form the cogs in the machine. Neo Eden always seems to be shrouded in rain and “fog,” or more accurately, smog, which is the result of a century of over-exploitation of the natural world.
+
+On the streets of Neo Eden, inhabitants often wear respirators over their faces, heavy raincoats to protect themselves from the polluted rain and they eat highly processed food that is often imported from other worlds.
+
+Major corporations on Surita Kawah include Motinovation Industries PHC (Privately Held Corporation), Betaspace PCE (Protected Corporate Entity) and Lionstar Productions, all of which are conglomerates that produce dozens of products, from holovid units to gravcars, and everything in between.
+
+Despite Surita Kawah's bad reputation, it also functions as a center of trade and commerce for the sector and attracts both reputable businessmen and shadier characters looking to earn a quick credit.
+
+- Atmosphere: Breatheable mix
+- Temperature: Temperate
+- Biosphere: Human-miscible
+- Population: Millions
+- Tech Level: TL3
+- System: [Thora - System](Thora%20-%20System.md)
+- Gas Giant Mines
+	- [Naruko Project - Gas Giant Mine](Naruko%20Project%20-%20Gas%20Giant%20Mine.md)
+- Moons
+   - [Paurkin Erreze - Moon](Paurkin%20Erreze%20-%20Moon.md)
+- Orbital Ruins
+	- [Longa 6 - Orbital Ruin](Longa%206%20-%20Orbital%20Ruin.md)
+- Space Station
+   - 
+- Tags
+   - Heavy Industry
+   - Megacorps
+

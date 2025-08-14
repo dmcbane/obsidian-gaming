@@ -1,0 +1,1 @@
+Scientist on [Oodnadatta 7 - Space Station](Oodnadatta%207%20-%20Space%20Station.md) maintaining the hydroponics on the station even thought it is not his specialty. He remains on the station only because he can\'t get anyone to come transport him off.

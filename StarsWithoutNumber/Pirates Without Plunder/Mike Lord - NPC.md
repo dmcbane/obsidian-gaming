@@ -1,0 +1,1 @@
+ Junior Engineer on the [Oodnadatta 7 - Space Station](Oodnadatta%207%20-%20Space%20Station.md),  he is desperately trying to keep the station running, but is in way over his head. [Sal](Salizar%20Sal%20Maroni%20-%20PC.md) plans to teach him a bit and to recruit him to be the crew\'s main liaison to the station staff.

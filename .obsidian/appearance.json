@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Obsidian gruvbox",
+  "accentColor": "#3a5488",
+  "interfaceFontFamily": "Segoe UI,DejaVu Sans,Lato",
+  "textFontFamily": "OpenDyslexic Nerd Font,Segoe Print,DejaVu Serif,Aptos",
+  "monospaceFontFamily": "OpenDyslexicM Nerd Font Mono,Source Code Pro,SpaceMono Nerd Font,Aptos Mono",
+  "theme": "moonstone",
+  "baseFontSizeAction": true,
+  "baseFontSize": 24
+}

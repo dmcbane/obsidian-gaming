@@ -183,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,

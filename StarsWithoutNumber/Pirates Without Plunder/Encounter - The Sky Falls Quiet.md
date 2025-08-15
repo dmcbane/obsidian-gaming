@@ -11,15 +11,15 @@
 
 ## Opening Situation
 
-The team has successfully delivered the rescued slaves to a makeshift refugee camp set up by off-world researchers on one of the larger atoll platforms. The amphibious native Ankanju Ratri people have cautiously emerged from their underwater cave networks to assist with the humanitarian effort, using their dual respiratory systems to ferry supplies between the surface platforms and the air-filled caverns below where the most vulnerable refugees are being sheltered.
+The team has successfully delivered the rescued slaves back to their home planet, dropping them off on one of the larger atolls as identified by **Idowu Young**. The amphibious native [Ankanju Ratri](Ankanju%20Ratri%20-%20Planet.md) people have cautiously emerged from their underwater cave networks to welcome their neighbors home, using their dual respiratory systems to ferry victims between the surface and the air-filled caverns below where most are sheltered.
 
-A small team of xenobiologists and marine ecologists tend to the refugees while studying the remarkable aquatic adaptations of their hosts. The Ankanju Ratri, with their webbed digits and bioluminescent communication patterns, have been invaluable in establishing secure underwater routes between the surface installations and the deep cave sanctuaries.
+A small team of xenobiologists and marine ecologists have been studying the remarkable aquatic adaptations of their hosts. The Ankanju Ratri, with their webbed digits and bioluminescent communication patterns, have been invaluable in establishing secure underwater routes between the surface and the deep cave sanctuaries.
 
 As the Aurora Parallax crew prepares to depart, the sky suddenly fills with descending ships. Three vessels drop from high altitude, broadcasting humanitarian credentials from the "Union of Arc Reconstruction Corps" - but the Aurora Parallax crew recognizes the ship configurations. The Ankanju Ratri immediately sense danger, their skin patterns flashing urgent warnings as they begin diving toward the cave entrances.
 
 **Then the jamming begins.**
 
-The researchers' communications equipment cuts out. Their portable sensor array vanishes in a silent explosion. Magnetic tethers drop from the ships, and armed figures begin rappelling toward the research stations and simple dock platforms below.
+The researchers' communications equipment cuts out. Their portable sensor array vanishes in a silent explosion. Magnetic tethers drop from the ships, and armed figures begin rappelling toward the atoll surface.
 
 *"This is Nora Barker of Flee for Freedom emergency response. We're here to evacuate remaining at-risk populations. Please clear the landing zones immediately."*
 

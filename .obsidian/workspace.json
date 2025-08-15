@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "70c01c93d0f0a967",
+        "id": "dfd6d714cb8d7996",
         "type": "tabs",
         "children": [
           {
-            "id": "654018d1acf41829",
+            "id": "b8eb3ca5378784b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StarsWithoutNumber/Pirates Without Plunder/Nawzira - Planet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nawzira - Planet"
+              "title": "New tab"
             }
           }
         ]
@@ -173,16 +159,28 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "18da0efb6fc14e24",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "gemini-scribe:Open Gemini Chat": false,
+      "gemini-scribe:Open Agent Mode": false,
       "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
@@ -192,24 +190,29 @@
       "zk-prefixer:Create new unique note": false,
       "templates:Insert template": false,
       "publish:Publish changes...": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "chat-with-bard:New Gemini Chat": false,
-      "obsidian-importer:Open Importer": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "654018d1acf41829",
+  "active": "b8eb3ca5378784b4",
   "lastOpenFiles": [
+    "StarsWithoutNumber/Pirates Without Plunder/M.V. Shadow Strike - Fighter.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Axellakis - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Chekalin 9 - Research Base.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Crew - Dark Avenger.md",
+    "StarsWithoutNumber/Pirates Without Plunder/crew-billets.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Ditriya Puna - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Erginus - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Melis - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Zeri - Moon.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Prochoo - Moon.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Nawzira - Planet.md",
     "StarsWithoutNumber/Pirates Without Plunder/Calia - System.md",
     "StarsWithoutNumber/Pirates Without Plunder/Campaign Analysis - Location Improvements.md",
     "StarsWithoutNumber/Pirates Without Plunder/Encounter - Not Even the Deeps.md",
     "StarsWithoutNumber/Pirates Without Plunder/Cross Parsec Corporation - Enhanced Operations.md",
     "StarsWithoutNumber/Pirates Without Plunder/Elo Vara - Exchange Operative.md",
     "StarsWithoutNumber/Pirates Without Plunder/Encounter - Blacksite Burn.md",
-    "StarsWithoutNumber/Pirates Without Plunder/M.V. Shadow Strike - Fighter.md",
     "StarsWithoutNumber/Pirates Without Plunder/M.V. Void Talon - Fighter.md",
     "StarsWithoutNumber/Pirates Without Plunder/M.V. Reckoners Hook - Heavy Tug.md",
     "StarsWithoutNumber/Pirates Without Plunder/Carrion Cloak Operations - Organization.md",
@@ -219,19 +222,9 @@
     "StarsWithoutNumber/Pirates Without Plunder/Multani Research Group - Organization.md",
     "StarsWithoutNumber/Pirates Without Plunder/Captain Vex Korvain - NPC.md",
     "StarsWithoutNumber/Pirates Without Plunder/Pirates Without Plunder Session 019.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Encounter - The Sky Falls Quiet.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Ankanju Ratri - Planet.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Monterv - System.md",
-    "ShadowRun/Session 20241019.md",
-    "Untitled.md",
     "Untitled",
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",
-    "broken links output.md",
-    "StarsWithoutNumber/rule books/Suns Of Gold.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Pirates Without Plunder Session 018.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Pirates Without Plunder Session 017.md",
-    "StarsWithoutNumber/Pirates Without Plunder/flash light.md",
     "StarsWithoutNumber/Pirates Without Plunder/Encounter - Blacksite Burn (attachments)/Pasted image 20250724234023.png",
     "StarsWithoutNumber/Pirates Without Plunder/Encounter - Blacksite Burn (attachments)",
     "StarsWithoutNumber/Custom World Tags",

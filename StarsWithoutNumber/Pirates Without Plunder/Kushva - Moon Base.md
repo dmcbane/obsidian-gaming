@@ -1,14 +1,6 @@
----
-title: Kushva - Moon Base
-updated: 2024-09-09 17:55:21Z
-created: 2024-09-09 17:54:05Z
-tags:
-  - base
-  - moon
-  - pwp
----
-
 ## Kushva &ndash; Moon Base
+
+#base #moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moonBase/Y2mKe4MeB4Z7Np9AuPTs)
 

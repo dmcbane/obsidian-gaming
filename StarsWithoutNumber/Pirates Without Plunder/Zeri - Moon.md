@@ -1,13 +1,6 @@
----
-title: Zeri - Moon
-updated: 2024-09-07 01:32:48Z
-created: 2024-09-07 01:31:27Z
-tags:
-  - moon
-  - pwp
----
-
 ## Zeri &ndash; Moon
+
+#moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moon/IIM8VDByYq9I3mSqdlKE)
 

@@ -1,14 +1,6 @@
----
-title: Luzin Mine - Moon Base
-updated: 2024-09-09 20:44:17Z
-created: 2024-09-09 20:43:25Z
-tags:
-  - base
-  - moon
-  - pwp
----
-
 ## Luzin Mine &ndash; Moon Base
+
+#base #moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moonBase/DTyXvUJfgY1gPL3tOsrh)
 

@@ -1,13 +1,6 @@
----
-title: Prochoo - Moon
-updated: 2024-09-09 19:56:25Z
-created: 2024-09-09 19:53:28Z
-tags:
-  - moon
-  - pwp
----
-
 ## Prochoo &ndash; Moon
+
+#moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moon/kCFICUFxCKvWZASe3YOI)
 

@@ -1,14 +1,6 @@
----
-title: Harris Project - Moon Base
-updated: 2024-09-09 21:03:59Z
-created: 2024-09-09 21:03:10Z
-tags:
-  - base
-  - moon
-  - pwp
----
-
 ## Harris Project &ndash; Moon Base
+
+#base #moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moonBase/0IwiaY9srmkTPPISQQBk)
 

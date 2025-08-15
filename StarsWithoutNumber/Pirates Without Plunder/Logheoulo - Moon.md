@@ -1,13 +1,6 @@
----
-title: Logheoulo - Moon
-updated: 2024-09-28 03:57:00Z
-created: 2024-09-28 03:27:28Z
-tags:
-  - moon
-  - pwp
----
-
 ## Logheoulo &ndash; Moon
+
+#moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moon/c0516uSqW2eBHACHmVCz)
 

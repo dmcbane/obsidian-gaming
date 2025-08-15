@@ -1,13 +1,6 @@
----
-title: His - Moon
-updated: 2024-09-09 20:55:38Z
-created: 2024-09-09 20:52:53Z
-tags:
-  - moon
-  - pwp
----
-
 ## His &ndash; Moon
+
+#moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moon/hI2Vv6adGcJRhJ3ITIKz)
 

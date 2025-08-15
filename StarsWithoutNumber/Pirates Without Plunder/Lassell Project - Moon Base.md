@@ -1,14 +1,6 @@
----
-title: Lassell Project - Moon Base
-updated: 2024-09-08 00:29:00Z
-created: 2024-09-08 00:27:55Z
-tags:
-  - base
-  - moon
-  - pwp
----
-
 ## Lassell Project &ndash; Moon Base
+
+#base #moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moonBase/z4lWcYFT9H0hRRRvLCYQ)
 

@@ -1,14 +1,6 @@
----
-title: Podor Mine Project - Moon Base
-updated: 2024-09-09 18:00:45Z
-created: 2024-09-09 17:59:27Z
-tags:
-  - base
-  - moon
-  - pwp
----
-
 ## Podor Mine Project &ndash; Moon Base
+
+#base #moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moonBase/DlAQ9cVE4USrYMQSOz7x)
 

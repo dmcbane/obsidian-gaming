@@ -1,13 +1,6 @@
----
-title: Triacou - Moon
-updated: 2024-09-09 18:02:37Z
-created: 2024-09-09 17:58:10Z
-tags:
-  - moon
-  - pwp
----
-
 ## Triacou &ndash; Moon
+
+#moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moon/6uTbaEy6RdVZuRSxye5U)
 

@@ -1,14 +1,6 @@
----
-title: Iarphem - Moon Base
-updated: 2024-09-07 01:30:13Z
-created: 2024-09-07 01:28:49Z
-tags:
-  - base
-  - moon
-  - pwp
----
-
 ## Kagul Project &ndash; Moon Base
+
+#base #moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moonBase/RrMOgO4wCwApVt1k4rsI)
 

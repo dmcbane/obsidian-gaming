@@ -1,30 +1,23 @@
----
-title: Pipouloul - Planet
-updated: 2024-09-09 21:30:17Z
-created: 2024-09-09 20:35:27Z
-tags:
-  - planet
-  - pwp
----
-
 ## Pipouloul &ndash; Planet
+
+#planet #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/ecqNNUXhEhk0D4u3WDPB)
 
-- Atmosphere: [Breatheable mix](../../../Gaming/StarsWithoutNumber/Breatheable%20Mix.md)
-- Temperature: [Variable Temperature](../../../Gaming/StarsWithoutNumber/Variable%20Temperature.md) [Temperate](../../../Gaming/StarsWithoutNumber/Temperate.md) to [Warm](../../../Gaming/StarsWithoutNumber/Warm.md)
-- Biosphere: [Microbial Life](../../../Gaming/StarsWithoutNumber/Microbial%20Life.md)
-- Population: Several [Millions](../../../Gaming/StarsWithoutNumber/Millions.md)
-- Tech Level: [TL4](../../../Gaming/StarsWithoutNumber/TL4.md)
-- System: [Monterv - System](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Monterv%20-%20System.md)
+- Atmosphere: [Breatheable mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Breatheable%20Mix)
+- Temperature: [Variable Temperature](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Variable%20Temperature.md) [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Temperate) to [Warm](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Warm)
+- Biosphere: [Microbial Life](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Microbial%20Life)
+- Population: Several [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Millions)
+- Tech Level: [TL4](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#TL4)
+- System: [Monterv - System](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Monterv%20-%20System)
 - Gas Giant Mines
-	- [Khanpur Mine - Gas Giant Mine](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Khanpur%20Mine%20-%20Gas%20Giant%20Mine.md)
+	- [Khanpur Mine - Gas Giant Mine](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Khanpur%20Mine%20-%20Gas%20Giant%20Mine)
 - Moons
-   - [Santama Miti VII - Moon](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Santama%20Miti%20VII%20-%20Moon.md)
+   - [Santama Miti VII - Moon](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Santama%20Miti%20VII%20-%20Moon)
 - Space Station
-   - [Poona - Space Station](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Poona%20-%20Space%20Station.md)
-   - [Sfax 2 - Space Station](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Sfax%202%20-%20Space%20Station.md)
+   - [Poona - Space Station](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Poona%20-%20Space%20Station)
+   - [Sfax 2 - Space Station](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Sfax%202%20-%20Space%20Station)
 - Tags
-   - [Alien Ruins](../../../Gaming/StarsWithoutNumber/Alien%20Ruins.md)
-   - [Doomed World](../../../Gaming/StarsWithoutNumber/Doomed%20World.md)
+   - [Alien Ruins](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Alien%20Ruins)
+   - [Doomed World](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Doomed%20World)
 

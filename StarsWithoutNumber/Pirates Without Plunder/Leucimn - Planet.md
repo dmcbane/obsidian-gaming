@@ -1,13 +1,6 @@
----
-title: Leucimn - Planet
-updated: 2024-09-08 01:04:07Z
-created: 2024-09-08 00:10:32Z
-tags:
-  - planet
-  - pwp
----
-
 ## Leucimn &ndash; Planet
+
+#planet #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/n6v0yxDf2cnzRfNqGEp7)
 

@@ -1,27 +1,20 @@
----
-title: Teleerre - Planet
-updated: 2024-09-09 18:05:44Z
-created: 2024-09-09 17:49:09Z
-tags:
-  - planet
-  - pwp
----
-
 ## Teleerre &ndash; Planet
+
+#planet #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/dBpwxyXyohM4fSdbm9BW)
 
-- Atmosphere: [Breatheable mix](../../../Gaming/StarsWithoutNumber/Breatheable%20Mix.md)
-- Temperature: [Variable Temperature](../../../Gaming/StarsWithoutNumber/Variable%20Temperature.md) [Cold](../../../Gaming/StarsWithoutNumber/Cold.md) to [Temperate](../../../Gaming/StarsWithoutNumber/Temperate.md)
-- Biosphere: [Human-miscible](../../../Gaming/StarsWithoutNumber/Human-Miscible.md)
-- Population: Hundreds of [Millions](../../../Gaming/StarsWithoutNumber/Millions.md)
-- Tech Level: [TL4](../../../Gaming/StarsWithoutNumber/TL4.md)
-- System: [Phalcas - System](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Phalcas%20-%20System.md)
+- Atmosphere: [Breatheable mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Breatheable%20Mix)
+- Temperature: [Variable Temperature](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Variable%20Temperature.md) [Cold](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Cold) to [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Temperate)
+- Biosphere: [Human-miscible](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Human-Miscible)
+- Population: Hundreds of [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Millions)
+- Tech Level: [TL4](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#TL4)
+- System: [Phalcas - System](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Phalcas%20-%20System)
 - Moons
-   - [Astra - Moon](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Astra%20-%20Moon.md)
-   - [Triacou - Moon](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Triacou%20-%20Moon.md)
+   - [Astra - Moon](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Astra%20-%20Moon)
+   - [Triacou - Moon](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Triacou%20-%20Moon)
 - Refueling Stations
-   - [Xui - Refueling Station](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Xui%20-%20Refueling%20Station.md)
+   - [Xui - Refueling Station](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Xui%20-%20Refueling%20Station)
 - Tags
-   - [Forbidden Tech](../../../Gaming/StarsWithoutNumber/Forbidden%20Tech.md)
-   - [Major Spaceyard](../../../Gaming/StarsWithoutNumber/Major%20Spaceyard.md)
+   - [Forbidden Tech](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Forbidden%20Tech)
+   - [Major Spaceyard](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Major%20Spaceyard)

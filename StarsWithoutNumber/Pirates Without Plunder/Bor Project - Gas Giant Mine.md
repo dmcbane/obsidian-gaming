@@ -1,14 +1,6 @@
----
-title: Bor Project - Gas Giant Mine
-updated: 2024-09-08 17:17:16Z
-created: 2024-09-08 17:15:22Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Bor Project &ndash; Gas Giant Mine
+
+#gas_giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/eCFlm2t1diDUjuNt7VIT)
 

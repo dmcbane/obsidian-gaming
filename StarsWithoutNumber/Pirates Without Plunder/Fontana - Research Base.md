@@ -1,14 +1,6 @@
----
-title: Fontana - Research Base
-updated: 2024-09-09 21:25:55Z
-created: 2024-09-09 21:24:36Z
-tags:
-  - base
-  - pwp
-  - research
----
-
 ## Fontana &ndash; Research Base
+
+#base #pwp #research
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/researchBase/OaicihfVjQDrCdPdSWTq)
 

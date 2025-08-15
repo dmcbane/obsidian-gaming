@@ -1,14 +1,6 @@
----
-title: Echt - Research Base
-updated: 2024-09-28 04:02:15Z
-created: 2024-09-28 03:59:57Z
-tags:
-  - base
-  - pwp
-  - research
----
-
 ## Echt &ndash; Research Base
+
+#base #pwp #research
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/researchBase/G3UPACamEGeYW4ZKnKFl)
 

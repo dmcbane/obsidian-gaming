@@ -1,14 +1,6 @@
----
-title: Bunnik Mine Project - Moon Base
-updated: 2024-09-09 19:56:03Z
-created: 2024-09-09 19:54:45Z
-tags:
-  - base
-  - moon
-  - pwp
----
-
 ## Bunnik Mine Project &ndash; Moon Base
+
+#base #moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moonBase/a0dHcIG8b9CdH1KFBg0z)
 

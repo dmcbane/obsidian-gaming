@@ -1,20 +1,8 @@
----
-title: crew-billets
-updated: 2024-08-31 22:55:19Z
-created: 2024-08-31 22:55:02Z
-latitude: 32.85461970
-longitude: -79.97481030
-altitude: 0.0000
-tags:
-  - concepts
-  - pwp
----
+# COMMAND DIVISION
 
-COMMAND DIVISION
-================
+#concepts #pwp
 
-Command Group
--------------
+## Command Group
 
   Position             Rank   Speciality
   -------------------- ------ ------------
@@ -24,16 +12,14 @@ Command Group
   Mission Specialist   CPO    
   Command Chief        MCPO   
 
-Command Administration
-----------------------
+## Command Administration
 
   Position                        Rank   Speciality
   ------------------------------- ------ ----------------
   Executive Yeoman                CPO    Administration
   Executive Yeoman\'s Assistant   CN     Administration
 
-Flight Control
---------------
+# Flight Control
 
   Position                       Rank   Speciality
   ------------------------------ ------ ------------
@@ -41,8 +27,7 @@ Flight Control
   Assistant Flight Controller    PO2    
   Assistant Flight Controller    PO2    
 
-Flight Deck Control
--------------------
+# Flight Deck Control
 
   Position                       Rank   Speciality
   ------------------------------ ------ ------------
@@ -52,8 +37,7 @@ Flight Deck Control
   Assistant Shuttle Controller   PO3    
   Assistant Shuttle Controller   PO3    
 
-Support Craft Wing
-------------------
+# Support Craft Wing
 
   Position                    Rank    Speciality
   --------------------------- ------- ------------
@@ -67,8 +51,7 @@ Support Craft Wing
   Support Craft Pilot         PO2     
   Support Craft Pilot         PO2     
 
-Away Department
----------------
+# Away Department
 
   Position                           Rank   Speciality
   ---------------------------------- ------ ------------
@@ -78,10 +61,9 @@ Away Department
   Away-Team Specialist               PO3    
   EVA Specialist                     PO1    
 
-CROSS-DIVISIONAL STAFF
-----------------------
+# CROSS-DIVISIONAL STAFF
 
-### Flight Systems Technical Department
+## Flight Systems Technical Department
 
   Position                              Rank   Speciality
   ------------------------------------- ------ ------------
@@ -90,7 +72,7 @@ CROSS-DIVISIONAL STAFF
   Flight Systems Technician             CN     
   Flight Systems Technician             CN     
 
-### Flight Deck Technical Department
+## Flight Deck Technical Department
 
   Position                         Rank   Speciality
   -------------------------------- ------ ------------
@@ -105,8 +87,7 @@ CROSS-DIVISIONAL STAFF
   Shuttle Systems Technician       CN     
   Shuttle Systems Technician       CN     
 
-Command Division Watch Stations
--------------------------------
+## Command Division Watch Stations
 
   -----------------------------
   Officer of the Deck
@@ -115,11 +96,9 @@ Command Division Watch Stations
   Launch & Retrieval Director
   -----------------------------
 
-TACTICAL & SECURITY DIVISION
-============================
+# TACTICAL & SECURITY DIVISION
 
-Combat Systems Control
-----------------------
+## Combat Systems Control
 
   Position                     Rank     Speciality
   ---------------------------- -------- ------------
@@ -127,8 +106,7 @@ Combat Systems Control
   Assistant Tactical Officer   Ens      
   Assistant Tactical Officer   PO2      
 
-Ordnance Control
-----------------
+## Ordnance Control
 
   Position                          Rank   Speciality
   --------------------------------- ------ ------------
@@ -139,8 +117,7 @@ Ordnance Control
   Ordnance Specialist               CN     
   Ordnance Specialist               CN     
 
-Ship Security
--------------
+## Ship Security
 
   Position                 Rank   Speciality
   ------------------------ ------ ------------
@@ -158,18 +135,16 @@ Ship Security
   Security Officer         CN     
   Security Officer         CN     
 
-Security Services
------------------
+## Security Services
 
   Position           Rank   Speciality
   ------------------ ------ ------------
   Master-At-Arms     CPO    
   Physical Trainer   PO2    
 
-CROSS-DIVISIONAL STAFF
-----------------------
+# CROSS-DIVISIONAL STAFF
 
-### Ordnance Systems Technical Department
+## Ordnance Systems Technical Department
 
   Position                      Rank   Speciality
   ----------------------------- ------ ------------
@@ -177,7 +152,7 @@ CROSS-DIVISIONAL STAFF
   Ordnance Systems Technician   CN     
   Ordnance Systems Technician   CN     
 
-### Combat Systems Technical Department
+## Combat Systems Technical Department
 
   Position                    Rank   Speciality
   --------------------------- ------ ------------
@@ -187,8 +162,7 @@ CROSS-DIVISIONAL STAFF
   Combat Systems Technetium   CN     
   Combat Systems Technetium   CN     
 
-Tactical & Security Division Watch Stations
--------------------------------------------
+## Tactical & Security Division Watch Stations
 
   -------------------------------
   Tactical Control Duty Officer
@@ -198,11 +172,10 @@ Tactical & Security Division Watch Stations
   Brig Duty Officer
   -------------------------------
 
-SCIENCE DIVISION
-================
+# SCIENCE DIVISION
 
-Science Operations Group
-------------------------
+## Science Operations Group
+
 
   Position                       Rank     Speciality
   ------------------------------ -------- --------------------------
@@ -216,8 +189,7 @@ Science Operations Group
   Faculty Liaison Officer        CPO      Human Resources
   Science Division Yeoman        CN       Administration
 
-James Cook Research Institute USS Endeavour
--------------------------------------------
+## James Cook Research Institute USS Endeavour
 
   Position                Rank   Speciality
   ----------------------- ------ ---------------------------
@@ -226,8 +198,7 @@ James Cook Research Institute USS Endeavour
   Faculty Administrator   SciS   Administration
   Faculty Administrator   SciS   Administration
 
-Anthropological Sciences
-------------------------
+## Anthropological Sciences
 
   Position               Rank   Speciality
   ---------------------- ------ --------------------------
@@ -242,8 +213,7 @@ Anthropological Sciences
   Fellow               Sci4   Comparative Linguistics
   Research Assistant   SciS   Structure Spatial Analysis
 
-Astronomical Sciences
----------------------
+## Astronomical Sciences
 
   Position                        Rank   Speciality
   ------------------------------- ------ -------------------------
@@ -275,8 +245,7 @@ Astronomical Sciences
   Fellow               Sci4   Spatial Mapping
   Research Assistant   SciS   Astrofeature Analysis
 
-Biological Sciences
--------------------
+## Biological Sciences
 
   Position                      Rank   Speciality
   ----------------------------- ------ ------------
@@ -318,8 +287,7 @@ Biological Sciences
   Research Assistant   Sci5   Exogenetic Biology
   Research Assistant   Sci5   Nanoengineering
 
-Planetary Sciences
-------------------
+## Planetary Sciences
 
 ### Planetary Sciences
 
@@ -361,8 +329,7 @@ Planetary Sciences
   ---------- ------ -------------------
   Fellow     Sci4   Isotope Hydrology
 
-Physical Sciences
------------------
+## Physical Sciences
 
   Position                    Rank   Speciality
   --------------------------- ------ -------------------
@@ -399,8 +366,7 @@ Physical Sciences
   Research Assistant   Sci5   Quantum Field Theory
   Research Assistant   Sci5   Subspace Topology
 
-Research and Analysis
----------------------
+## Research and Analysis
 
   Position                       Rank   Speciality
   ------------------------------ ------ --------------------------
@@ -412,8 +378,7 @@ Research and Analysis
   Research Assistant             Sci5   Complex Systems Analysis
   Research Assistant             Sci5   Complex Systems Analysis
 
-CROSS-DIVISIONAL STAFF
-----------------------
+## CROSS-DIVISIONAL STAFF
 
 ### Science Systems Technical Department
 
@@ -427,19 +392,16 @@ CROSS-DIVISIONAL STAFF
   Science Laboratory Technician   CN     Laboratory Systems
   Science Laboratory Technician   CN     Laboratory Systems
 
-Science Division Watch Stations
--------------------------------
+## Science Division Watch Stations
 
   ------------------------------
   Science Station Duty Officer
   Science Laboratory Watchman
   ------------------------------
 
-MEDICAL DIVISION
-================
+# MEDICAL DIVISION
 
-Physician Group
----------------
+## Physician Group
 
   Position                Rank     Speciality
   ----------------------- -------- -----------------
@@ -449,8 +411,7 @@ Physician Group
   Junior Physician        Lt       JG Primary Care
   Junior Physician        Lt       Neurology
 
-Nurses Department
------------------
+## Nurses Department
 
   Position             Rank   Speciality
   -------------------- ------ ---------------
@@ -462,8 +423,7 @@ Nurses Department
   Nursing Student      CN     Surgery
   Nursing Student      CN     Primary Care
 
-Medical Support
----------------
+## Medical Support
 
   Position            Rank   Speciality
   ------------------- ------ ---------------
@@ -471,8 +431,7 @@ Medical Support
   Medic               CN     Critical Care
   Medic               CN     Critical Care
 
-Medical Services
-----------------
+## Medical Services
 
   Position                Rank    Speciality
   ----------------------- ------- ----------------
@@ -483,8 +442,7 @@ Medical Services
   Medical Assistant       CN      Imaging
   Medical Assistant       CN      Primary Care
 
-Medical Laboratory
-------------------
+## Medical Laboratory
 
   Position                       Rank   Speciality
   ------------------------------ ------ --------------
@@ -492,8 +450,7 @@ Medical Laboratory
   Medical Laboratory Assistant   CN     Pathology
   Medical Laboratory Assistant   CN     Biochemistry
 
-CROSS-DIVISIONAL STAFF
-----------------------
+## CROSS-DIVISIONAL STAFF
 
 ### Medical Systems Technical Department
 
@@ -505,8 +462,7 @@ CROSS-DIVISIONAL STAFF
   Medical Systems Technician      CN     Surgery Systems
   Medical Laboratory Technician   CN     Laboratory Systems
 
-Medical Division Watch Stations
--------------------------------
+## Medical Division Watch Stations
 
   -----------------------------
   Sickbay Duty Officer
@@ -515,11 +471,9 @@ Medical Division Watch Stations
   Medical Laboratory Watchman
   -----------------------------
 
-ENGINEERING DIVISION
-====================
+# ENGINEERING DIVISION
 
-Engineering Division Command Group
-----------------------------------
+## Engineering Division Command Group
 
   Position                   Rank     Speciality
   -------------------------- -------- ----------------
@@ -527,8 +481,7 @@ Engineering Division Command Group
   Assistant Chief Engineer   Lt       Damage Control
   Assistant Chief Engineer   Lt JG    Damage Control
 
-Warp Systems Technical Department
----------------------------------
+## Warp Systems Technical Department
 
   Position                  Rank   Speciality
   ------------------------- ------ ------------
@@ -540,8 +493,7 @@ Warp Systems Technical Department
   Warp Systems Technician   CN     
   Warp Systems Technician   CN     
 
-Propulsion Systems Technical Department
----------------------------------------
+## Propulsion Systems Technical Department
 
   Position                        Rank   Speciality
   ------------------------------- ------ ------------
@@ -551,8 +503,7 @@ Propulsion Systems Technical Department
   Propulsion Systems Technician   CN     
   Propulsion Systems Technician   CN     
 
-Electrical Systems Technical Department
----------------------------------------
+## Electrical Systems Technical Department
 
   Position                        Rank   Speciality
   ------------------------------- ------ ------------
@@ -560,8 +511,7 @@ Electrical Systems Technical Department
   Electrical Systems Technician   CN     
   Electrical Systems Technician   CN     
 
-Life Support Systems Technical Department
------------------------------------------
+## Life Support Systems Technical Department
 
   Position                          Rank   Speciality
   --------------------------------- ------ ------------
@@ -569,8 +519,7 @@ Life Support Systems Technical Department
   Life Support Systems Technician   CN     
   Life Support Systems Technician   CN     
 
-Computer Systems Technical Department
--------------------------------------
+## Computer Systems Technical Department
 
   Position                      Rank   Speciality
   ----------------------------- ------ ------------
@@ -578,8 +527,7 @@ Computer Systems Technical Department
   Computer Systems Technician   CN     
   Computer Systems Technician   CN     
 
-Communications Systems Technical Department
--------------------------------------------
+## Communications Systems Technical Department
 
   Position                            Rank   Speciality
   ----------------------------------- ------ ------------
@@ -587,8 +535,8 @@ Communications Systems Technical Department
   Communications Systems Technician   CN     
   Communications Systems Technician   CN     
 
-Engineering Support Services
-----------------------------
+## Engineering Support Services
+
 
   Position                             Rank   Speciality
   ------------------------------------ ------ ------------
@@ -601,8 +549,7 @@ Engineering Support Services
   Systems Configuration Specialist     PO2    
   Systems Management Specialist        PO2    
 
-Maintenance Management Department
----------------------------------
+## Maintenance Management Department
 
   Position                             Rank   Speciality
   ------------------------------------ ------ ----------------
@@ -613,8 +560,7 @@ Maintenance Management Department
   Quality Control Officer              LtJG   
   Quality Control Specialist           PO2    
 
-Engineering Division Watch Stations
------------------------------------
+## Engineering Division Watch Stations
 
   -------------------------------
   Main Engineering Duty Officer
@@ -626,11 +572,9 @@ Engineering Division Watch Stations
   Damage Control Team D Leader
   -------------------------------
 
-OPERATIONS DEVISION
-===================
+# OPERATIONS DEVISION
 
-Operations Division Command Group
----------------------------------
+## Operations Division Command Group
 
   Position                     Rank     Speciality
   ---------------------------- -------- ------------
@@ -639,8 +583,7 @@ Operations Division Command Group
   Operations Specialist        Lt JG    
   Operations Division Yeoman   CN       
 
-Communications Department
--------------------------
+## Communications Department
 
   Position                       Rank   Speciality
   ------------------------------ ------ ------------
@@ -648,8 +591,7 @@ Communications Department
   Communication Specialist       P01    
   Communication Specialist       P01    
 
-Sensors Team
-------------
+## Sensors Team
 
   Position             Rank   Speciality
   -------------------- ------ ------------
@@ -657,8 +599,7 @@ Sensors Team
   Sensors Specialist   P01    
   Sensors Specialist   P01    
 
-Navigation Department
----------------------
+## Navigation Department
 
   Position                   Rank   Speciality
   -------------------------- ------ ------------
@@ -666,8 +607,7 @@ Navigation Department
   Navigation Specialist      P01    
   Navigation Specialist      PO1    
 
-Flight Deck Operations
-----------------------
+## Flight Deck Operations
 
   Position                                       Rank   Speciality
   ---------------------------------------------- ------ ------------
@@ -680,15 +620,13 @@ Flight Deck Operations
   Shuttle Flight Operations Specialist           PO2    
   Shuttle Flight Operations Specialist           P01    
 
-Chaplaincy
-----------
+## Chaplaincy
 
   Position   Rank       Speciality
   ---------- ---------- ------------
   Padre      Chaplain   
 
-Supply Department
------------------
+## Supply Department
 
   Position            Rank   Speciality
   ------------------- ------ ------------
@@ -698,22 +636,19 @@ Supply Department
   Cargo Specialist    CN     
   Cargo Specialist    CN     
 
-Recreation Department
----------------------
+## Recreation Department
 
   Position              Rank    Speciality
   --------------------- ------- ------------
   Recreations Officer   LT JG   
 
-Safety Department
------------------
+## Safety Department
 
   Position              Rank   Speciality
   --------------------- ------ ------------
   Ship Safety Officer   Lt     
 
-Training Department
--------------------
+## Training Department
 
   Position       Rank   Speciality
   -------------- ------ ------------
@@ -726,8 +661,8 @@ Training Department
   Trainer        P01    
   Trainer        P01    
 
-Ships Administration Department
--------------------------------
+## Ships Administration Department
+
 
   Position                     Rank   Speciality
   ---------------------------- ------ ------------
@@ -738,8 +673,7 @@ Ships Administration Department
   Yeoman                       CN     
   Yeoman                       CN     
 
-Ship Catering
--------------
+## Ship Catering
 
   Position              Rank   Speciality
   --------------------- ------ ------------
@@ -748,8 +682,7 @@ Ship Catering
   Culinary Specialist   CN     
   Culinary Specialist   CN     
 
-Operations Division Watch Stations
-----------------------------------
+## Operations Division Watch Stations
 
   --------------------------
   Ops

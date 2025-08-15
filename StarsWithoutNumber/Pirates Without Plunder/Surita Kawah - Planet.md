@@ -1,13 +1,6 @@
----
-title: Surita Kawah - Planet
-updated: 2024-09-07 16:44:07Z
-created: 2024-09-07 01:00:18Z
-tags:
-  - planet
-  - pwp
----
-
 ## Surita Kawah &ndash; Planet
+
+#planet #pwp
 
 Surita Kawah (Heavy Industry/Megacorps) is a dreary world of massive, planet-spanning manufacturing operations, sad tenement housing and polluted strip mines. It's one major urban center, Neo Eden, houses about 3 million inhabitants, largely the bureaucrats and menial laborers who form the cogs in the machine. Neo Eden always seems to be shrouded in rain and “fog,” or more accurately, smog, which is the result of a century of over-exploitation of the natural world.
 

@@ -1,13 +1,6 @@
----
-title: Bled 7 - Orbital Ruin
-updated: 2024-09-09 19:10:22Z
-created: 2024-09-09 19:08:47Z
-tags:
-  - orbital_ruin
-  - pwp
----
-
 ## Bled 7 &ndash; Orbital Ruin
+
+#orbital_ruin #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/orbitalRuin/mKfnFlAP8J8xzGOIoZ8m)
 

@@ -1,23 +1,16 @@
----
-title: Geusbe - Planet
-updated: 2024-09-09 20:00:44Z
-created: 2024-09-09 19:32:43Z
-tags:
-  - planet
-  - pwp
----
-
 ## Geusbe &ndash; Planet
+
+#planet #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/KchnOTd5CQ1F3HuHTQMm)
 
-- Atmosphere: [Invasive](../../../Gaming/StarsWithoutNumber/Invasive.md)
-- Temperature: [Variable Temperature](../../../Gaming/StarsWithoutNumber/Variable%20Temperature.md) [Cold](../../../Gaming/StarsWithoutNumber/Cold.md) to [Temperate](../../../Gaming/StarsWithoutNumber/Temperate.md)
-- Biosphere: [Human-miscible](../../../Gaming/StarsWithoutNumber/Human-Miscible.md)
-- Population: Several [Millions](../../../Gaming/StarsWithoutNumber/Millions.md)
-- Tech Level: [TL4](../../../Gaming/StarsWithoutNumber/TL4.md)
-- System: [Soonoror - System](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Soonoror%20-%20System.md)
+- Atmosphere: [Invasive](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Invasive)
+- Temperature: [Variable Temperature](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Variable%20Temperature.md) [Cold](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Cold) to [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Temperate)
+- Biosphere: [Human-miscible](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Human-Miscible)
+- Population: Several [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Millions)
+- Tech Level: [TL4](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#TL4)
+- System: [Soonoror - System](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Soonoror%20-%20System)
 - Tags
-   - [Revolutionaries](../../../Gaming/StarsWithoutNumber/Revolutionaries.md),
-   - [Zombies](../../../Gaming/StarsWithoutNumber/Zombies.md)
+   - [Revolutionaries](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Revolutionaries),
+   - [Zombies](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Zombies)
 

@@ -1,14 +1,6 @@
----
-title: Chom Mine Project - Gas Giant Mine
-updated: 2024-09-07 22:22:33Z
-created: 2024-09-07 22:19:32Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Chom Mine Project &ndash; Gas Giant Mine
+
+#gas_giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/XjYExlUdKeLPkBhyp9xO)
 

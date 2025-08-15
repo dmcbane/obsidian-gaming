@@ -5,17 +5,17 @@
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/oczL1nLgnzsPhn3qx7rE)
 
-- Atmosphere: [Breatheable mix](../../../Gaming/StarsWithoutNumber/Breatheable%20Mix.md)
-- Temperature: [Warm](../../../Gaming/StarsWithoutNumber/Warm.md)
-- Biosphere: [Hybrid Biosphere](../../../Gaming/StarsWithoutNumber/Hybrid%20Biosphere.md)
-- Population: [Fewer than a million inhabitants](../../../Gaming/StarsWithoutNumber/Fewer%20than%20a%20Million.md)
-- Tech Level: [TL1](../../../Gaming/StarsWithoutNumber/TL1.md)
-- System: [Monterv - System](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Monterv%20-%20System.md)
+- Atmosphere: [Breatheable mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Breatheable%20Mix)
+- Temperature: [Warm](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Warm)
+- Biosphere: [Hybrid Biosphere](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Hybrid%20Biosphere)
+- Population: [Fewer than a million inhabitants](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Fewer%20than%20a%20Million)
+- Tech Level: [TL1](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#TL1)
+- System: [Monterv - System](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Monterv%20-%20System)
 - Moons
-   - [His - Moon](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/His%20-%20Moon.md)
+   - [His - Moon](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/His%20-%20Moon)
 - Tags
-   - [Oceanic World](../../../Gaming/StarsWithoutNumber/Oceanic%20World.md)
-   - [Aquatic Adaptation](../../../Gaming/StarsWithoutNumber/Aquatic%20Adaptation.md)
+   - [Oceanic World](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Oceanic%20World)
+   - [Aquatic Adaptation](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Aquatic%20Adaptation)
 
 ## World Description
 

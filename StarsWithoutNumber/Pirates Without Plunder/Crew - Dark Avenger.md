@@ -1,15 +1,6 @@
----
-title: Crew - Dark Avenger
-updated: 2024-09-03 19:00:17Z
-created: 2024-08-31 17:57:30Z
-latitude: 32.85461970
-longitude: -79.97481030
-altitude: 0.0000
-tags:
-  - pwp
----
-
 ## Crew &ndash; [Dark Avenger](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Dark%20Avenger%20-%20Corvette.md)
+
+#pwp
 
 -   Captain &ndash; [Balder "Mad Eye" Bucker - NPC](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Balder%20Mad%20Eye%20Bucker%20-%20NPC.md)
 

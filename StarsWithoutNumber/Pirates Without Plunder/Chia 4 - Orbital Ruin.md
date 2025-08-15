@@ -1,13 +1,6 @@
----
-title: Chia 4 - Orbital Ruin
-updated: 2024-09-08 17:20:24Z
-created: 2024-09-08 17:19:08Z
-tags:
-  - orbital_ruin
-  - pwp
----
-
 ## Chia 4 &ndash; Orbital Ruin
+
+#orbital_ruin #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/orbitalRuin/iZ0qNEA5vD5yhFPvYZwj)
 

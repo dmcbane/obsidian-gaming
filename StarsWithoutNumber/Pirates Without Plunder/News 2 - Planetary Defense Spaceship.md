@@ -1,17 +1,6 @@
----
-title: News 2 - Planetary Defense Spaceship
-updated: 2024-09-01 15:03:03Z
-created: 2024-08-19 05:09:26Z
-latitude: 32.85461970
-longitude: -79.97481030
-altitude: 0.0000
-tags:
-  - news
-  - public
-  - pwp
----
-
 # News 2
+
+#news #public #pwp
 
 ## The Wait is Finally Over: Introducing the Planetary Defense Spaceship Revolutionizing Interstellar Security!
 

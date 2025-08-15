@@ -1,13 +1,6 @@
----
-title: Gastre 6 - Space Station
-updated: 2024-09-08 01:00:41Z
-created: 2024-09-08 00:59:37Z
-tags:
-  - pwp
-  - station
----
-
 ## Gastre 6 &ndash; Space Station
+
+#pwp #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/spaceStation/iL7Ek3jcenLu6HTGzv9P)
 

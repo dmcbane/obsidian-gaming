@@ -1,23 +1,16 @@
----
-title: Chagor - Planet
-updated: 2024-09-07 21:18:19Z
-created: 2024-09-07 20:54:39Z
-tags:
-  - planet
-  - pwp
----
-
 ## Chagor &ndash; Planet
+
+#planet #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/PI24u5wwBSfItk1nubAw)
 
-- Atmosphere: [Breatheable mix](../../../Gaming/StarsWithoutNumber/Breatheable%20Mix.md)
-- Temperature: [Variable Temperature](../../../Gaming/StarsWithoutNumber/Variable%20Temperature.md) [Cold](../../../Gaming/StarsWithoutNumber/Cold.md) to [Temperate](../../../Gaming/StarsWithoutNumber/Temperate.md)
-- Biosphere: [Human-miscible](../../../Gaming/StarsWithoutNumber/Human-Miscible.md)
-- Population: Several [Millions](../../../Gaming/StarsWithoutNumber/Millions.md)
-- Tech Level: [TL2](../../../Gaming/StarsWithoutNumber/TL2.md)
-- System: [Calia - System](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Calia%20-%20System.md)
+- Atmosphere: [Breatheable mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Breatheable%20Mix)
+- Temperature: [Variable Temperature](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Variable%20Temperature.md) [Cold](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Cold) to [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Temperate)
+- Biosphere: [Human-miscible](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Human-Miscible)
+- Population: Several [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Millions)
+- Tech Level: [TL2](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#TL2)
+- System: [Calia - System](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Calia%20-%20System)
 - Tags
-   - [Regional Hegemon](../../../Gaming/StarsWithoutNumber/Regional%20Hegemon.md)
-   - [Major Spaceyard](../../../Gaming/StarsWithoutNumber/Major%20Spaceyard.md)
+   - [Regional Hegemon](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Regional%20Hegemon)
+   - [Major Spaceyard](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Major%20Spaceyard)
 

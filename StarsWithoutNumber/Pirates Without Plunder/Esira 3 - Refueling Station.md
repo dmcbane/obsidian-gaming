@@ -1,14 +1,6 @@
----
-title: Esira 3 - Refueling Station
-updated: 2024-09-09 21:24:11Z
-created: 2024-09-09 21:22:53Z
-tags:
-  - pwp
-  - refueling
-  - station
----
-
 ## Esira 3 &ndash; Refueling Station
+
+#pwp #refueling #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/refuelingStation/y6GYX5qiR13gt8z7vs3I)
 

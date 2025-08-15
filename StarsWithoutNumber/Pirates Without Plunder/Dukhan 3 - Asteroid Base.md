@@ -1,14 +1,6 @@
----
-title: Dukhan 3 - Asteroid Base
-updated: 2024-09-09 18:24:11Z
-created: 2024-09-09 18:22:48Z
-tags:
-  - asteroid_belt
-  - base
-  - pwp
----
-
 ## Dukhan 3 &ndash; Asteroid Base
+
+#asteroid_belt #base #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/asteroidBase/OGtqyVIm5GKKJZ5jkm7f)
 

@@ -1,13 +1,6 @@
----
-title: Fatima - Planet
-updated: 2024-09-28 02:05:49Z
-created: 2024-09-06 02:38:57Z
-tags:
-  - planet
-  - pwp
----
-
 ## Fatima &ndash; Planet
+
+#planet #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/7S4KLO46iTz1NveNajnm)
 

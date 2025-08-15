@@ -1,13 +1,6 @@
----
-title: Keta Pamata - Planet
-updated: 2024-09-07 16:03:42Z
-created: 2024-09-07 01:10:51Z
-tags:
-  - planet
-  - pwp
----
-
 ## Keta Pamata &ndash; Planet
+
+#planet #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/SWGLMuLVqUkP8OUdTxsO)
 

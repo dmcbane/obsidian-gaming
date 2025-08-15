@@ -1,31 +1,24 @@
----
-title: Peropis - Planet
-updated: 2024-09-07 22:36:12Z
-created: 2024-09-07 22:23:52Z
-tags:
-  - planet
-  - pwp
----
-
 ## Peropis &ndash; Planet
+
+#planet #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/Ml1tIKL4lUCSysguaP3F)
 
-- Atmosphere: [Breatheable mix](../../../Gaming/StarsWithoutNumber/Breatheable%20Mix.md)
-- Temperature: [Variable Temperature](../../../Gaming/StarsWithoutNumber/Variable%20Temperature.md) [Cold](../../../Gaming/StarsWithoutNumber/Cold.md) to [Temperate](../../../Gaming/StarsWithoutNumber/Temperate.md)
-- Biosphere: [Human-miscible](../../../Gaming/StarsWithoutNumber/Human-Miscible.md)
-- Population: Several [Millions](../../../Gaming/StarsWithoutNumber/Millions.md)
-- Tech Level: [TL3](../../../Gaming/StarsWithoutNumber/TL3.md)
-- System: [Calia - System](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Calia%20-%20System.md)
+- Atmosphere: [Breatheable mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Breatheable%20Mix)
+- Temperature: [Variable Temperature](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Variable%20Temperature.md) [Cold](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Cold) to [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Temperate)
+- Biosphere: [Human-miscible](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Human-Miscible)
+- Population: Several [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Millions)
+- Tech Level: [TL3](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#TL3)
+- System: [Calia - System](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Calia%20-%20System)
 - Gas Giant Mines
-	- [Beer Project - Gas Giant Mine](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Beer%20Project%20-%20Gas%20Giant%20Mine.md)
+	- [Beer Project - Gas Giant Mine](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Beer%20Project%20-%20Gas%20Giant%20Mine)
 - Moons
-   - [Gare Buia - Moon](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Gare%20Buia%20-%20Moon.md)
+   - [Gare Buia - Moon](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Gare%20Buia%20-%20Moon)
 - Refueling Stations
-	- [Koval'sky 6 - Refueling Station](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Koval_sky%206%20-%20Refueling%20Station.md)
+	- [Koval'sky 6 - Refueling Station](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Koval_sky%206%20-%20Refueling%20Station)
 - Space Station
-   - [Tara 5 - Space Station](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Tara%205%20-%20Space%20Station.md)
+   - [Tara 5 - Space Station](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Tara%205%20-%20Space%20Station)
 - Tags
-   - [Perimeter Agency](../../../Gaming/StarsWithoutNumber/Perimeter%20Agency.md)
-   - [Rising Hegemon](../../../Gaming/StarsWithoutNumber/Rising%20Hegemon.md)
+   - [Perimeter Agency](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Perimeter%20Agency)
+   - [Rising Hegemon](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Rising%20Hegemon)
 

@@ -1,14 +1,6 @@
----
-title: Bozkir 2 - Refueling Station
-updated: 2024-09-28 01:22:04Z
-created: 2024-09-09 18:25:58Z
-tags:
-  - pwp
-  - refueling
-  - station
----
-
 ## Bozkir 2 &ndash; Refueling Station
+
+#pwp #refueling #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/refuelingStation/l0rrQ30qy3ZLAQ81tRaO)
 

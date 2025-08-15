@@ -1,12 +1,3 @@
----
-title: Grodhil - Planet
-updated: 2024-09-28 01:35:48Z
-created: 2024-09-08 00:09:58Z
-tags:
-  - planet
-  - pwp
----
-
 ## Grodhil &ndash; Planet
 
 #planet #pwp 

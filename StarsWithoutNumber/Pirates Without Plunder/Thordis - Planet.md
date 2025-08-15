@@ -1,25 +1,18 @@
----
-title: Thordis - Planet
-updated: 2024-09-13 00:32:27Z
-created: 2024-09-09 18:08:01Z
-tags:
-  - planet
-  - pwp
----
-
 ## Thordis &ndash; Planet
+
+#planet #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/UUTI4Ld2SYecW9YA2max)
 
-- Atmosphere: [Breatheable mix](../../../Gaming/StarsWithoutNumber/Breatheable%20Mix.md)
-- Temperature: [Temperate](../../../Gaming/StarsWithoutNumber/Temperate.md)
-- Biosphere: [Human-Miscible](../../../Gaming/StarsWithoutNumber/Human-Miscible.md)
-- Population: Hundreds of [Millions](../../../Gaming/StarsWithoutNumber/Millions.md)
-- Tech Level: [TL3](../../../Gaming/StarsWithoutNumber/TL3.md)
-- System: [Calia - System](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Calia%20-%20System.md)
+- Atmosphere: [Breatheable mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Breatheable%20Mix)
+- Temperature: [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Temperate)
+- Biosphere: [Human-Miscible](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Human-Miscible)
+- Population: Hundreds of [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Millions)
+- Tech Level: [TL3](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#TL3)
+- System: [Calia - System](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Calia%20-%20System)
 - Orbital Ruins
-   - [Kachug 2 - Orbital Ruin](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Kachug%202%20-%20Orbital%20Ruin.md)
+   - [Kachug 2 - Orbital Ruin](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Kachug%202%20-%20Orbital%20Ruin)
 - Tags
-   - [Misandry/Misogyny](../../../Gaming/StarsWithoutNumber/Misandry_Misogyny.md)
-   - [Gold Rush](../../../Gaming/StarsWithoutNumber/Gold%20Rush.md)
+   - [Misandry/Misogyny](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Misandry_Misogyny)
+   - [Gold Rush](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Gold%20Rush)
 

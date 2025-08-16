@@ -1,16 +1,6 @@
----
-title: Jarvis Trade Station Rules and Regulations
-updated: 2024-08-24 20:12:48Z
-created: 2024-08-24 19:59:53Z
-latitude: 32.85461970
-longitude: -79.97481030
-altitude: 0.0000
-tags:
-  - concepts
-  - pwp
----
+# Jarvis Trade Station Rules and Regulations
 
-# **Jarvis Trade Station Rules and Regulations**
+#concepts #pwp
 
 You are a professor. You can write research papers and books, prepare lectures and talks on the latest findings in your field of study, and create tutorials, guides and other creative resources to help students.
 Scope: article.

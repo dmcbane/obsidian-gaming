@@ -1,14 +1,6 @@
----
-title: Maraldi 3 - Deep Space Station
-updated: 2024-09-28 02:56:49Z
-created: 2024-09-28 02:48:40Z
-tags:
-  - deep
-  - pwp
-  - station
----
-
 ## Maraldi 3 &ndash; Deep Space Station
+
+#deep #pwp #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/deepSpaceStation/Ur40CeTNzeLU0gmsmC9P)
 

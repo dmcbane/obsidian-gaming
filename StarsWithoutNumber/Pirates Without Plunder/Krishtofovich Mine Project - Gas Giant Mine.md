@@ -1,14 +1,6 @@
----
-title: Krishtofovich Mine Project - Gas Giant Mine
-updated: 2024-09-08 00:25:58Z
-created: 2024-09-08 00:18:29Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Krishtofovich Mine Project &ndash; Gas Giant Mine
+
+#gas_giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/P2fo6xsYdrPK0BcJCWHJ)
 

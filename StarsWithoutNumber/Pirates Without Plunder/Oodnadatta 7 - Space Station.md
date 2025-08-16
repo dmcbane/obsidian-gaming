@@ -1,13 +1,6 @@
----
-title: Oodnadatta 7 - Space Station
-updated: 2024-09-07 22:42:47Z
-created: 2024-09-05 14:55:09Z
-tags:
-  - pwp
-  - station
----
-
 ## Oodnadatta 7 &ndash; Space Station
+
+#pwp #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/spaceStation/fEGLEA4OeUr57OtzudoA)
 

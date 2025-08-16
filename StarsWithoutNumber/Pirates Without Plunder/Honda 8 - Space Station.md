@@ -1,13 +1,6 @@
----
-title: Honda 8 - Space Station
-updated: 2024-09-28 01:28:27Z
-created: 2024-09-09 16:53:11Z
-tags:
-  - pwp
-  - station
----
-
 ## Honda 8 &ndash; Space Station
+
+#pwp #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/spaceStation/G6cmDhYtUnmkTqUyTgaa)
 

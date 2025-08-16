@@ -1,14 +1,6 @@
----
-title: Robert Sharp 1 - Research Base
-updated: 2024-09-08 00:33:10Z
-created: 2024-09-08 00:31:40Z
-tags:
-  - base
-  - pwp
-  - research
----
-
 ## Robert Sharp 1 &ndash; Research Base
+
+#base #pwp #research
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/researchBase/Qa7H9shaUryuiWO8kW5a)
 

@@ -1,18 +1,6 @@
----
-title: Pirates Without Plunder Session 001-004 Review
-updated: 2024-09-10 17:28:57Z
-created: 2024-09-10 03:45:53Z
-latitude: 32.85461970
-longitude: -79.97481030
-altitude: 0.0000
-tags:
-  - public
-  - pwp
-  - review
-  - session
----
-
 # Pirates Without Plunder Session One-Four Review
+
+#public #pwp #review #session
 
 Previously, our adventurers responded to a job opportunity on [Surita Kawah - Planet](Surita%20Kawah%20-%20Planet.md) in the [Thora - System](Thora%20-%20System.md) where they met with [Aaron Vershin - NPC](Aaron%20Vershin%20-%20NPC.md) to get the details on the job. He told the story of a stolen ship and provided hints to get them started. Following the clues, our adventurers tracked down and recovered the aging but sound Free Merchant vessel, "The Assiniboine." They decided that instead of returning the ship to [Kira Motin - NPC](Kira%20Motin%20-%20NPC.md), the somewhat seedy [Motinovation Industries (MI)](Motinovation%20Industries%20(MI).md) CEO, they would begin their pirating careers by keeping the ship renaming her the [Cambrian - Free Merchant](Cambrian%20-%20Free%20Merchant.md). Our adventurers, hereafter referred to as the [PWP](PWP.md), appears to have escaped without pursuit as they set out in search of jobs to keep the [Cambrian - Free Merchant](Cambrian%20-%20Free%20Merchant.md) flying.
 

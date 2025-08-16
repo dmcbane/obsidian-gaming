@@ -1,14 +1,6 @@
----
-title: Isil Mine Project - Gas Giant Mine
-updated: 2024-09-07 21:21:34Z
-created: 2024-09-07 21:19:59Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Isil Mine Project &ndash; Gas Giant Mine
+
+#gas_giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/s4ydwlOtBIYvv70hM1Yp)
 

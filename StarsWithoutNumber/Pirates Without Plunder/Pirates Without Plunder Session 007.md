@@ -1,16 +1,6 @@
----
-title: Pirates Without Plunder Session 007
-updated: 2024-09-11 00:37:15Z
-created: 2024-09-10 04:47:58Z
-latitude: 32.85461970
-longitude: -79.97481030
-altitude: 0.0000
-tags:
-  - pwp
-  - session
----
-
 # Pirates Without Plunder Session Seven
+
+#pwp #session
 
 ## Jobs developed at Eric\'s Party
 

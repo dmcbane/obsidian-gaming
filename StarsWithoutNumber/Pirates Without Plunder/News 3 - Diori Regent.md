@@ -1,17 +1,6 @@
----
-title: News 3 - Diori Regent
-updated: 2024-09-10 17:25:12Z
-created: 2024-08-19 05:38:05Z
-latitude: 32.85461970
-longitude: -79.97481030
-altitude: 0.0000
-tags:
-  - news
-  - public
-  - pwp
----
-
 # News 3
+
+#news #public #pwp
 
 ## Diori Regent: Savior or Destroyer
 

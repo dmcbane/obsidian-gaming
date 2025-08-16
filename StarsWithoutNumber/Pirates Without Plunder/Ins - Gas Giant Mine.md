@@ -1,14 +1,6 @@
----
-title: Ins - Gas Giant Mine
-updated: 2024-09-09 19:08:07Z
-created: 2024-09-09 19:05:54Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Ins &ndash; Gas Giant Mine
+
+#gas_giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/mIUJToVKaL0UrsvFDhD2)
 

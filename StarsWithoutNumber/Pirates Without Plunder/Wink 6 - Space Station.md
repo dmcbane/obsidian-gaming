@@ -1,13 +1,6 @@
----
-title: Wink 6 - Space Station
-updated: 2024-09-09 18:43:32Z
-created: 2024-09-09 18:40:59Z
-tags:
-  - pwp
-  - station
----
-
 ## Wink 6 &ndash; Space Station
+
+#pwp #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/spaceStation/gxGaYVYu78eOZ96uQa4D)
 

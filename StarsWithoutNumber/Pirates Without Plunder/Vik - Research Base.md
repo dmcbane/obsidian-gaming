@@ -1,14 +1,6 @@
----
-title: Vik - Research Base
-updated: 2024-09-09 18:16:05Z
-created: 2024-09-09 18:14:20Z
-tags:
-  - base
-  - pwp
-  - research
----
-
 ## Vik &ndash; Research Base
+
+#base #pwp #research
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/researchBase/L2EnMx6Ns2upBkmKtQ3R)
 

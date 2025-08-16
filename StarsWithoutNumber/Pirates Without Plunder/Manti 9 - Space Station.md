@@ -1,13 +1,6 @@
----
-title: Manti 9 - Space Station
-updated: 2024-09-07 16:29:55Z
-created: 2024-09-07 16:27:33Z
-tags:
-  - pwp
-  - station
----
-
 ## Manti 9 &ndash; Space Station
+
+#pwp #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/spaceStation/GnZeB1X87c7MsN6M4dTW)
 

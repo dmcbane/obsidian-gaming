@@ -1,14 +1,6 @@
----
-title: Secchi Mine - Gas Giant Mine
-updated: 2024-09-08 00:39:41Z
-created: 2024-09-08 00:38:45Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Secchi Mine &ndash; Gas Giant Mine
+
+#gas_giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/gx7UAd9I0mjboC1YQmXM)
 

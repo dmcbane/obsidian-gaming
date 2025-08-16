@@ -1,13 +1,6 @@
----
-title: Kantang 4 - Orbital Ruin
-updated: 2024-09-28 03:56:14Z
-created: 2024-09-28 03:38:13Z
-tags:
-  - orbital_ruin
-  - pwp
----
-
 ## Kantang 4 &ndash; Orbital Ruin
+
+#orbital_ruin #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/orbitalRuin/TmIq91z7nym3JxIQ7W62)
 

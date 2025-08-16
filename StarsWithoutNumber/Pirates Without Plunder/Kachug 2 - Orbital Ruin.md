@@ -1,13 +1,6 @@
----
-title: Kachug 2 - Orbital Ruin
-updated: 2024-09-07 20:53:04Z
-created: 2024-09-07 20:51:36Z
-tags:
-  - orbital_ruin
-  - pwp
----
-
 ## Kachug 2 &ndash; Orbital Ruin
+
+#orbital_ruin #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/orbitalRuin/yMDJL7Wt4QHPBfBkQdQ2)
 

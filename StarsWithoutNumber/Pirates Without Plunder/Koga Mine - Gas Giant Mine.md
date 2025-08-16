@@ -1,14 +1,6 @@
----
-title: Koga Mine - Gas Giant Mine
-updated: 2024-09-28 02:12:28Z
-created: 2024-09-07 00:41:33Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Koga Mine &ndash; Gas Giant Mine
+
+#gas_giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/KSt1HT00ojl2PHLIOFgJ)
 

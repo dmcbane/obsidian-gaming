@@ -1,13 +1,6 @@
----
-title: Longa 6 - Orbital Ruin
-updated: 2024-09-07 16:43:34Z
-created: 2024-09-07 16:41:57Z
-tags:
-  - orbital_ruin
-  - pwp
----
-
 ## Longa 6 &ndash; Orbital Ruin
+
+#orbital_ruin #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/orbitalRuin/hUBTe2xB962JNAB9NIFC)
 

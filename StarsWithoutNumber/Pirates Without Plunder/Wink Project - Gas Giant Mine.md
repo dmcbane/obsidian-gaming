@@ -1,14 +1,6 @@
----
-title: Wink Project - Gas Giant Mine
-updated: 2024-09-09 21:01:43Z
-created: 2024-09-09 21:00:37Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Wink Project &ndash; Gas Giant Mine
+
+#gas_giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/KSZF1dOLHE1LEacC6MWm)
 

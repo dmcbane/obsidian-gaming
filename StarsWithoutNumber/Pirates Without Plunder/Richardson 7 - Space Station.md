@@ -1,13 +1,6 @@
----
-title: Richardson 7 - Space Station
-updated: 2024-09-07 22:13:49Z
-created: 2024-09-07 22:11:10Z
-tags:
-  - pwp
-  - station
----
-
 ## Richardson 7 &ndash; Space Station
+
+#pwp #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/spaceStation/wnabmDpg9fpPvlJBt1YL)
 

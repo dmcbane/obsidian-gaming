@@ -1,13 +1,6 @@
----
-title: Sefadu 3 - Space Station - Copy
-updated: 2024-09-07 21:55:47Z
-created: 2024-09-07 21:54:56Z
-tags:
-  - pwp
-  - station
----
-
 ## Sefadu 3 &ndash; Space Station
+
+#pwp #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/spaceStation/h0rDgBmiLsk0iO4ny2ll)
 

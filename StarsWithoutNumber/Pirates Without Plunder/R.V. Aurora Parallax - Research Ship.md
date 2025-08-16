@@ -20,16 +20,16 @@
 	- Power: 30/3 free (when "Lab" cryostasis pods are removed)
 	- Mass: 13/2 free (when "Lab" cryostasis pods are removed)
 
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-hit-points|HP): 40
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-power|Power): 15/1 free
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-armor-class|AC): 5
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-mass|Mass): 15/0 free
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-armor|Armor): 10
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-crew|Crew): 10/40
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-speed|Speed): 1
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-hull-class|Hull%20Class): Frigate
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-npc-crew-skill-modifier|Crew%20Skill): +1 NPC
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-npc-crew-skill-modifier|CP): 4
+- [HP](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-hit-points): 40
+- [Power](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-power): 15/1 free
+- [AC](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-armor-class): 5
+- [Mass](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-mass): 15/0 free
+- [Armor](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-armor): 10
+- [Crew](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-crew): 10/40
+- [Speed](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-speed): 1
+- [Hull Class](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-hull-class): Frigate
+- [Crew Skill](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-npc-crew-skill-modifier): +1 NPC
+- [CP](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-npc-crew-skill-modifier): 4
 - Weapons: None
 - Defenses: Hardened Polyceramic Overlay
 - Fittings:

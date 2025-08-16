@@ -20,8 +20,8 @@
 
 # TODO
 
-- [x](Crew%20-%20Dark%20Avenger.md) of the [Dark Avenger - Corvette](Dark%20Avenger%20-%20Corvette.md)
-- [x](Dior%20-%20Planet.md), the world that [Rafael Rosa - NPC](Rafael%20Rosa%20-%20NPC.md) is heir to
+- [x](Crew -%20Dark%20Avenger.md) of the [Dark Avenger - Corvette](Dark%20Avenger%20-%20Corvette.md)
+- [x](Dior -%20Planet.md), the world that [Rafael Rosa - NPC](Rafael%20Rosa%20-%20NPC.md) is heir to
 
 Combat Department Assignments for first combat
 ----------------------------------------------

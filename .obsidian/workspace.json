@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e316a7605a5c4c8d",
+        "id": "afccf6a5a758b379",
         "type": "tabs",
         "children": [
           {
-            "id": "e39ed8e55f679b57",
+            "id": "e62a210e8a3473ef",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#heist_aftermath",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,34 +196,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e39ed8e55f679b57",
+  "active": "85438be639630d9a",
   "lastOpenFiles": [
-    "StarsWithoutNumber/rule books/EQUIPMENT_DATABASE.md",
-    "StarsWithoutNumber/rule books/Relics Of The Lost.md",
-    "StarsWithoutNumber/rule books/SkywardSteel.md",
-    "StarsWithoutNumber/rule books/Suns Of Gold.md",
-    "StarsWithoutNumber/rule books/Civilian Starships.md",
-    "StarsWithoutNumber/rule books/STARS WITHOUT NUMBER, FREE EDITION - obsidian.md",
-    "StarsWithoutNumber/rule books/STARS WITHOUT NUMBER, DELUXE EDITION.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Vionte - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Thordis - Planet.md",
+    "StarsWithoutNumber/templates/Template - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Teleerre - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Surita Kawah - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Salima Teji - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Pri Rupamat - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Pipouloul - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Peropis - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Papadoudou - Planet.md",
     "StarsWithoutNumber/Pirates Without Plunder/Nawzira - Planet.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Calia - System.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Cross Parsec Corporation - Enhanced Operations.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Campaign Analysis - Location Improvements.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Cygnus Arc Cartel - Faction.md",
-    "StarsWithoutNumber/Custom World Tags/Bureaucracy.md",
-    "StarsWithoutNumber/Custom World Tags/Legalis Nexus.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Masters Shipwrights.md",
-    "StarsWithoutNumber/Pirates Without Plunder/ReviveShip.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Batos 4 - Orbital Ruin.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Bled 7 - Orbital Ruin.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Cerulli 4 - Orbital Ruin.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Chia 4 - Orbital Ruin.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Curie 2 - Orbital Ruin.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Domoni 5 - Orbital Ruin.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Faqu 6 - Orbital Ruin.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Hussey 9 - Orbital Ruin.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Jodrell 5 - Orbital Ruin.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Kachug 2 - Orbital Ruin.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Najaha - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Melis - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Melides - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Martis - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Mariakorg - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Limne - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Leucimn - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Kou - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Kolis - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Keta Pamata - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Joantopha - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Sefadu 3 - Space Station.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Hasim - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Aban 7 - Space Station.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Gunn - Planet.md",
     "Untitled",
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",

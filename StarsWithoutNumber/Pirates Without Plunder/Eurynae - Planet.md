@@ -6,12 +6,12 @@
 
 Eurynae has an extremely bureaucratic government and has become the legal center of the sector; hosting the Department of Legal Affairs and Unified Records Office.
 
-- Atmosphere: [Breatheable mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Breatheable%20Mix)
-- Temperature: [Variable Temperature](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Variable%20Temperature.md) [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Temperate) to [Warm](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Warm)
-- Biosphere: [Human-Miscible](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Human-Miscible)
-- Population: Several [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Millions)
-- Tech Level: [TL4](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#TL4)
-- System: [Leucipp - System](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Leucipp%20-%20System)
+- Atmosphere: [Breathable Mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^atmosphere-breathable-mix)
+- Temperature: [Variable Temperature](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-variable) [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-temperate) to [Warm](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-warm)
+- Biosphere: [Human-miscible](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^biosphere-human-miscible)
+- Population: Several [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^population-size-millions)
+- Tech Level: [Postech (TL4)](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^planetary-tech-level-4)
+- System: [Leucipp - System](Leucipp%20-%20System)
 
 - Tags
    - [Legalis Nexus](Legalis%20Nexus.md)

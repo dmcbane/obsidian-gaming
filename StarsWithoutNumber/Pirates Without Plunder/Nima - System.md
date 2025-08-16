@@ -8,7 +8,7 @@
 
 ### Asteroid Belts
 
--   [(49) Gusev - Asteroid Belt]((49)%20Gusev%20-%20Asteroid%20Belt.md)
+-   [(49) Gusev - Asteroid Belt](49)%20Gusev%20-%20Asteroid%20Belt.md)
 
 ### Deep Space Station
 

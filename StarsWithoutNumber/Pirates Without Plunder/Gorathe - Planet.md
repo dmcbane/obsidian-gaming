@@ -4,19 +4,19 @@
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/jvw546qUfAnOtxjx5PGq)
 
-- Atmosphere: [Breatheable mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Breatheable%20Mix)
-- Temperature: [Variable Temperature](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Variable%20Temperature.md) [Cold](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Cold) to [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Temperate)
-- Biosphere: [Human-miscible](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Human-Miscible)
-- Population: Several [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Millions)
-- Tech Level: [TL2](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#TL2)
-- System: [Leucipp - System](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Leucipp%20-%20System)
+- Atmosphere: [Breathable Mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^atmosphere-breathable-mix)
+- Temperature: [Variable Temperature](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-variable) [Cold](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-cold) to [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-temperate)
+- Biosphere: [Human-miscible](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^biosphere-human-miscible)
+- Population: Several [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^population-size-millions)
+- Tech Level: [Early industrial (TL2)](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^planetary-tech-level-2)
+- System: [Leucipp - System](Leucipp%20-%20System.md)
 - Gas GIant Mines
-	- [Ins - Gas Giant Mine](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Ins%20-%20Gas%20Giant%20Mine)
+	- [Ins - Gas Giant Mine](Ins%20-%20Gas%20Giant%20Mine.md)
 - Orbital Ruins
-	- [Bled 7 - Orbital Ruin](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Bled%207%20-%20Orbital%20Ruin)
+	- [Bled 7 - Orbital Ruin](Bled%207%20-%20Orbital%20Ruin.md)
 - Space Station
-   - [Capen 3 - Space Station](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Capen%203%20-%20Space%20Station)
-   - [Nicholson 3 - Space Station](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Nicholson%203%20-%20Space%20Station)
+   - [Capen 3 - Space Station](Capen%203%20-%20Space%20Station.md)
+   - [Nicholson 3 - Space Station](Nicholson%203%20-%20Space%20Station.md)
 - Tags
    - [Xenophiles](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Xenophiles)
    - [Radioactive World](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Radioactive%20World)

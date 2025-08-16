@@ -3,16 +3,16 @@
 
 The Merry Mariner is known as the Christmas Ship in the [Thora - System](Thora%20-%20System.md).  It has been gutted as much as possible, crews quarters, weapons, spike drive, etc.  to turn every conceivable space into cargo space for Christmas presents. 
 
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-hit-points|HP): 20
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-power|Power): 10/0 free
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-armor-class|AC): 14
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-mass|Mass): 15/0 free
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-armor|Armor): 2
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-crew|Crew): 1/6
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-speed|Speed): 3
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-hull-class|Hull%20Class): Frigate
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-npc-crew-skill-modifier|Crew%20Skill): +1 NPC
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-npc-crew-skill-modifier|CP): 4
+- [HP](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-hit-points): 20
+- [Power](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-power): 10/0 free
+- [AC](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-armor-class): 14
+- [Mass](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-mass): 15/0 free
+- [Armor](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-armor): 2
+- [Crew](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-crew): 1/6
+- [Speed](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-speed): 3
+- [Hull Class](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-hull-class): Frigate
+- [Crew Skill](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-npc-crew-skill-modifier): +1 NPC
+- [CP](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-npc-crew-skill-modifier): 4
 - Weapons: None
 - Defenses: None
 - Fittings:

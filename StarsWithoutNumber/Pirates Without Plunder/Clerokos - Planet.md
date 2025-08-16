@@ -4,12 +4,12 @@
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/rrEARge4AGfsBJL7vBme)
 
-- Atmosphere: [Breatheable mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Breatheable%20Mix)
-- Temperature: [Variable Temperature](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Variable%20Temperature.md) [Cold](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Cold) to [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Temperate)
-- Biosphere: [Microbial Life](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Microbial%20Life)
-- Population: Hundreds of [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Millions)
-- Tech Level: [TL4](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#TL4)
-- System: [Nima - System](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Nima%20-%20System)
+- Atmosphere: [Breathable Mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^atmosphere-breathable-mix)
+- Temperature: [Variable Temperature](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-variable) [Cold](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-cold) to [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-temperate)
+- Biosphere: [Microbial Life](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^biosphere-microbial)
+- Population: Hundreds of [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^population-size-millions)
+- Tech Level: [Postech (TL4)](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^planetary-tech-level-4)
+- System: [Nima - System](Nima%20-%20System.md)
 - Gas Giant Mines
    - 
 - Tags

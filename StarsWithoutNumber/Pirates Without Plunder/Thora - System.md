@@ -6,7 +6,7 @@
 ### Sector &ndash; [Orrello Eta - Sector](Orrello%20Eta%20-%20Sector.md)
 
 ### Asteroid Belts
--   [(09) Baldet - Asteroid Belt]((09)%20Baldet%20-%20Asteroid%20Belt.md)
+-   [(09) Baldet - Asteroid Belt](09)%20Baldet%20-%20Asteroid%20Belt.md)
 
 ### Deep Space Stations
 -  [Graff 9 - Deep Space Station](Graff%209%20-%20Deep%20Space%20Station.md)
@@ -16,7 +16,7 @@
 -   [Hasim - Planet](Hasim%20-%20Planet.md)  &ndash; ( [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Restrictive%20Laws|Restrictive%20Laws), [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Rising%20Hegemon|Rising%20Hegemon) )
 -   [Keta Pamata - Planet](Keta%20Pamata%20-%20Planet.md)  &ndash; ( [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Freak%20Weather|Freak%20Weather), [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Prison%20Planet|Prison%20Planet) )
 -   [Mariakorg - Planet](Mariakorg%20-%20Planet.md)  &ndash; ( [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Pilgrimage%20Site|Pilgrimage%20Site), [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Police%20State|Police%20State) )
-- [Nawzira - Planet](Nawzira%20-%20Planet.md) &ndash; ( [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Hatred|Hatred), [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Restrictive%20Laws|Restrictive%20Laws) )
+- [Nawzira - Planet](Nawzira -%20Planet.md) &ndash; ( [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Hatred|Hatred), [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Restrictive%20Laws|Restrictive%20Laws) )
 -   [Surita Kawah - Planet](Surita%20Kawah%20-%20Planet.md) &ndash; ( [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Heavy%20Industry|Heavy%20Industry), [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Megacorps|Megacorps) )
 
 ### Research Bases

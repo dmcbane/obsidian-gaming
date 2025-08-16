@@ -1,21 +1,20 @@
-# Ande
-## Planet
+## Ande &ndash; Planet
 
 #planet #pwp 
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/qzoSgmxy33sGjCBptFSJ)
 
-- Atmosphere: [Breatheable mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Breatheable%20Mix)
-- Temperature: [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Temperate)
-- Biosphere: [No Native](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#No%20Native)
-- Population: [Failed Colonies](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Failed%20Colonies)
-- Tech Level: [TL2](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#TL2)
-- System: [Monterv - System](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Monterv%20-%20System)
+- Atmosphere: [Breathable Mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^atmosphere-breathable-mix)
+- Temperature: [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-temperate)
+- Biosphere: [No native](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^biosphere-no-native)
+- Population: Several [Failed Colonies](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^population-size-failed-colony)
+- Tech Level: [Early industrial (TL2)](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^planetary-tech-level-2)
+- System: [Monterv - System](Monterv%20-%20System.md)
 - Moons
-   - [Marubah - Moon](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Marubah%20-%20Moon)
-   - [Maxas - Moon](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Maxas%20-%20Moon)
+   - [Marubah - Moon](Marubah%20-%20Moon.md)
+   - [Maxas - Moon](Maxas%20-%20Moon.md)
 - Space Stations
-   - [Stokes 7 - Space Station](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#PiratesWithoutPlunder/Stokes%207%20-%20Space%20Station)
+   - [Stokes 7 - Space Station](Stokes%207%20-%20Space%20Station.md)
 - Tags
    - [Minimal Contact](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Minimal%20Contact)
    - [Forbidden Tech](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Forbidden%20Tech)

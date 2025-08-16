@@ -1,6 +1,6 @@
 ## Lonar 7 &ndash; Asteroid Base
 
-#asteroid_belt #base #pwp
+#asteroid-belt #base #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/asteroidBase/bsSbbliuAf7vvvNQhvqy)
 

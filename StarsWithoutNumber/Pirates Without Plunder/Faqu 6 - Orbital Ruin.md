@@ -1,6 +1,6 @@
 ## Faqu 6 &ndash; Orbital Ruin
 
-#orbital_ruin #pwp
+#orbital-ruin #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/orbitalRuin/ngjEHaOplXtaa4CRSIvb)
 

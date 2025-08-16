@@ -1,8 +1,9 @@
 ![_ss_page_0_Picture_0](_ss_page_0_Picture_0.jpeg)
 
 # Skyward Steel *by Kevin Crawford*
-
 Naval Campaigns and Characters for *Stars Without Number*
+
+#public #revised-edition #rulebook #swn
 
 © 2011, Sine Nomine Publishing ISBN 978-1-936673-05-6 Written by Kevin Crawford. Art by Innovari.
 

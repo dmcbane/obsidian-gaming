@@ -1,6 +1,6 @@
 ## Mistretta 9 &ndash; Orbital Ruin
 
-#orbital_ruid #pwp
+#orbital-ruin #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/orbitalRuin/guDNSz0TKbVkq9pVQcF5)
 

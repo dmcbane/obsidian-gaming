@@ -1,7 +1,6 @@
-# (50) Perepelkin
-## Asteroid Belt
+## (50) Perepelkin &ndash; Asteroid Belt
 
-#asteroid_belt #pwp 
+#asteroid-belt #pwp 
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/asteroidBelt/tSJF3UB9senMOUa9rlpn)
 

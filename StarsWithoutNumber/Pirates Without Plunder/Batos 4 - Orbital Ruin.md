@@ -1,7 +1,6 @@
-# Batos 4
-## Orbital Ruin
+## Batos 4 &ndash; Orbital Ruin
 
-#orbital_ruin #pwp 
+#orbital-ruin #pwp 
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/orbitalRuin/qcyaODqvm7mfzu3R6ZX5)
 

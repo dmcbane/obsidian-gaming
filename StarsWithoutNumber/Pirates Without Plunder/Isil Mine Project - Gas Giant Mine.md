@@ -1,6 +1,6 @@
 ## Isil Mine Project &ndash; Gas Giant Mine
 
-#gas_giant #mine #pwp
+#gas-giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/s4ydwlOtBIYvv70hM1Yp)
 

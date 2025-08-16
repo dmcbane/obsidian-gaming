@@ -1,6 +1,6 @@
 ## Niquero Project &ndash; Gas Giant Mine
 
-#gas_giant #mine #pwp
+#gas-giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/4uNlBVNFEzaQtj71Z5tj)
 

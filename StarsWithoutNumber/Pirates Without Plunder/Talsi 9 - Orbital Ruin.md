@@ -1,6 +1,6 @@
 ## Talsi 9 &ndash; Orbital Ruin
 
-#orbital_ruin #pwp
+#orbital-ruin #pwp
 
 - Moon: [Aribiam - Moon](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Aribiam%20-%20Moon.md)
 

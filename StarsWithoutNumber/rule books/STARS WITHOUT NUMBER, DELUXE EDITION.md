@@ -2,7 +2,7 @@
 
 <a id="stars-without-number-revised-edition"></a>
 
-#deluxe_edition  #public #revised_version #rulebook #swn
+#deluxe-edition  #public #revised-edition #rulebook #swn
 
 
 ```toc

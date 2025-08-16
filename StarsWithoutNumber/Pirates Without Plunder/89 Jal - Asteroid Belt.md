@@ -1,7 +1,6 @@
-# 89 Jal
-## Asteroid Belt
+## 89 Jal &ndash; Asteroid Belt
 
-#asteroid_belt #pwp 
+#asteroid-belt #pwp 
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/asteroidBelt/69rT77ILESXuumwvxtjf)
 

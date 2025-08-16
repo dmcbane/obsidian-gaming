@@ -1,7 +1,6 @@
-# (177) Bada
-## Asteroid Belt
+## (177) Bada &ndash; Asteroid Belt
 
-#asteroid_belt #pwp 
+#asteroid-belt #pwp 
 
 - System: [Teciboe - System](Teciboe%20-%20System.md)
 

@@ -1,8 +1,6 @@
-# (49) Gusev
-## Asteroid Belt
+## (49) Gusev &ndash; Asteroid Belt
 
-
-#asteroid_belt #pwp 
+#asteroid-belt #pwp 
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/asteroidBelt/wai7cGI2ZFhUDw69FhLh)
 

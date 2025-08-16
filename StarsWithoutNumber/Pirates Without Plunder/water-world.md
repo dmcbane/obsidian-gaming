@@ -2,7 +2,9 @@
 
 #concepts #pwp
 
-### where the library is relaying information through
+
+[Ankanju Ratri - Planet](Ankanju%20Ratri%20-%20Planet.md) is this world - apply these concepts there as applicable
+## Where the library is relaying information through
 
 **Environment:**
 

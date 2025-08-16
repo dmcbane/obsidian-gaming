@@ -1,6 +1,6 @@
 ## Maricourt 6 &ndash; Asteroid Base
 
-#asteroid_belt #base #pwp
+#asteroid-belt #base #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/asteroidBase/SkYkITXIxL6Alp0L1vWc)
 

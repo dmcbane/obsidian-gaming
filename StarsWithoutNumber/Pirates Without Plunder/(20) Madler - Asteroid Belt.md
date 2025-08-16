@@ -1,8 +1,6 @@
-# (20) Madler
-## Asteroid Belt
+## (20) Madler &ndash; Asteroid Belt
 
-
-#asteroid_belt #pwp 
+#asteroid-belt #pwp 
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/asteroidBelt/8Qsi4xg77WIitRXUhaVy)
 

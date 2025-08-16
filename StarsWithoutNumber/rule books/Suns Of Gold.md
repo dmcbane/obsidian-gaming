@@ -1,4 +1,5 @@
 # Suns of Gold *by Kevin Crawford*
+#public #revised-edition #rulebook #swn 
 
 ![_page_1_Picture_1](_page_1_Picture_1.jpeg)
 
@@ -31,22 +32,22 @@
 
 |                                                                                       |     |     |
 | ------------------------------------------------------------------------------------- | --- | ---:|
-| [#The Jewels of Foreign Suns](#The%20Jewels%20of%20Foreign%20Suns)                                                       |     | 1   |
-| [#Trade Among The Fallen Worlds](#Trade%20Among%20The%20Fallen%20Worlds)                                                    |     |     |
-| [#Slaves to the Credit](#Slaves%20to%20the%20Credit)                                                             |     | 5   |
-| [#The Business of Far Trading](#The%20Business%20of%20Far%20Trading)                                                      |     |     |
-| [#An Honest Day's Trade](#An%20Honest%20Day's%20Trade)                                                            |     | 13  |
-| [#Cargo Sales and Business Holdings](#Cargo%20Sales%20and%20Business%20Holdings)                                                |     |     |
+| [The Jewels of Foreign Suns](#The%20Jewels%20of%20Foreign%20Suns)                                                       |     | 1   |
+| [Trade Among The Fallen Worlds](#Trade%20Among%20The%20Fallen%20Worlds)                                                    |     |     |
+| [Slaves to the Credit](#Slaves%20to%20the%20Credit)                                                             |     | 5   |
+| [The Business of Far Trading](#The%20Business%20of%20Far%20Trading)                                                      |     |     |
+| [An Honest Day's Trade](#An%20Honest%20Day's%20Trade)                                                            |     | 13  |
+| [Cargo Sales and Business Holdings](#Cargo%20Sales%20and%20Business%20Holdings)                                                |     |     |
 | [Treasures In the Sky](#**Treasures%20In%20the%20Sky**%5C)                                   |     | 31  |
 | [World Creation Tags and Trade Profiles](#*World%20Creation%20Tags%20and%20Trade%20Profiles*%5C) |     |     |
-| [#An Offer You Can't Refuse](#An%20Offer%20You%20Can't%20Refuse)                                                        |     | 45  |
-| [#Creating and Running Trade Adventures](#Creating%20and%20Running%20Trade%20Adventures)                                            |     |     |
-| [#Lords of the New Suns](#Lords%20of%20the%20New%20Suns)                                                            |     | 59  |
-| [#Founding Colony World](#Founding%20Colony%20World)                                                            |     |     |
-| [#Tools of the Traders](#Tools%20of%20the%20Traders)                                                             |     | 67  |
-| [#Equipment and Fittings for the Far Trade](#Equipment%20and%20Fittings%20for%20the%20Far%20Trade)                                         |     |     |
-| [#GM Resources](#GM%20Resources)                                                                     |     | 73  |
-| [#Tables and Record Sheets for Quick Use](#Tables%20and%20Record%20Sheets%20for%20Quick%20Use)                                           |     |     |
+| [An Offer You Can't Refuse](#An%20Offer%20You%20Can't%20Refuse)                                                        |     | 45  |
+| [Creating and Running Trade Adventures](#Creating%20and%20Running%20Trade%20Adventures)                                            |     |     |
+| [Lords of the New Suns](#Lords%20of%20the%20New%20Suns)                                                            |     | 59  |
+| [Founding Colony World](#Founding%20Colony%20World)                                                            |     |     |
+| [Tools of the Traders](#Tools%20of%20the%20Traders)                                                             |     | 67  |
+| [Equipment and Fittings for the Far Trade](#Equipment%20and%20Fittings%20for%20the%20Far%20Trade)                                         |     |     |
+| [GM Resources](#GM%20Resources)                                                                     |     | 73  |
+| [Tables and Record Sheets for Quick Use](#Tables%20and%20Record%20Sheets%20for%20Quick%20Use)                                           |     |     |
 
 
 # The Jewels of Foreign Suns

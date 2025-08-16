@@ -1,6 +1,6 @@
 ## Chia 4 &ndash; Orbital Ruin
 
-#orbital_ruin #pwp
+#orbital-ruin #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/orbitalRuin/iZ0qNEA5vD5yhFPvYZwj)
 

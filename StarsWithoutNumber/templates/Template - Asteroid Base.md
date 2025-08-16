@@ -1,6 +1,6 @@
 ## Cangwu &ndash; Asteroid Base
 
-#asteroid_belt #base #pwp #template 
+#asteroid-belt #base #pwp #template 
 
 [Sectors Without Number]()
 

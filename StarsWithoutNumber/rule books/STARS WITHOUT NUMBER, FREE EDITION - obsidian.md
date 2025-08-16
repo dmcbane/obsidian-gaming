@@ -1,6 +1,6 @@
 # STARS WITHOUT NUMBER, REVISED EDTION - FREE EDITION *by Kevin Crawford*
 
-#free_edition #public #revised_version #rulebook #swn
+#free-edition #public #revised-edition #rulebook #swn
 
 # Table of Contents
 
@@ -85,14 +85,14 @@ Above all, ***Stars Without Number*** is *your* game now. There is no one “cor
 
 ## Character Creation Quick Links
 
-- [#Attributes](#Attributes)
-- [#The Skill List](#The%20Skill%20List)
-- [#Psychic Skills](#Psychic%20Skills)
-- [#Backgrounds](#Backgrounds)
-- [#Character Classes](#Character%20Classes)
-- [#The Focus List](#The%20Focus%20List)
+- [Attributes](#Attributes)
+- [The Skill List](#The%20Skill%20List)
+- [Psychic Skills](#Psychic%20Skills)
+- [Backgrounds](#Backgrounds)
+- [Character Classes](#Character%20Classes)
+- [The Focus List](#The%20Focus%20List)
 - [Equipment Packs](#Equipment%20Packages)
-- [#Quick Character Creation](#Quick%20Character%20Creation)
+- [Quick Character Creation](#Quick%20Character%20Creation)
 
 # Character Creation
 
@@ -343,26 +343,26 @@ Rolls on the Growth table that improve your basic attributes can boost them up t
 
 | d20 | Background                                          |
 |:---:|:--------------------------------------------------- |
-|  1  | [#Barbarian](#Barbarian), born of a primitive world           |
-|  2  | [#Clergy](#Clergy), a consecrated man or woman             |
-|  3  | [#Courtesan](#Courtesan), trading on pleasurable company      |
-|  4  | [#Criminal](#Criminal), thief, rogue, liar, or worse         |
-|  5  | [#Dilettante](#Dilettante), with money if not purpose          |
-|  6  | [#Entertainer](#Entertainer), artful and beguiling              |
-|  7  | [#Merchant](#Merchant), whether peddler or far trader        |
-|  8  | [#Noble](#Noble), by blood or by social capital           |
-|  9  | [#Official](#Official), a functionary of some greater state  |
-| 10  | [#Peasant](#Peasant), whether primitive or high-tech        |
-| 11  | [#Physician](#Physician), a healer of the sick and maimed     |
-| 12  | [#Pilot](#Pilot), or rider, or sailor, or vehicle-driver  |
-| 13  | [#Politician](#Politician), aspiring to leadership and control |
-| 14  | [#Scholar](#Scholar), a scientist or academic               |
-| 15  | [#Soldier](#Soldier), whether mercenary or conscript        |
-| 16  | [#Spacer](#Spacer), dwelling in the deep-space habs        |
-| 17  | [#Technician](#Technician), artisan, engineer, or builder      |
-| 18  | [#Thug](#Thug), ruffian, or strong arm of the people     |
-| 19  | [#Vagabond](#Vagabond), roaming without a home               |
-| 20  | [#Worker](#Worker), a cube drone or day laborer            |
+|  1  | [Barbarian](#Barbarian), born of a primitive world           |
+|  2  | [Clergy](#Clergy), a consecrated man or woman             |
+|  3  | [Courtesan](#Courtesan), trading on pleasurable company      |
+|  4  | [Criminal](#Criminal), thief, rogue, liar, or worse         |
+|  5  | [Dilettante](#Dilettante), with money if not purpose          |
+|  6  | [Entertainer](#Entertainer), artful and beguiling              |
+|  7  | [Merchant](#Merchant), whether peddler or far trader        |
+|  8  | [Noble](#Noble), by blood or by social capital           |
+|  9  | [Official](#Official), a functionary of some greater state  |
+| 10  | [Peasant](#Peasant), whether primitive or high-tech        |
+| 11  | [Physician](#Physician), a healer of the sick and maimed     |
+| 12  | [Pilot](#Pilot), or rider, or sailor, or vehicle-driver  |
+| 13  | [Politician](#Politician), aspiring to leadership and control |
+| 14  | [Scholar](#Scholar), a scientist or academic               |
+| 15  | [Soldier](#Soldier), whether mercenary or conscript        |
+| 16  | [Spacer](#Spacer), dwelling in the deep-space habs        |
+| 17  | [Technician](#Technician), artisan, engineer, or builder      |
+| 18  | [Thug](#Thug), ruffian, or strong arm of the people     |
+| 19  | [Vagabond](#Vagabond), roaming without a home               |
+| 20  | [Worker](#Worker), a cube drone or day laborer            |
 
 ### Barbarian
 
@@ -999,7 +999,7 @@ You have an unusual competence with thrown weapons and melee attacks. This focus
 
 ### Assassin
 
-You are practiced at sudden murder, and have certain advantages in carrying out an Execution Attack as described in the rules on [#Execution Attacks](#Execution%20Attacks).
+You are practiced at sudden murder, and have certain advantages in carrying out an Execution Attack as described in the rules on [Execution Attacks](#Execution%20Attacks).
 
 - ***Level 1:*** Gain Sneak as a bonus skill. You can conceal an object no larger than a knife or pistol from anything less invasive than a strip search, including normal TL4 weapon detection devices. You can draw or produce this object as an On Turn action, and your point-blank ranged attacks made from surprise with it cannot miss the target.
 
@@ -1035,7 +1035,7 @@ You are surprisingly hard to kill. You can survive injuries or bear up under str
 
 - ***Level 1:*** You gain an extra 2 maximum [hit points](#^character-hit-points) per level. This bonus applies retroactively if you take this focus after first level. You automatically stabilize if mortally wounded by anything smaller than a Heavy weapon.
 
-- ***Level 2:*** The first time each day that you are reduced to zero [hit points](#^character-hit-points) by an injury, you instead survive with one hit point remaining. This ability can't save you from [#Heavy weapons](#Heavy%20weapons) or similar trauma.
+- ***Level 2:*** The first time each day that you are reduced to zero [hit points](#^character-hit-points) by an injury, you instead survive with one hit point remaining. This ability can't save you from [Heavy weapons](#Heavy%20weapons) or similar trauma.
 
 ### Diplomat
 
@@ -1047,7 +1047,7 @@ You know how to get your way in personal negotiations, and can manipulate the at
 
 ### Gunslinger
 
-You have a gift with a gun. While this talent most commonly applies to slugthrowers or energy weapons, it is also applicable to thrown weapons, bows, or other [#ranged weapons](#ranged%20weapons) that can be used with the Shoot skill. For thrown weapons, you can't use the benefits of the *Armsman* focus at the same time as *Gunslinger*.
+You have a gift with a gun. While this talent most commonly applies to slugthrowers or energy weapons, it is also applicable to thrown weapons, bows, or other [ranged weapons](#ranged%20weapons) that can be used with the Shoot skill. For thrown weapons, you can't use the benefits of the *Armsman* focus at the same time as *Gunslinger*.
 
 - ***Level 1:*** Gain Shoot as a bonus skill. You can draw or holster a Stowed ranged weapon as an On Turn action. You may add your Shoot skill level to a ranged weapon's damage roll.
 
@@ -1113,7 +1113,7 @@ You're extremely dangerous to enemies around you. The ferocity of your melee att
 
 ### Sniper
 
-You are an expert at placing a bullet or beam on an unsuspecting target. These special benefits only apply when making an Execution Attack with a firearm or bow, as described [#Execution Attacks](#Execution%20Attacks).
+You are an expert at placing a bullet or beam on an unsuspecting target. These special benefits only apply when making an Execution Attack with a firearm or bow, as described [Execution Attacks](#Execution%20Attacks).
 
 - ***Level 1:*** Gain Shoot as a bonus skill. When making a skill check for an Execution Attack or target shooting, roll 3d6 and drop the lowest die.
 
@@ -1129,7 +1129,7 @@ You are remarkably talented at a particular skill. Whether a marvelous cat burgl
 
 ### Star Captain
 
-You have a tremendous natural talent for ship combat, and can make any starship you captain a significantly more fearsome opponent. You must take the captain's role during a fight as described in [#Captain Actions](#Captain%20Actions) of the Ship Combat rules in order to benefit from this focus.
+You have a tremendous natural talent for ship combat, and can make any starship you captain a significantly more fearsome opponent. You must take the captain's role during a fight as described in [Captain Actions](#Captain%20Actions) of the Ship Combat rules in order to benefit from this focus.
 
 - ***Level 1:*** Gain Lead as a bonus skill. Your ship gains 2 extra Command Points at the start of each turn.
 
@@ -1145,7 +1145,7 @@ You are an expert in the plotting and execution of interstellar spike drills. Wh
 
 ### Tinker
 
-You have a natural knack for modifying and improving equipment, as given in the rules in [#Modding and Building Equipment](#Modding%20and%20Building%20Equipment).
+You have a natural knack for modifying and improving equipment, as given in the rules in [Modding and Building Equipment](#Modding%20and%20Building%20Equipment).
 
 - ***Level 1:*** Gain Fix as a bonus skill. Your Maintenance score is doubled, allowing you to maintain twice as many mods. Both ship and gear mods cost only half their usual price in credits, though pretech salvage requirements remain the same.
 
@@ -1165,7 +1165,7 @@ Whether due to exotic technological augmentation, a unique transhuman background
 
 This is a special focus which serves as a catch-all for some novel power or background perk that doesn't have a convenient fit in the existing rules. A transhuman who can function normally in lethal environments, a nanotech-laden experimental subject with a head full of exotic sensors, or a brilliant gravitic scientist who can fly thanks to their personal tech might all take this focus to cover their special abilities.
 
-It's up to the GM to decide what's reasonable and fair to be covered under this gift. If an ability is particularly powerful, it might require the user to take [#System Strain](#System%20Strain) to use it.
+It's up to the GM to decide what's reasonable and fair to be covered under this gift. If an ability is particularly powerful, it might require the user to take [System Strain](#System%20Strain) to use it.
 
 As a general rule this ability should be better than a piece of gear the PC could buy for credits. The player is spending a very limited resource when they make this focus pick, so what they get should be good enough that they can't just duplicate it with a fat bank account.
 
@@ -1183,7 +1183,7 @@ Some men and women are born with a very limited form of MES, the mental conditio
 
 Wild talents are not treated as psychics for general purposes and cannot “torch” their powers. When relevant, they are treated as having one point of Effort. Psychics and Partial Psychics cannot take this focus.
 
-- ***Level 1:*** Pick a psychic discipline. You gain an ability equivalent to the level-0 core power of that discipline. Optionally, you may instead pick a level-1 technique from that discipline, but that technique must stand alone; you can't pick one that augments another technique or core ability. For example, you could pick the [*Telekinetic Armory*](#Telekinetic%20Armory) technique from Telekinesis, because that ability does not require the use of any other Telekinesis power. You could not pick the [*Mastered Succor*](#Mastered%20Succor) ability from [#Biopsionics](#Biopsionics), because that technique is meant to augment another power you don't have.
+- ***Level 1:*** Pick a psychic discipline. You gain an ability equivalent to the level-0 core power of that discipline. Optionally, you may instead pick a level-1 technique from that discipline, but that technique must stand alone; you can't pick one that augments another technique or core ability. For example, you could pick the [*Telekinetic Armory*](#Telekinetic%20Armory) technique from Telekinesis, because that ability does not require the use of any other Telekinesis power. You could not pick the [*Mastered Succor*](#Mastered%20Succor) ability from [Biopsionics](#Biopsionics), because that technique is meant to augment another power you don't have.
 
 - ***Level 2:*** You now have a maximum Effort of two points. You may pick a second ability according to the guidelines above. This second does not need to be a stand-alone technique if it augments the power you chose for level 1 of this focus. Thus, if your first pick was gaining the level-0 power of [*Psychic Succor*](#Core%20Technique%20-%20Psychic%20Succor), your second could be [*Mastered Succor*](#Mastered%20Succor). You still could not get the level-1 core power of [*Psychic Succor*](#Core%20Technique%20-%20Psychic%20Succor), however, as you're still restricted to level-0.
 
@@ -1199,9 +1199,9 @@ Next, determine your maximum [***hit points***](#^character-hit-points). Your [h
 
 Now note down your ***base attack bonus***. For most PCs, this is equal to half your character level, rounded down, so it's +0 for most characters. If your hero is a Warrior or an Adventurer with the Partial Warrior class option, your beginning base attack bonus is +1.
 
-Record your Physical, Mental, and Evasion [#saving throws](#saving%20throws). Your Physical saving throw is 15 minus the better of your Strength or Constitution attribute modifiers. Your Mental saving throw is 15 minus the better of your Wisdom or Charisma attribute modifiers. Your Evasion saving throw is 15 minus the better of your Dexterity or Intelligence attribute modifiers. If you have a penalty in both modifiers, it's possible to have a saving throw of 16 or more.
+Record your Physical, Mental, and Evasion [saving throws](#saving%20throws). Your Physical saving throw is 15 minus the better of your Strength or Constitution attribute modifiers. Your Mental saving throw is 15 minus the better of your Wisdom or Charisma attribute modifiers. Your Evasion saving throw is 15 minus the better of your Dexterity or Intelligence attribute modifiers. If you have a penalty in both modifiers, it's possible to have a saving throw of 16 or more.
 
-Lastly, either choose an equipment package from the list starting [#here](#here) or roll 2d6 x 100 to find out how many credits you have to buy your beginning gear.
+Lastly, either choose an equipment package from the list starting [here](#here) or roll 2d6 x 100 to find out how many credits you have to buy your beginning gear.
 
 ## PCs and Languages
 
@@ -1217,7 +1217,7 @@ Rather than choosing gear from the Equipment chapter, you can just take a premad
 
 Once you’ve chosen your equipment, make sure to note down the damage and hit bonus of your weapons, and the Armor Class of any armor you have.
 
-For weapons, your hit bonus is your base attack bonus plus your applicable skill, plus the attribute modifier used by the weapon. For [#ranged weapons](#ranged%20weapons), this is usually Dexterity, while most melee weapons are Strength or Dexterity. Ranged energy weapons add +1 to this, as they lack recoil or windage. Damage is equal to the weapon's damage die plus the attribute modifier.
+For weapons, your hit bonus is your base attack bonus plus your applicable skill, plus the attribute modifier used by the weapon. For [ranged weapons](#ranged%20weapons), this is usually Dexterity, while most melee weapons are Strength or Dexterity. Ranged energy weapons add +1 to this, as they lack recoil or windage. Damage is equal to the weapon's damage die plus the attribute modifier.
 
 For armor, your total Armor Class is that of your armor plus your Dexterity modifier. Multiple suits of armor do not stack together.
 
@@ -1395,7 +1395,7 @@ The first step is to roll on the class table below. This will give you your clas
 
 Next, it's time to pick or roll from the background table to the right. Don't worry if it doesn't seem to fit your class; if your Melee Warrior happens to roll a past as a Scholar, just take a moment to decide why it is that an erudite scientist might also have a savage left hook. You can switch around your attributes if you want to make things fit more closely, such as swapping your Intelligence and Charisma in the case above.
 
-The background options are general concepts as described starting on [#here](#here). Your hero might be a model example of their type, or you might shuffle around their details a little, deciding your Ranged Warrior Official is an ex-cop bounced out of the force after investigating an alien smuggling ring a little too closely.
+The background options are general concepts as described starting on [here](#here). Your hero might be a model example of their type, or you might shuffle around their details a little, deciding your Ranged Warrior Official is an ex-cop bounced out of the force after investigating an alien smuggling ring a little too closely.
 
 Once you've rolled or chosen your background, note down the three skills listed with it. If one of the skills says “Any Combat”, choose either Punch, Shoot, or Stab depending on what fits best for your hero.
 
@@ -1426,7 +1426,7 @@ You'll want to decide on your homeworld at this point too. If you're not familia
 | 19  | Vagabond    | Notice-0, Sneak-0, Survive-0      |
 | 20  | Worker      | Connect-0, Exert-0, Work-0        |
 
-If you picked or rolled the Psychic class, roll twice on the table to the left to find out what psychic disciplines you've trained to level-0. If you roll or pick the same one twice, it's level-1, and you should pick a free level-1 technique from the Psionics chapter [#here](#here).
+If you picked or rolled the Psychic class, roll twice on the table to the left to find out what psychic disciplines you've trained to level-0. If you roll or pick the same one twice, it's level-1, and you should pick a free level-1 technique from the Psionics chapter [here](#here).
 
 Take a minute to decide where you were trained to safely use your innate powers. If you're not sure, ask the GM which psychic academy makes the most sense.
 
@@ -1484,7 +1484,7 @@ If you're playing a Psychic, note down your beginning maximum Effort, which is e
 
 Write down your saving throws. Your Physical saving throw is equal to 15 minus your Strength or Constitution modifiers, whichever is better. Your Evasion saving throw is equal to 15 minus the better of your Dexterity or Intelligence modifiers, and your Mental saving throw is 15 minus the better of your Wisdom or Charisma modifiers.
 
-Pick your starting equipment, either rolling 2d6 x 100 to find your beginning credit total or picking a package from [#here](#here). Note down your beginning hit bonus totals and damage for any weapons you have, and the Armor Class total for any armor you wear.
+Pick your starting equipment, either rolling 2d6 x 100 to find your beginning credit total or picking a package from [here](#here). Note down your beginning hit bonus totals and damage for any weapons you have, and the Armor Class total for any armor you wear.
 
 Finally, put a name on this budding hero and choose their initial goal. What are they trying to accomplish right now? Get rich? Get off their tedious homeworld? Take revenge on a local tyrant? Whatever you pick should be something that motivates your hero from the very start, and it should also be something that complements the interests of the rest of the players. Nobody's going to thank you if you roll up a PC that none of the other party members would want to associate with, or one that can't be expected to play nicely with the rest of the group.
 
@@ -2144,16 +2144,16 @@ The psychic can use *Personal Apportation* as a Main Action to teleport an unwil
 
 # System Quick Links
 
-- [#System Quick Reference](#System%20Quick%20Reference)
-- [#Skill Checks](#Skill%20Checks)
-- [#Combat](#Combat)
-- [#Types of Actions](#Types%20of%20Actions)
-- [#Main Action - One per Turn](#Main%20Action%20-%20One%20per%20Turn)
-- [#Move Action - One per Turn](#Move%20Action%20-%20One%20per%20Turn)
-- [#On Turn Action - Any Amount on Your Turn](#On%20Turn%20Action%20-%20Any%20Amount%20on%20Your%20Turn)
-- [#Instant Action - Any Amount, Any Time](#Instant%20Action%20-%20Any%20Amount,%20Any%20Time)
-- [#Hit Roll Modifiers](#Hit%20Roll%20Modifiers)
-- [#Actions in Combat](#Actions%20in%20Combat)
+- [System Quick Reference](#System%20Quick%20Reference)
+- [Skill Checks](#Skill%20Checks)
+- [Combat](#Combat)
+- [Types of Actions](#Types%20of%20Actions)
+- [Main Action - One per Turn](#Main%20Action%20-%20One%20per%20Turn)
+- [Move Action - One per Turn](#Move%20Action%20-%20One%20per%20Turn)
+- [On Turn Action - Any Amount on Your Turn](#On%20Turn%20Action%20-%20Any%20Amount%20on%20Your%20Turn)
+- [Instant Action - Any Amount, Any Time](#Instant%20Action%20-%20Any%20Amount,%20Any%20Time)
+- [Hit Roll Modifiers](#Hit%20Roll%20Modifiers)
+- [Actions in Combat](#Actions%20in%20Combat)
 - [Common Hacking Actions](#Table%20-%20Hacking%20Attempt%20Difficulties)
 - [Answer a Specific Question](#^example-hacking-actions-answer-a-specific-question)
 - [Get General Information](#^example-hacking-actions-get-general-information)
@@ -2161,12 +2161,12 @@ The psychic can use *Personal Apportation* as a Main Action to teleport an unwil
 - [Suppress a System](#^example-hacking-actions-suppress-a-system)
 - [Subvert a System](#^example-hacking-actions-subvert-a-system)
 - [Sabotage a System](#^example-hacking-actions-sabotage-a-system)
-- [#Environmental Hazards](#Environmental%20Hazards)
-- [#Falling](#Falling)
-- [#Radiation](#Radiation)
-- [#Poisons](#Poisons)
-- [#Hard Vacuum](#Hard%20Vacuum)
-- [#Diseases](#Diseases)
+- [Environmental Hazards](#Environmental%20Hazards)
+- [Falling](#Falling)
+- [Radiation](#Radiation)
+- [Poisons](#Poisons)
+- [Hard Vacuum](#Hard%20Vacuum)
+- [Diseases](#Diseases)
 
 # Systems
 
@@ -2312,7 +2312,7 @@ Every actor can make one Main Action each round. Main Actions are those deeds th
 
 Every actor can make one Move action each round, running up to 10 meters. This movement assumes that an actor is dodging enemies, paying attention to the surroundings, navigating awkward terrain, and generally dealing with the hazards of a battlefield. Climbing a surface, swimming, or passing extremely rough terrain halves this movement rate. Actors can't split their Move action, such as taking part of it before using their Main Action and the rest afterwards.
 
-An actor who wants to disengage from an opponent in melee must use their Main Action to perform a [#*Fighting Withdrawal*](#*Fighting%20Withdrawal*), or else they suffer a free automatic melee attack from any foe engaged with them. There is no need to spend a Main Action disengaging from enemies who are wielding only ranged weapons. While it's possible to use a rifle to buttstroke someone or pistol-whip a near combatant, such weapons aren't as effectively threatening as true melee weapons.
+An actor who wants to disengage from an opponent in melee must use their Main Action to perform a [*Fighting Withdrawal*](#*Fighting%20Withdrawal*), or else they suffer a free automatic melee attack from any foe engaged with them. There is no need to spend a Main Action disengaging from enemies who are wielding only ranged weapons. While it's possible to use a rifle to buttstroke someone or pistol-whip a near combatant, such weapons aren't as effectively threatening as true melee weapons.
 
 ### On Turn Action - Any Amount on Your Turn
 
@@ -2377,7 +2377,7 @@ The combatant fires or throws a Readied ranged weapon at a target. The combatant
 
 ## Make a Snap Attack - Instant Action
 
-A combatant with a Ready weapon can rush their attack, sacrificing accuracy for speed. The combatant must still have their Main Action impending or available. As an Instant, they can sacrifice it to [*Make a Melee Attack*](#make-a-melee-attack-main-action) or [#*Make a Ranged Attack*](#*Make%20a%20Ranged%20Attack*) against a foe in range, whether a snap shot with a pistol or a quick thrust at an adjacent melee foe. This attack takes a -4 penalty to its hit roll. If multiple combatants decide to make Snap Attacks at the same time, they are resolved simultaneously.
+A combatant with a Ready weapon can rush their attack, sacrificing accuracy for speed. The combatant must still have their Main Action impending or available. As an Instant, they can sacrifice it to [*Make a Melee Attack*](#make-a-melee-attack-main-action) or [*Make a Ranged Attack*](#*Make%20a%20Ranged%20Attack*) against a foe in range, whether a snap shot with a pistol or a quick thrust at an adjacent melee foe. This attack takes a -4 penalty to its hit roll. If multiple combatants decide to make Snap Attacks at the same time, they are resolved simultaneously.
 
 Snap Attacks are usually made only by the desperate, the undisciplined, or the elite, and the GM should rarely have NPCs employ them. Untrained hooligans might blaze away in excitement or panic, or a gunman being charged by a howling spearman might risk a shot before he gets too close, but most combatants can't afford to take such a heavy penalty to their hit roll. Truly skilled combatants, however, can sometimes get away with such risks, particularly if they have a Warrior's class ability to turn a miss into a hit.
 
@@ -2428,13 +2428,13 @@ The combatant falls flat, forcing distant ranged attackers to take a -2 penalty 
 
 ## Hold An Action - Move Action
 
-By choosing to *Hold An Action*, the combatant can delay taking the rest of their actions until later in the round, activating them as an Instant action. Thus, a hero who wins initiative might use their Move action to *Hold An Action*. Later in the round, as an enemy rushes around a corner, he may Instantly elect to use his Main Action to [#*Make A Ranged Attack*](#*Make%20A%20Ranged%20Attack*) with his readied laser rifle. If acting in response to someone else's impending action, the held action is resolved first.
+By choosing to *Hold An Action*, the combatant can delay taking the rest of their actions until later in the round, activating them as an Instant action. Thus, a hero who wins initiative might use their Move action to *Hold An Action*. Later in the round, as an enemy rushes around a corner, he may Instantly elect to use his Main Action to [*Make A Ranged Attack*](#*Make%20A%20Ranged%20Attack*) with his readied laser rifle. If acting in response to someone else's impending action, the held action is resolved first.
 
 ## Examples of Murder
 
->  Yaddle and Bort, two drunken hive thugs, get involved in an impromptu knife fight over a card game. Yaddle wins the initiative roll, but Bort elects to make a [#Snap Attack](#Snap%20Attack), since Yaddle is within convenient range of Bort's Readied knife. Incensed, Yaddle also decides to make a [#Snap Attack](#Snap%20Attack), so the two resolve their attacks simultaneously.
+>  Yaddle and Bort, two drunken hive thugs, get involved in an impromptu knife fight over a card game. Yaddle wins the initiative roll, but Bort elects to make a [Snap Attack](#Snap%20Attack), since Yaddle is within convenient range of Bort's Readied knife. Incensed, Yaddle also decides to make a [Snap Attack](#Snap%20Attack), so the two resolve their attacks simultaneously.
 >
->  Bort has a hit bonus of +1. Being an NPC, he doesn't add skills or attribute modifiers; he just rolls 1d20, adds 1 to it for his attack bonus, and applies a -4 penalty for a [#Snap Attack](#Snap%20Attack) to find the Armor Class he hits. His modified roll is 11, which is enough to hit the unarmored
+>  Bort has a hit bonus of +1. Being an NPC, he doesn't add skills or attribute modifiers; he just rolls 1d20, adds 1 to it for his attack bonus, and applies a -4 penalty for a [Snap Attack](#Snap%20Attack) to find the Armor Class he hits. His modified roll is 11, which is enough to hit the unarmored
 >
 >  Yaddle, who has an AC of 10. Bort rolls 1d4 for his small, primitive knife, inflicting 3 points of damage. Again, as an NPC, he doesn't add attribute modifiers to the damage.
 >
@@ -2834,7 +2834,7 @@ You can use a Move action to stand up from prone, club up a ranged weapon, or mo
 
 You can use an On Turn action to fall prone, say something, drop an object, or do anything else that's very simple to do and takes almost no time or attention.
 
-You can use an Instant action at any time to trigger certain special powers. You can also use it to make a [#Snap Attack](#Snap%20Attack) with a weapon or go totally defensive, though both of the latter will cost you your Main Action for the round, and can't be done if you've already used your Main Action.
+You can use an Instant action at any time to trigger certain special powers. You can also use it to make a [Snap Attack](#Snap%20Attack) with a weapon or go totally defensive, though both of the latter will cost you your Main Action for the round, and can't be done if you've already used your Main Action.
 
 ## Hitting in Combat
 
@@ -3146,7 +3146,7 @@ Aside from their type, weapons are counted as ***primitive*** or ***advanced***.
 
 ## Shock
 
-Many [#melee weapons](#melee%20weapons) have a ***Shock*** trait representing the danger they pose to an ill-armored opponent. Shock damage represents the inevitable cuts, bruises, exhaustion, and terror of close combat.
+Many [melee weapons](#melee%20weapons) have a ***Shock*** trait representing the danger they pose to an ill-armored opponent. Shock damage represents the inevitable cuts, bruises, exhaustion, and terror of close combat.
 
 Shock damage is only inflicted on a melee target if the hit roll *fails*, and it only applies if the target has an AC equal or less than that listed for the Shock.
 
@@ -3961,7 +3961,7 @@ If a mod goes without maintenance for 24 hours, it stops working. If a mod goes 
 
 Sometimes a wrench jockey will want to build their own equipment rather than purchase it off the shelf. This may be because there's no such gear for sale, the equipment is illegal on this world, the tech wants it cheaper than the vendors sell it, or the tech wants to build a custom platform for their favorite mods. The gear built this way must be feasible to create in a workshop; guns, armor, and modestly-sized vehicles are possible, but starship components and other major constructions are not.
 
-A tech requires a TL4 workshop to build most TL4 equipment. More primitive gear can be built with less elaborate resources at the GM's discretion. The workshop must be at least nominally capable of working with the kind of gear the tech is building. A vehicle repair shop will not have the tools to brew pharmaceuticals, and a back-room electronics shop won't have the lifts to work on armored vehicles. If the tech needs to refit a workshop to work on a particular type of unsupported gear, they can pay half the shop's original price to get the needed tools. [#Starships](#Starships) with *Workshop* fittings are always sufficient for personal gear modifications.
+A tech requires a TL4 workshop to build most TL4 equipment. More primitive gear can be built with less elaborate resources at the GM's discretion. The workshop must be at least nominally capable of working with the kind of gear the tech is building. A vehicle repair shop will not have the tools to brew pharmaceuticals, and a back-room electronics shop won't have the lifts to work on armored vehicles. If the tech needs to refit a workshop to work on a particular type of unsupported gear, they can pay half the shop's original price to get the needed tools. [Starships](#Starships) with *Workshop* fittings are always sufficient for personal gear modifications.
 
 The tech needs a supply of parts. In any TL4 city or sizable community, the tech can scrounge, barter, or buy what they need from the locals. A tech working in a shop out in the wilds can prepare by taking a few footlockers full of materials that can fit in a vehicle or on pack animals, buying a certain number of credits worth of spare parts and hauling them along. Techs in dire need can strip ancient high-tech ruins, battlefields, and scrap heaps for parts if no better source is available.
 
@@ -4005,17 +4005,17 @@ The mods listed below are simply a sample of those a GM might approve for their 
 
 # Starship Quick Links
 
-- [#Building a Starship](#Building%20a%20Starship)
-- [#Hull Types](#Hull%20Types)
-- [#Starship Fittings](#Starship%20Fittings)
-- [#Starship Defenses](#Starship%20Defenses)
-- [#Starship Weaponry](#Starship%20Weaponry)
-- [#Example Starships](#Example%20Starships)
-- [#Starship Mods](#Starship%20Mods)
-- [#Space Travel](#Space%20Travel)
-- [#Sensors and Detection](#Sensors%20and%20Detection)
-- [#Starship Combat Actions](#Starship%20Combat%20Actions)
-- [#Maintenance and Repair](#Maintenance%20and%20Repair)
+- [Building a Starship](#Building%20a%20Starship)
+- [Hull Types](#Hull%20Types)
+- [Starship Fittings](#Starship%20Fittings)
+- [Starship Defenses](#Starship%20Defenses)
+- [Starship Weaponry](#Starship%20Weaponry)
+- [Example Starships](#Example%20Starships)
+- [Starship Mods](#Starship%20Mods)
+- [Space Travel](#Space%20Travel)
+- [Sensors and Detection](#Sensors%20and%20Detection)
+- [Starship Combat Actions](#Starship%20Combat%20Actions)
+- [Maintenance and Repair](#Maintenance%20and%20Repair)
 - [Ship Crisis Chart](#Table%20-%20Starship%20Crises)
 
 # STARSHIPS
@@ -5637,106 +5637,106 @@ Naturally, you should feel free to come up with your own tags as well. Almost an
 
 | d100 | Tag                       |
 |:----:| ------------------------- |
-|  01  | [#Abandoned Colony](#Abandoned%20Colony)     |
-|  02  | [#Alien Ruins](#Alien%20Ruins)          |
-|  03  | [#Altered Humanity](#Altered%20Humanity)     |
-|  04  | [#Anarchists](#Anarchists)           |
-|  05  | [#Anthropomorphs](#Anthropomorphs)       |
-|  06  | [#Area 51](#Area%2051)              |
-|  07  | [#Badlands World](#Badlands%20World)       |
-|  08  | [#Battleground](#Battleground)         |
-|  09  | [#Beastmasters](#Beastmasters)         |
-|  10  | [#Bubble Cities](#Bubble%20Cities)        |
-|  11  | [#Cheap Life](#Cheap%20Life)           |
-|  12  | [#Civil War](#Civil%20War)            |
-|  13  | [#Cold War](#Cold%20War)             |
-|  14  | [#Colonized Population](#Colonized%20Population) |
-|  15  | [#Cultural Power](#Cultural%20Power)       |
-|  16  | [#Cybercommunists](#Cybercommunists)      |
-|  17  | [#Cyborgs](#Cyborgs)              |
-|  18  | [#Cyclical Doom](#Cyclical%20Doom)        |
-|  19  | [#Desert World](#Desert%20World)         |
-|  20  | [#Doomed World](#Doomed%20World)         |
-|  21  | [#Dying Race](#Dying%20Race)           |
-|  22  | [#Eugenic Cult](#Eugenic%20Cult)         |
-|  23  | [#Exchange Consulate](#Exchange%20Consulate)   |
-|  24  | [#Fallen Hegemon](#Fallen%20Hegemon)       |
-|  25  | [#Feral World](#Feral%20World)          |
-|  26  | [#Flying Cities](#Flying%20Cities)        |
-|  27  | [#Forbidden Tech](#Forbidden%20Tech)       |
-|  28  | [#Former Warriors](#Former%20Warriors)      |
-|  29  | [#Freak Geology](#Freak%20Geology)        |
-|  30  | [#Freak Weather](#Freak%20Weather)        |
-|  31  | [#Friendly Foe](#Friendly%20Foe)         |
-|  32  | [#Gold Rush](#Gold%20Rush)            |
-|  33  | [#Great Work](#Great%20Work)           |
-|  34  | [#Hatred](#Hatred)               |
-|  35  | [#Heavy Industry](#Heavy%20Industry)       |
-|  36  | [#Heavy Mining](#Heavy%20Mining)         |
-|  37  | [#Hivemind](#Hivemind)             |
-|  38  | [#Holy War](#Holy%20War)             |
-|  39  | [#Hostile Biosphere](#Hostile%20Biosphere)    |
-|  40  | [#Hostile Space](#Hostile%20Space)        |
-|  41  | [#Immortals](#Immortals)            |
-|  42  | [#Local Specialty](#Local%20Specialty)      |
-|  43  | [#Local Tech](#Local%20Tech)           |
-|  44  | [#Major Spaceyard](#Major%20Spaceyard)      |
-|  45  | [#Mandarinate](#Mandarinate)          |
-|  46  | [#Mandate Base](#Mandate%20Base)         |
-|  47  | [#Maneaters](#Maneaters)            |
-|  48  | [#Megacorps](#Megacorps)            |
-|  49  | [#Mercenaries](#Mercenaries)          |
-|  50  | [#Minimal Contact](#Minimal%20Contact)      |
-|  51  | [#Misandry/Misogyny](#Misandry/Misogyny)    |
-|  52  | [#Night World](#Night%20World)          |
-|  53  | [#Nomads](#Nomads)               |
-|  54  | [#Oceanic World](#Oceanic%20World)        |
-|  55  | [#Out of Contact](#Out%20of%20Contact)       |
-|  56  | [#Outpost World](#Outpost%20World)        |
-|  57  | [#Perimeter Agency](#Perimeter%20Agency)     |
-|  58  | [#Pilgrimage Site](#Pilgrimage%20Site)      |
-|  59  | [#Pleasure World](#Pleasure%20World)       |
-|  60  | [#Police State](#Police%20State)         |
-|  61  | [#Post-Scarcity](#Post-Scarcity)        |
-|  62  | [#Preceptor Archive](#Preceptor%20Archive)    |
-|  63  | [#Pretech Cultists](#Pretech%20Cultists)     |
-|  64  | [#Primitive Aliens](#Primitive%20Aliens)     |
-|  65  | [#Prison Planet](#Prison%20Planet)        |
-|  66  | [#Psionics Academy](#Psionics%20Academy)     |
-|  67  | [#Psionics Fear](#Psionics%20Fear)        |
-|  68  | [#Psionics Worship](#Psionics%20Worship)     |
-|  69  | [#Quarantined World](#Quarantined%20World)    |
-|  70  | [#Radioactive World](#Radioactive%20World)    |
-|  71  | [#Refugees](#Refugees)             |
-|  72  | [#Regional Hegemon](#Regional%20Hegemon)     |
-|  73  | [#Restrictive Laws](#Restrictive%20Laws)     |
-|  74  | [#Revanchists](#Revanchists)          |
-|  75  | [#Revolutionaries](#Revolutionaries)      |
-|  76  | [#Rigid Culture](#Rigid%20Culture)        |
-|  77  | [#Rising Hegemon](#Rising%20Hegemon)       |
-|  78  | [#Ritual Combat](#Ritual%20Combat)        |
-|  79  | [#Robots](#Robots)               |
-|  80  | [#Seagoing Cities](#Seagoing%20Cities)      |
-|  81  | [#Sealed Menace](#Sealed%20Menace)        |
-|  83  | [#Secret Masters](#Secret%20Masters)       |
-|  82  | [#Sectarians](#Sectarians)           |
-|  84  | [#Seismic Instability](#Seismic%20Instability)  |
-|  85  | [#Shackled World](#Shackled%20World)       |
-|  86  | [#Societal Despair](#Societal%20Despair)     |
-|  87  | [#Sole Supplier](#Sole%20Supplier)        |
-|  88  | [#Taboo Treasure](#Taboo%20Treasure)       |
-|  89  | [#Terraform Failure](#Terraform%20Failure)    |
-|  90  | [#Theocracy](#Theocracy)            |
-|  91  | [#Tomb World](#Tomb%20World)           |
-|  92  | [#Trade Hub](#Trade%20Hub)            |
-|  93  | [#Tyranny](#Tyranny)              |
-|  94  | [#Unbraked AI](#Unbraked%20AI)          |
-|  95  | [#Urbanized Surface](#Urbanized%20Surface)    |
-|  96  | [#Utopia](#Utopia)               |
-|  97  | [#Warlords](#Warlords)             |
-|  98  | [#Xenophiles](#Xenophiles)           |
-|  99  | [#Xenophobes](#Xenophobes)           |
-|  00  | [#Zombies](#Zombies)              |
+|  01  | [Abandoned Colony](#Abandoned%20Colony)     |
+|  02  | [Alien Ruins](#Alien%20Ruins)          |
+|  03  | [Altered Humanity](#Altered%20Humanity)     |
+|  04  | [Anarchists](#Anarchists)           |
+|  05  | [Anthropomorphs](#Anthropomorphs)       |
+|  06  | [Area 51](#Area%2051)              |
+|  07  | [Badlands World](#Badlands%20World)       |
+|  08  | [Battleground](#Battleground)         |
+|  09  | [Beastmasters](#Beastmasters)         |
+|  10  | [Bubble Cities](#Bubble%20Cities)        |
+|  11  | [Cheap Life](#Cheap%20Life)           |
+|  12  | [Civil War](#Civil%20War)            |
+|  13  | [Cold War](#Cold%20War)             |
+|  14  | [Colonized Population](#Colonized%20Population) |
+|  15  | [Cultural Power](#Cultural%20Power)       |
+|  16  | [Cybercommunists](#Cybercommunists)      |
+|  17  | [Cyborgs](#Cyborgs)              |
+|  18  | [Cyclical Doom](#Cyclical%20Doom)        |
+|  19  | [Desert World](#Desert%20World)         |
+|  20  | [Doomed World](#Doomed%20World)         |
+|  21  | [Dying Race](#Dying%20Race)           |
+|  22  | [Eugenic Cult](#Eugenic%20Cult)         |
+|  23  | [Exchange Consulate](#Exchange%20Consulate)   |
+|  24  | [Fallen Hegemon](#Fallen%20Hegemon)       |
+|  25  | [Feral World](#Feral%20World)          |
+|  26  | [Flying Cities](#Flying%20Cities)        |
+|  27  | [Forbidden Tech](#Forbidden%20Tech)       |
+|  28  | [Former Warriors](#Former%20Warriors)      |
+|  29  | [Freak Geology](#Freak%20Geology)        |
+|  30  | [Freak Weather](#Freak%20Weather)        |
+|  31  | [Friendly Foe](#Friendly%20Foe)         |
+|  32  | [Gold Rush](#Gold%20Rush)            |
+|  33  | [Great Work](#Great%20Work)           |
+|  34  | [Hatred](#Hatred)               |
+|  35  | [Heavy Industry](#Heavy%20Industry)       |
+|  36  | [Heavy Mining](#Heavy%20Mining)         |
+|  37  | [Hivemind](#Hivemind)             |
+|  38  | [Holy War](#Holy%20War)             |
+|  39  | [Hostile Biosphere](#Hostile%20Biosphere)    |
+|  40  | [Hostile Space](#Hostile%20Space)        |
+|  41  | [Immortals](#Immortals)            |
+|  42  | [Local Specialty](#Local%20Specialty)      |
+|  43  | [Local Tech](#Local%20Tech)           |
+|  44  | [Major Spaceyard](#Major%20Spaceyard)      |
+|  45  | [Mandarinate](#Mandarinate)          |
+|  46  | [Mandate Base](#Mandate%20Base)         |
+|  47  | [Maneaters](#Maneaters)            |
+|  48  | [Megacorps](#Megacorps)            |
+|  49  | [Mercenaries](#Mercenaries)          |
+|  50  | [Minimal Contact](#Minimal%20Contact)      |
+|  51  | [Misandry/Misogyny](#Misandry/Misogyny)    |
+|  52  | [Night World](#Night%20World)          |
+|  53  | [Nomads](#Nomads)               |
+|  54  | [Oceanic World](#Oceanic%20World)        |
+|  55  | [Out of Contact](#Out%20of%20Contact)       |
+|  56  | [Outpost World](#Outpost%20World)        |
+|  57  | [Perimeter Agency](#Perimeter%20Agency)     |
+|  58  | [Pilgrimage Site](#Pilgrimage%20Site)      |
+|  59  | [Pleasure World](#Pleasure%20World)       |
+|  60  | [Police State](#Police%20State)         |
+|  61  | [Post-Scarcity](#Post-Scarcity)        |
+|  62  | [Preceptor Archive](#Preceptor%20Archive)    |
+|  63  | [Pretech Cultists](#Pretech%20Cultists)     |
+|  64  | [Primitive Aliens](#Primitive%20Aliens)     |
+|  65  | [Prison Planet](#Prison%20Planet)        |
+|  66  | [Psionics Academy](#Psionics%20Academy)     |
+|  67  | [Psionics Fear](#Psionics%20Fear)        |
+|  68  | [Psionics Worship](#Psionics%20Worship)     |
+|  69  | [Quarantined World](#Quarantined%20World)    |
+|  70  | [Radioactive World](#Radioactive%20World)    |
+|  71  | [Refugees](#Refugees)             |
+|  72  | [Regional Hegemon](#Regional%20Hegemon)     |
+|  73  | [Restrictive Laws](#Restrictive%20Laws)     |
+|  74  | [Revanchists](#Revanchists)          |
+|  75  | [Revolutionaries](#Revolutionaries)      |
+|  76  | [Rigid Culture](#Rigid%20Culture)        |
+|  77  | [Rising Hegemon](#Rising%20Hegemon)       |
+|  78  | [Ritual Combat](#Ritual%20Combat)        |
+|  79  | [Robots](#Robots)               |
+|  80  | [Seagoing Cities](#Seagoing%20Cities)      |
+|  81  | [Sealed Menace](#Sealed%20Menace)        |
+|  83  | [Secret Masters](#Secret%20Masters)       |
+|  82  | [Sectarians](#Sectarians)           |
+|  84  | [Seismic Instability](#Seismic%20Instability)  |
+|  85  | [Shackled World](#Shackled%20World)       |
+|  86  | [Societal Despair](#Societal%20Despair)     |
+|  87  | [Sole Supplier](#Sole%20Supplier)        |
+|  88  | [Taboo Treasure](#Taboo%20Treasure)       |
+|  89  | [Terraform Failure](#Terraform%20Failure)    |
+|  90  | [Theocracy](#Theocracy)            |
+|  91  | [Tomb World](#Tomb%20World)           |
+|  92  | [Trade Hub](#Trade%20Hub)            |
+|  93  | [Tyranny](#Tyranny)              |
+|  94  | [Unbraked AI](#Unbraked%20AI)          |
+|  95  | [Urbanized Surface](#Urbanized%20Surface)    |
+|  96  | [Utopia](#Utopia)               |
+|  97  | [Warlords](#Warlords)             |
+|  98  | [Xenophiles](#Xenophiles)           |
+|  99  | [Xenophobes](#Xenophobes)           |
+|  00  | [Zombies](#Zombies)              |
 
 
 
@@ -8603,12 +8603,12 @@ Few of these anarchic outposts last for very long. The stronger and more active 
 
 # ADVENTURE CREATION QUICK LINKS
 
-- [#Adventure Rewards](#Adventure%20Rewards)
-- [#Creating Problems](#Creating%20Problems)
-- [#Creating People](#Creating%20People)
-- [#Creating Places](#Creating%20Places)
-- [#Adventure Seeds](#Adventure%20Seeds)
-- [#AN EXAMPLE OF ADVENTURE CREATION](#AN%20EXAMPLE%20OF%20ADVENTURE%20CREATION)
+- [Adventure Rewards](#Adventure%20Rewards)
+- [Creating Problems](#Creating%20Problems)
+- [Creating People](#Creating%20People)
+- [Creating Places](#Creating%20Places)
+- [Adventure Seeds](#Adventure%20Seeds)
+- [AN EXAMPLE OF ADVENTURE CREATION](#AN%20EXAMPLE%20OF%20ADVENTURE%20CREATION)
 
 # ADVENTURE CREATION
 
@@ -9458,18 +9458,18 @@ As a general rule of thumb, a single seed should occupy the group for a single s
 
 # Xenobestiary Quick Links
 
-- [#The Reaction Roll](#The%20Reaction%20Roll)
+- [The Reaction Roll](#The%20Reaction%20Roll)
 - [Humanity NPC](#Table%20-%20Common%20NPCs)
-- [#Robots and VIs](#Robots%20and%20VIs)
-- [#Types of Bots](#Types%20of%20Bots)
-- [#VI Player Characters](#VI%20Player%20Characters)
-- [#Beasts](#Beasts)
-- [#Styling the Beast](#Styling%20the%20Beast)
-- [#Aliens](#Aliens)
-- [#Alien Psychology and Lenses](#Alien%20Psychology%20and%20Lenses)
-- [#Alien Technology](#Alien%20Technology)
-- [#Alien Motivation](#Alien%20Motivation)
-- [#Alien Player Characters](#Alien%20Player%20Characters)
+- [Robots and VIs](#Robots%20and%20VIs)
+- [Types of Bots](#Types%20of%20Bots)
+- [VI Player Characters](#VI%20Player%20Characters)
+- [Beasts](#Beasts)
+- [Styling the Beast](#Styling%20the%20Beast)
+- [Aliens](#Aliens)
+- [Alien Psychology and Lenses](#Alien%20Psychology%20and%20Lenses)
+- [Alien Technology](#Alien%20Technology)
+- [Alien Motivation](#Alien%20Motivation)
+- [Alien Player Characters](#Alien%20Player%20Characters)
 
 # XENOBESTIARY
 
@@ -10113,17 +10113,17 @@ The alien is impervious to some threat that's relatively common. A significant o
 
 # Faction Quick Links
 
-- [#Factions, Assets, and Turns](#Factions,%20Assets,%20and%20Turns)
-- [#Faction Actions](#Faction%20Actions)
-- [#Faction Goals](#Faction%20Goals)
-- [#Cunning Assets](#Cunning%20Assets)
-- [#Cunning Assets Chart](#Cunning%20Assets%20Chart)
-- [#Force Assets](#Force%20Assets)
-- [#Force Assets Chart](#Force%20Assets%20Chart)
-- [#Wealth Assets](#Wealth%20Assets)
-- [#Wealth Assets Chart](#Wealth%20Assets%20Chart)
-- [#Faction Tags](#Faction%20Tags)
-- [#Example Factions](#Example%20Factions)
+- [Factions, Assets, and Turns](#Factions,%20Assets,%20and%20Turns)
+- [Faction Actions](#Faction%20Actions)
+- [Faction Goals](#Faction%20Goals)
+- [Cunning Assets](#Cunning%20Assets)
+- [Cunning Assets Chart](#Cunning%20Assets%20Chart)
+- [Force Assets](#Force%20Assets)
+- [Force Assets Chart](#Force%20Assets%20Chart)
+- [Wealth Assets](#Wealth%20Assets)
+- [Wealth Assets Chart](#Wealth%20Assets%20Chart)
+- [Faction Tags](#Faction%20Tags)
+- [Example Factions](#Example%20Factions)
 
 # FACTIONS
 
@@ -11067,14 +11067,14 @@ The Combine goes last, and is at a crossroads. Their income this turn gives them
 
 # GM Resources Quick Links
 
-- [#Common Complications](#Common%20Complications)
-- [#Converting First Edition](#Converting%20First%20Edition)
-- [#House Rules and the Game](#House%20Rules%20and%20the%20Game)
-- [#Name Generators](#Name%20Generators)
-- [#One-Roll NPCs](#One-Roll%20NPCs)
-- [#One-Roll Patrons](#One-Roll%20Patrons)
-- [#One-Roll Urban Encounters](#One-Roll%20Urban%20Encounters)
-- [#One-Roll Wilderness Encounters](#One-Roll%20Wilderness%20Encounters)
+- [Common Complications](#Common%20Complications)
+- [Converting First Edition](#Converting%20First%20Edition)
+- [House Rules and the Game](#House%20Rules%20and%20the%20Game)
+- [Name Generators](#Name%20Generators)
+- [One-Roll NPCs](#One-Roll%20NPCs)
+- [One-Roll Patrons](#One-Roll%20Patrons)
+- [One-Roll Urban Encounters](#One-Roll%20Urban%20Encounters)
+- [One-Roll Wilderness Encounters](#One-Roll%20Wilderness%20Encounters)
 
 # GAME MASTER RESOURCES
 
@@ -11220,7 +11220,7 @@ Characters have the same attributes, character level, and all other scores unles
 
 PCs retain their class. [Hit points](#^character-hit-points) are re-rolled for the character based on their revised-edition hit die. Thus, a 5th level Psychic can reroll 5d6 for their [hit points](#^character-hit-points). PCs may keep their existing hit point totals if the new roll is lower.
 
-PCs may pick a number of foci appropriate to their class and level. If converting a 2nd level Warrior, for example, the PC could pick their initial focus, their bonus Warrior focus, and the focus they get at second level. If they pick foci that grant bonus skills, apply the bonus as 3 additional skill points to the skill as described [#A Summary of Character Creation](#A%20Summary%20of%20Character%20Creation).
+PCs may pick a number of foci appropriate to their class and level. If converting a 2nd level Warrior, for example, the PC could pick their initial focus, their bonus Warrior focus, and the focus they get at second level. If they pick foci that grant bonus skills, apply the bonus as 3 additional skill points to the skill as described [A Summary of Character Creation](#A%20Summary%20of%20Character%20Creation).
 
 PC experience points are pro-rated based on the campaign. If the character was halfway to 7th level in the existing campaign, place their experience points halfway to 7th level under the revised rules.
 
@@ -11266,7 +11266,7 @@ In a few cases, these sourcebooks may call for checks from skills that have been
 
 You are encouraged to try the rules as-written at first, though, so you can be sure that you really do want to change something. If you do decide to shuffle things around, here are some possible house rules you could adopt, and some suggestions about their effects.
 
-- ***No Shock Damage:*** Weapons do not do Shock damage. This can simplify melee combat at the cost of discouraging PCs from choosing to use melee weapons and increasing the “whiff” factor with them. If you drop Shock damage, you might also choose to drop the [#*Snap Attack*](#*Snap%20Attack*) combat maneuver, as it's no longer necessary to give gunslingers a way to blaze down charging melee attackers before they get into range. ^house-rules-no-shock-damage
+- ***No Shock Damage:*** Weapons do not do Shock damage. This can simplify melee combat at the cost of discouraging PCs from choosing to use melee weapons and increasing the “whiff” factor with them. If you drop Shock damage, you might also choose to drop the [*Snap Attack*](#*Snap%20Attack*) combat maneuver, as it's no longer necessary to give gunslingers a way to blaze down charging melee attackers before they get into range. ^house-rules-no-shock-damage
 
 - ***Use Original Skill Lists:*** Like the skill list from the original edition of SWN better? Use it instead. When creating characters, allow skill picks or rolls to be converted to a corresponding original-edition skill. If the PC rolls “Shoot”, for example, let them pick Combat/ Gunnery, Combat/Projectile, or Combat/ Energy instead. When the existing rules call for a particular new skill, let the PC use any old skill that plausibly matches its function. ^house-rules-use-original-skill-list
 
@@ -11608,7 +11608,7 @@ One quick trick for creating wholly alien names is to hunt up a very obscure lan
 
 There will be times when a GM needs an NPC on short notice. The preceding name generators can be used in conjunction with these tables to quickly produce a minor fill-in character for your adventure. Simply roll one of each type of die: d4, d6, d8, d10, d12, and d20. Match them to the tables, smooth over any rough joins, and you have your instant NPC.
 
-When combat statistics are needed, just apply the most pertinent stat line from [#Table - Common NPCs](#Table%20-%20Common%20NPCs) and assume they have whatever weaponry, armor, or other personal possessions might be appropriate for someone in their social circumstance.
+When combat statistics are needed, just apply the most pertinent stat line from [Table - Common NPCs](#Table%20-%20Common%20NPCs) and assume they have whatever weaponry, armor, or other personal possessions might be appropriate for someone in their social circumstance.
 
 ### Table - Societal Role
 
@@ -11706,7 +11706,7 @@ When combat statistics are needed, just apply the most pertinent stat line from 
 
 PCs often need patrons to aim them at adventures or offer suitable recompense for semi-legal favors. In conjunction with the adjacent one-roll NPC tables, you can use the tools below to quickly generate a patron and what it is they want from the party.
 
-One particularly convenient technique is to have a few short filler adventures drawn up as described in [#Creating Filler Adventures](#Creating%20Filler%20Adventures) and then when the players suddenly need a job or need a favor that only a cooperative patron could provide, use the patron to hook them up with the filler adventure. If you lack a convenient premade adventure, it's usually most practical to have the patron request some simple, direct, one-scene job that you feel comfortable in running on the fly. You can consult [#Adventure Rewards](#Adventure%20Rewards) to find appropriate pay rates for different patrons.
+One particularly convenient technique is to have a few short filler adventures drawn up as described in [Creating Filler Adventures](#Creating%20Filler%20Adventures) and then when the players suddenly need a job or need a favor that only a cooperative patron could provide, use the patron to hook them up with the filler adventure. If you lack a convenient premade adventure, it's usually most practical to have the patron request some simple, direct, one-scene job that you feel comfortable in running on the fly. You can consult [Adventure Rewards](#Adventure%20Rewards) to find appropriate pay rates for different patrons.
 
 ### Table - Patron Trustworthiness
 
@@ -12009,60 +12009,60 @@ The tables below provide a suggested time of day and initial distance for the en
 
 ## Actions in Combat
 
-- [#Club Up a Weapon - Move Action](#Club%20Up%20a%20Weapon%20-%20Move%20Action)
-- [#Drop an Item - Instant Action](#Drop%20an%20Item%20-%20Instant%20Action)
-- [#Fighting Withdrawal - Main Action](#Fighting%20Withdrawal%20-%20Main%20Action)
-- [#Go Prone - On Turn Action](#Go%20Prone%20-%20On%20Turn%20Action)
-- [#Hold An Action - Move Action](#Hold%20An%20Action%20-%20Move%20Action)
-- [#Make a Melee Attack - Main Action](#Make%20a%20Melee%20Attack%20-%20Main%20Action)
-- [#Make a Ranged Attack - Main Action](#Make%20a%20Ranged%20Attack%20-%20Main%20Action)
-- [#Make a Snap Attack - Instant Action](#Make%20a%20Snap%20Attack%20-%20Instant%20Action)
-- [#Pick up an Item - Move Action](#Pick%20up%20an%20Item%20-%20Move%20Action)
-- [#Ready or Stow an Item - Main Action](#Ready%20or%20Stow%20an%20Item%20-%20Main%20Action)
-- [#Reload a Weapon - Main Action](#Reload%20a%20Weapon%20-%20Main%20Action)
-- [#Run - Move Action](#Run%20-%20Move%20Action)
-- [#Stand Up - Move Action](#Stand%20Up%20-%20Move%20Action)
-- [#Total Defense - Instant Action](#Total%20Defense%20-%20Instant%20Action)
-- [#Use a Skill - Main Action](#Use%20a%20Skill%20-%20Main%20Action)
+- [Club Up a Weapon - Move Action](#Club%20Up%20a%20Weapon%20-%20Move%20Action)
+- [Drop an Item - Instant Action](#Drop%20an%20Item%20-%20Instant%20Action)
+- [Fighting Withdrawal - Main Action](#Fighting%20Withdrawal%20-%20Main%20Action)
+- [Go Prone - On Turn Action](#Go%20Prone%20-%20On%20Turn%20Action)
+- [Hold An Action - Move Action](#Hold%20An%20Action%20-%20Move%20Action)
+- [Make a Melee Attack - Main Action](#Make%20a%20Melee%20Attack%20-%20Main%20Action)
+- [Make a Ranged Attack - Main Action](#Make%20a%20Ranged%20Attack%20-%20Main%20Action)
+- [Make a Snap Attack - Instant Action](#Make%20a%20Snap%20Attack%20-%20Instant%20Action)
+- [Pick up an Item - Move Action](#Pick%20up%20an%20Item%20-%20Move%20Action)
+- [Ready or Stow an Item - Main Action](#Ready%20or%20Stow%20an%20Item%20-%20Main%20Action)
+- [Reload a Weapon - Main Action](#Reload%20a%20Weapon%20-%20Main%20Action)
+- [Run - Move Action](#Run%20-%20Move%20Action)
+- [Stand Up - Move Action](#Stand%20Up%20-%20Move%20Action)
+- [Total Defense - Instant Action](#Total%20Defense%20-%20Instant%20Action)
+- [Use a Skill - Main Action](#Use%20a%20Skill%20-%20Main%20Action)
 
 
 ## Alien Player Characters
 
-- [#Aptitude for Violence](#Aptitude%20for%20Violence)
-- [#Environmental Native](#Environmental%20Native)
-- [#Innate Ability](#Innate%20Ability)
-- [#Natural Defenses](#Natural%20Defenses)
-- [#Origin Skill](#Origin%20Skill)
-- [#Psychic Aptitude](#Psychic%20Aptitude)
-- [#Shapeshifting](#Shapeshifting)
-- [#Strong Attribute](#Strong%20Attribute)
-- [#Tough](#Tough)
-- [#Unusual Movement Mode](#Unusual%20Movement%20Mode)
-- [#Useful Immunity](#Useful%20Immunity)
+- [Aptitude for Violence](#Aptitude%20for%20Violence)
+- [Environmental Native](#Environmental%20Native)
+- [Innate Ability](#Innate%20Ability)
+- [Natural Defenses](#Natural%20Defenses)
+- [Origin Skill](#Origin%20Skill)
+- [Psychic Aptitude](#Psychic%20Aptitude)
+- [Shapeshifting](#Shapeshifting)
+- [Strong Attribute](#Strong%20Attribute)
+- [Tough](#Tough)
+- [Unusual Movement Mode](#Unusual%20Movement%20Mode)
+- [Useful Immunity](#Useful%20Immunity)
 
 ## Alien Psychology and Lenses
 
-- [#Collectivity](#Collectivity)
-- [#Curiosity](#Curiosity)
-- [#Despair](#Despair)
-- [#Domination](#Domination)
-- [#Faith](#Faith)
-- [#Fear](#Fear)
-- [#Gluttony](#Gluttony)
-- [#Greed](#Greed)
-- [#Hate](#Hate)
-- [#Honor](#Honor)
-- [#Journeying](#Journeying)
-- [#Joy](#Joy)
-- [#Pacifism](#Pacifism)
-- [#Pride](#Pride)
-- [#Sagacity](#Sagacity)
+- [Collectivity](#Collectivity)
+- [Curiosity](#Curiosity)
+- [Despair](#Despair)
+- [Domination](#Domination)
+- [Faith](#Faith)
+- [Fear](#Fear)
+- [Gluttony](#Gluttony)
+- [Greed](#Greed)
+- [Hate](#Hate)
+- [Honor](#Honor)
+- [Journeying](#Journeying)
+- [Joy](#Joy)
+- [Pacifism](#Pacifism)
+- [Pride](#Pride)
+- [Sagacity](#Sagacity)
 - [Social Structure](#Alien%20Social%20Structure)
-- [#Subtlety](#Subtlety)
-- [#Tradition](#Tradition)
-- [#Treachery](#Treachery)
-- [#Tribalism](#Tribalism)
-- [#Wrath](#Wrath)
+- [Subtlety](#Subtlety)
+- [Tradition](#Tradition)
+- [Treachery](#Treachery)
+- [Tribalism](#Tribalism)
+- [Wrath](#Wrath)
 
 ## Ammo and Power
 
@@ -12118,59 +12118,59 @@ The tables below provide a suggested time of day and initial distance for the en
 
 ## Backgrounds
 
-- [#Barbarian](#Barbarian)
-- [#Clergy](#Clergy)
-- [#Courtesan](#Courtesan)
-- [#Criminal](#Criminal)
-- [#Dilettante](#Dilettante)
-- [#Entertainer](#Entertainer)
-- [#Merchant](#Merchant)
-- [#Noble](#Noble)
-- [#Official](#Official)
-- [#Peasant](#Peasant)
-- [#Physician](#Physician)
-- [#Pilot](#Pilot)
-- [#Politician](#Politician)
-- [#Scholar](#Scholar)
-- [#Soldier](#Soldier)
-- [#Spacer](#Spacer)
-- [#Technician](#Technician)
-- [#Thug](#Thug)
-- [#Vagabond](#Vagabond)
-- [#Worker](#Worker)
+- [Barbarian](#Barbarian)
+- [Clergy](#Clergy)
+- [Courtesan](#Courtesan)
+- [Criminal](#Criminal)
+- [Dilettante](#Dilettante)
+- [Entertainer](#Entertainer)
+- [Merchant](#Merchant)
+- [Noble](#Noble)
+- [Official](#Official)
+- [Peasant](#Peasant)
+- [Physician](#Physician)
+- [Pilot](#Pilot)
+- [Politician](#Politician)
+- [Scholar](#Scholar)
+- [Soldier](#Soldier)
+- [Spacer](#Spacer)
+- [Technician](#Technician)
+- [Thug](#Thug)
+- [Vagabond](#Vagabond)
+- [Worker](#Worker)
 
 ## Biopsionics Skills
 
-- [#Core Technique - Psychic Succor](#Core%20Technique%20-%20Psychic%20Succor)
-- [#Mastered Succor](#Mastered%20Succor) ^499ccb
-- [#Organic Purification Protocols](#Organic%20Purification%20Protocols)
-- [#Remote Repair](#Remote%20Repair)
-- [#Invincible Stand](#Invincible%20Stand)
-- [#Major Organ Restoration](#Major%20Organ%20Restoration)
-- [#Tissue Integrity Field](#Tissue%20Integrity%20Field)
-- [#Accelerated Succor](#Accelerated%20Succor)
-- [#Metamorph](#Metamorph)
-- [#Teratic Overload](#Teratic%20Overload)
-- [#Holistic Optimization Patterning](#Holistic%20Optimization%20Patterning)
-- [#Quintessential Reconstruction](#Quintessential%20Reconstruction)
+- [Core Technique - Psychic Succor](#Core%20Technique%20-%20Psychic%20Succor)
+- [Mastered Succor](#Mastered%20Succor) ^499ccb
+- [Organic Purification Protocols](#Organic%20Purification%20Protocols)
+- [Remote Repair](#Remote%20Repair)
+- [Invincible Stand](#Invincible%20Stand)
+- [Major Organ Restoration](#Major%20Organ%20Restoration)
+- [Tissue Integrity Field](#Tissue%20Integrity%20Field)
+- [Accelerated Succor](#Accelerated%20Succor)
+- [Metamorph](#Metamorph)
+- [Teratic Overload](#Teratic%20Overload)
+- [Holistic Optimization Patterning](#Holistic%20Optimization%20Patterning)
+- [Quintessential Reconstruction](#Quintessential%20Reconstruction)
 
 ## Character Classes
 
-- [#Expert](#Expert)
-- [#Psychic](#Psychic)
-- [#Warrior](#Warrior)
-- [#Adventurer](#Adventurer)
+- [Expert](#Expert)
+- [Psychic](#Psychic)
+- [Warrior](#Warrior)
+- [Adventurer](#Adventurer)
 
 ## Common Complications
 
-- [#Death](#Death)
-- [#Skill Checks](#Skill%20Checks)
-- [#Combat](#Combat)
-- [#Negotiation and Diplomacy](#Negotiation%20and%20Diplomacy)
-- [#Searching and Investigation](#Searching%20and%20Investigation)
-- [#Salvage](#Salvage)
-- [#Interstellar Trade](#Interstellar%20Trade)
-- [#Quick Trade Rules](#Quick%20Trade%20Rules)
+- [Death](#Death)
+- [Skill Checks](#Skill%20Checks)
+- [Combat](#Combat)
+- [Negotiation and Diplomacy](#Negotiation%20and%20Diplomacy)
+- [Searching and Investigation](#Searching%20and%20Investigation)
+- [Salvage](#Salvage)
+- [Interstellar Trade](#Interstellar%20Trade)
+- [Quick Trade Rules](#Quick%20Trade%20Rules)
 
 ## Communications
 
@@ -12195,12 +12195,12 @@ The tables below provide a suggested time of day and initial distance for the en
 
 ## Converting First Edition
 
-- [#Converting Characters](#Converting%20Characters)
-- [#Converting Psionics](#Converting%20Psionics)
-- [#Converting Creatures](#Converting%20Creatures)
-- [#Converting Ships](#Converting%20Ships)
-- [#Converting Equipment](#Converting%20Equipment)
-- [#Using Existing Sourcebooks](#Using%20Existing%20Sourcebooks)
+- [Converting Characters](#Converting%20Characters)
+- [Converting Psionics](#Converting%20Psionics)
+- [Converting Creatures](#Converting%20Creatures)
+- [Converting Ships](#Converting%20Ships)
+- [Converting Equipment](#Converting%20Equipment)
+- [Using Existing Sourcebooks](#Using%20Existing%20Sourcebooks)
 
 ## Cunning Assets
 
@@ -12293,49 +12293,49 @@ The tables below provide a suggested time of day and initial distance for the en
 
 ## **Example Factions**
 
-- [#Colony World](#Colony%20World)
-- [#Lost World](#Lost%20World)
-- [#Backwater Planet](#Backwater%20Planet)
-- [#Zealous Faith](#Zealous%20Faith)
-- [#Regional Hegemon](#Regional%20Hegemon)
-- [#Mercantile Combine](#Mercantile%20Combine)
-- [#Eugenics Cult](#Eugenics%20Cult)
-- [#Rebel Freedom Fighters](#Rebel%20Freedom%20Fighters)
+- [Colony World](#Colony%20World)
+- [Lost World](#Lost%20World)
+- [Backwater Planet](#Backwater%20Planet)
+- [Zealous Faith](#Zealous%20Faith)
+- [Regional Hegemon](#Regional%20Hegemon)
+- [Mercantile Combine](#Mercantile%20Combine)
+- [Eugenics Cult](#Eugenics%20Cult)
+- [Rebel Freedom Fighters](#Rebel%20Freedom%20Fighters)
 
 ## **Example Starships**
 
-- [#Strike Fighter](#Strike%20Fighter)
-- [#Shuttle](#Shuttle)
-- [#Free Merchant](#Free%20Merchant)
-- [#Patrol Boat](#Patrol%20Boat)
-- [#Corvette](#Corvette)
-- [#Heavy Frigate](#Heavy%20Frigate)
-- [#Bulk Freighter](#Bulk%20Freighter)
-- [#Fleet Cruiser](#Fleet%20Cruiser)
-- [#Battleship](#Battleship)
-- [#Carrier](#Carrier)
+- [Strike Fighter](#Strike%20Fighter)
+- [Shuttle](#Shuttle)
+- [Free Merchant](#Free%20Merchant)
+- [Patrol Boat](#Patrol%20Boat)
+- [Corvette](#Corvette)
+- [Heavy Frigate](#Heavy%20Frigate)
+- [Bulk Freighter](#Bulk%20Freighter)
+- [Fleet Cruiser](#Fleet%20Cruiser)
+- [Battleship](#Battleship)
+- [Carrier](#Carrier)
 
 ## Equipment and Vehicles
 
-- [#Ammo and Power](#Ammo%20and%20Power)
-- [#Artifact Equipment](#Artifact%20Equipment)
-- [#Communications](#Communications)
-- [#Computing Gear](#Computing%20Gear)
-- [#Cyberware](#Cyberware)
+- [Ammo and Power](#Ammo%20and%20Power)
+- [Artifact Equipment](#Artifact%20Equipment)
+- [Communications](#Communications)
+- [Computing Gear](#Computing%20Gear)
+- [Cyberware](#Cyberware)
 - [Cyberware Chart](#Table%20-%20Cyberware%20Chart)
-- [#Drone Equipment](#Drone%20Equipment)
+- [Drone Equipment](#Drone%20Equipment)
 - [Drone Model Chart](#Table%20-%20Drone%20Model%20Chart)
-- [#Drone Types](#Drone%20Types)
-- [#Field Equipment](#Field%20Equipment)
-- [#General Equipment](#General%20Equipment)
-- [#Pharmaceuticals](#Pharmaceuticals)
-- [#Sample Mods](#Sample%20Mods)
-- [#Tools & Medical Gear](#Tools%20&%20Medical%20Gear)
+- [Drone Types](#Drone%20Types)
+- [Field Equipment](#Field%20Equipment)
+- [General Equipment](#General%20Equipment)
+- [Pharmaceuticals](#Pharmaceuticals)
+- [Sample Mods](#Sample%20Mods)
+- [Tools & Medical Gear](#Tools%20&%20Medical%20Gear)
 - [Vehicles Chart](#Table%20-%20Vehicles%20Chart)
-- [#Vehicle Types](#Vehicle%20Types)
-- [#Starships](#Starships)
-- [#Starship Mods](#Starship%20Mods)
-- [#Example Starships](#Example%20Starships)
+- [Vehicle Types](#Vehicle%20Types)
+- [Starships](#Starships)
+- [Starship Mods](#Starship%20Mods)
+- [Example Starships](#Example%20Starships)
 
 ## Faction Actions
 
@@ -12365,26 +12365,26 @@ The tables below provide a suggested time of day and initial distance for the en
 
 ## Faction Tags
 
-- [#Colonists](#Colonists)
-- [#Deep Rooted](#Deep%20Rooted)
-- [#Eugenics Cult](#Eugenics%20Cult)
-- [#Exchange Consulate](#Exchange%20Consulate)
-- [#Fanatical](#Fanatical)
-- [#Imperialists](#Imperialists)
-- [#Machiavellian](#Machiavellian)
-- [#Mercenary Group](#Mercenary%20Group)
-- [#Perimeter Agency](#Perimeter%20Agency)
-- [#Pirates](#Pirates)
-- [#Planetary Government](#Planetary%20Government)
-- [#Plutocratic](#Plutocratic)
-- [#Preceptor Archive](#Preceptor%20Archive)
-- [#Psychic Academy](#Psychic%20Academy)
-- [#Savage](#Savage)
-- [#Scavengers](#Scavengers)
-- [#Secretive](#Secretive)
-- [#Technical Expertise](#Technical%20Expertise)
-- [#Theocratic](#Theocratic)
-- [#Warlike](#Warlike)
+- [Colonists](#Colonists)
+- [Deep Rooted](#Deep%20Rooted)
+- [Eugenics Cult](#Eugenics%20Cult)
+- [Exchange Consulate](#Exchange%20Consulate)
+- [Fanatical](#Fanatical)
+- [Imperialists](#Imperialists)
+- [Machiavellian](#Machiavellian)
+- [Mercenary Group](#Mercenary%20Group)
+- [Perimeter Agency](#Perimeter%20Agency)
+- [Pirates](#Pirates)
+- [Planetary Government](#Planetary%20Government)
+- [Plutocratic](#Plutocratic)
+- [Preceptor Archive](#Preceptor%20Archive)
+- [Psychic Academy](#Psychic%20Academy)
+- [Savage](#Savage)
+- [Scavengers](#Scavengers)
+- [Secretive](#Secretive)
+- [Technical Expertise](#Technical%20Expertise)
+- [Theocratic](#Theocratic)
+- [Warlike](#Warlike)
 
 ## Field Equipment
 
@@ -12413,31 +12413,31 @@ The tables below provide a suggested time of day and initial distance for the en
 
 ## Focus List
 
-- [#Alert](#Alert)
-- [#Armsman](#Armsman)
-- [#Assassin](#Assassin)
-- [#Authority](#Authority)
-- [#Close Combatant](#Close%20Combatant)
-- [#Connected](#Connected)
-- [#Die Hard](#Die%20Hard)
-- [#Diplomat](#Diplomat)
-- [#Gunslinger](#Gunslinger)
-- [#Hacker](#Hacker)
-- [#Healer](#Healer)
-- [#Henchkeeper](#Henchkeeper)
-- [#Ironhide](#Ironhide)
-- [#Psychic Training](#Psychic%20Training)
-- [#Savage Fray](#Savage%20Fray)
-- [#Shocking Assault](#Shocking%20Assault)
-- [#Sniper](#Sniper)
-- [#Specialist](#Specialist)
-- [#Star Captain](#Star%20Captain)
-- [#Starfarer](#Starfarer)
-- [#Tinker](#Tinker)
-- [#Unarmed Combatant](#Unarmed%20Combatant)
-- [#Unique Gift](#Unique%20Gift)
-- [#Wanderer](#Wanderer)
-- [#Wild Psychic Talent](#Wild%20Psychic%20Talent)
+- [Alert](#Alert)
+- [Armsman](#Armsman)
+- [Assassin](#Assassin)
+- [Authority](#Authority)
+- [Close Combatant](#Close%20Combatant)
+- [Connected](#Connected)
+- [Die Hard](#Die%20Hard)
+- [Diplomat](#Diplomat)
+- [Gunslinger](#Gunslinger)
+- [Hacker](#Hacker)
+- [Healer](#Healer)
+- [Henchkeeper](#Henchkeeper)
+- [Ironhide](#Ironhide)
+- [Psychic Training](#Psychic%20Training)
+- [Savage Fray](#Savage%20Fray)
+- [Shocking Assault](#Shocking%20Assault)
+- [Sniper](#Sniper)
+- [Specialist](#Specialist)
+- [Star Captain](#Star%20Captain)
+- [Starfarer](#Starfarer)
+- [Tinker](#Tinker)
+- [Unarmed Combatant](#Unarmed%20Combatant)
+- [Unique Gift](#Unique%20Gift)
+- [Wanderer](#Wanderer)
+- [Wild Psychic Talent](#Wild%20Psychic%20Talent)
 
 ## Force Assets
 
@@ -12507,19 +12507,19 @@ The tables below provide a suggested time of day and initial distance for the en
 
 ## Metapsionics Skills
 
-- [#Core Technique - Psychic Refinement](#Core%20Technique%20-%20Psychic%20Refinement)
-- [#Cloak Powers](#Cloak%20Powers)
-- [#Mindtracing](#Mindtracing)
-- [#Synthetic Adaptation](#Synthetic%20Adaptation)
-- [#Neural Trap](#Neural%20Trap)
-- [#Psychic Static](#Psychic%20Static)
-- [#Suspended Manifestation](#Suspended%20Manifestation)
-- [#Concert of Minds](#Concert%20of%20Minds)
-- [#Metadimensional Friction](#Metadimensional%20Friction)
-- [#Psychic Tutelage](#Psychic%20Tutelage)
-- [#Surge Momentum](#Surge%20Momentum)
-- [#Flawless Mastery](#Flawless%20Mastery)
-- [#Impervious Pavis of Will](#Impervious%20Pavis%20of%20Will)
+- [Core Technique - Psychic Refinement](#Core%20Technique%20-%20Psychic%20Refinement)
+- [Cloak Powers](#Cloak%20Powers)
+- [Mindtracing](#Mindtracing)
+- [Synthetic Adaptation](#Synthetic%20Adaptation)
+- [Neural Trap](#Neural%20Trap)
+- [Psychic Static](#Psychic%20Static)
+- [Suspended Manifestation](#Suspended%20Manifestation)
+- [Concert of Minds](#Concert%20of%20Minds)
+- [Metadimensional Friction](#Metadimensional%20Friction)
+- [Psychic Tutelage](#Psychic%20Tutelage)
+- [Surge Momentum](#Surge%20Momentum)
+- [Flawless Mastery](#Flawless%20Mastery)
+- [Impervious Pavis of Will](#Impervious%20Pavis%20of%20Will)
 
 ## Name Generators
 
@@ -12549,17 +12549,17 @@ The tables below provide a suggested time of day and initial distance for the en
 
 ## Precognition Skills
 
-- [#Core Technique - Oracle](#Core%20Technique%20-%20Oracle)
-- [#Intuitive Response](#Intuitive%20Response)
-- [#Sense the Need](#Sense%20the%20Need)
-- [#Terminal Reflection](#Terminal%20Reflection)
-- [#Alternate Outcome](#Alternate%20Outcome)
-- [#Destiny's Shield](#Destiny's%20Shield)
-- [#Anguished Vision](#Anguished%20Vision)
-- [#Cursed Luck](#Cursed%20Luck)
-- [#Forced Outcome](#Forced%20Outcome)
-- [#Not My Time](#Not%20My%20Time)
-- [#Prophecy](#Prophecy)
+- [Core Technique - Oracle](#Core%20Technique%20-%20Oracle)
+- [Intuitive Response](#Intuitive%20Response)
+- [Sense the Need](#Sense%20the%20Need)
+- [Terminal Reflection](#Terminal%20Reflection)
+- [Alternate Outcome](#Alternate%20Outcome)
+- [Destiny's Shield](#Destiny's%20Shield)
+- [Anguished Vision](#Anguished%20Vision)
+- [Cursed Luck](#Cursed%20Luck)
+- [Forced Outcome](#Forced%20Outcome)
+- [Not My Time](#Not%20My%20Time)
+- [Prophecy](#Prophecy)
 
 ## Ranged Weapons
 
@@ -12604,12 +12604,12 @@ The tables below provide a suggested time of day and initial distance for the en
 
 ## Starship Combat Actions
 
-- [#Bridge Actions](#Bridge%20Actions)
-- [#Captain Actions](#Captain%20Actions)
-- [#Comms Actions](#Comms%20Actions)
-- [#Engineering Actions](#Engineering%20Actions)
-- [#Gunnery Actions](#Gunnery%20Actions)
-- [#General Actions](#General%20Actions)
+- [Bridge Actions](#Bridge%20Actions)
+- [Captain Actions](#Captain%20Actions)
+- [Comms Actions](#Comms%20Actions)
+- [Engineering Actions](#Engineering%20Actions)
+- [Gunnery Actions](#Gunnery%20Actions)
+- [General Actions](#General%20Actions)
 
 ## Starship Mods
 
@@ -12657,13 +12657,13 @@ The tables below provide a suggested time of day and initial distance for the en
 
 ## Psychic Skills
 
-- [#Biopsionics](#Biopsionics)
-- [#Metapsionics](#Metapsionics)
-- [#Precognition](#Precognition)
-- [#Telekinesis](#Telekinesis)
-- [#Telepathy](#Telepathy)
-- [#Teleportation](#Teleportation)
-- [#Torching](#Torching)
+- [Biopsionics](#Biopsionics)
+- [Metapsionics](#Metapsionics)
+- [Precognition](#Precognition)
+- [Telekinesis](#Telekinesis)
+- [Telepathy](#Telepathy)
+- [Teleportation](#Teleportation)
+- [Torching](#Torching)
 
 ## Tools & Medical Gear
 
@@ -12694,49 +12694,49 @@ The tables below provide a suggested time of day and initial distance for the en
 - [Assault Suit](#^common-armor-varieties-assault-suit)
 - [Storm Armor](#^common-armor-varieties-storm-armor)
 - [Field Emitter Array](#^common-armor-varieties-field-emitter-panoply)
-- [#Artifact Armor](#Artifact%20Armor)
+- [Artifact Armor](#Artifact%20Armor)
 
 ## Telekinesis Skills
 
-- [#Core Technique - Telekinetic Manipulation](#Core%20Technique%20-%20Telekinetic%20Manipulation)
-- [#Kinetic Transversal](#Kinetic%20Transversal)
-- [#Pressure Field](#Pressure%20Field)
-- [#Telekinetic Armory](#Telekinetic%20Armory)
-- [#Impact Sump](#Impact%20Sump)
-- [#Slip Field](#Slip%20Field)
-- [#Telekinetic Expertise](#Telekinetic%20Expertise)
-- [#Thermokinesis](#Thermokinesis)
-- [#Tangible Force Construct](#Tangible%20Force%20Construct)
-- [#Telekinetic Ram](#Telekinetic%20Ram)
-- [#Reactive Telekinesis](#Reactive%20Telekinesis)
-- [#Force Puppetry](#Force%20Puppetry)
-- [#Telekinetic Flight](#Telekinetic%20Flight)
+- [Core Technique - Telekinetic Manipulation](#Core%20Technique%20-%20Telekinetic%20Manipulation)
+- [Kinetic Transversal](#Kinetic%20Transversal)
+- [Pressure Field](#Pressure%20Field)
+- [Telekinetic Armory](#Telekinetic%20Armory)
+- [Impact Sump](#Impact%20Sump)
+- [Slip Field](#Slip%20Field)
+- [Telekinetic Expertise](#Telekinetic%20Expertise)
+- [Thermokinesis](#Thermokinesis)
+- [Tangible Force Construct](#Tangible%20Force%20Construct)
+- [Telekinetic Ram](#Telekinetic%20Ram)
+- [Reactive Telekinesis](#Reactive%20Telekinesis)
+- [Force Puppetry](#Force%20Puppetry)
+- [Telekinetic Flight](#Telekinetic%20Flight)
 
 ## Telepathy Skills
 
-- [#Core Technique - Telepathic Contact](#Core%20Technique%20-%20Telepathic%20Contact)
-- [#Facile Mind](#Facile%20Mind)
-- [#Transmit Thought](#Transmit%20Thought)
-- [#Far Thought](#Far%20Thought)
-- [#Suppress Cognition](#Suppress%20Cognition)
-- [#Reflex Response](#Reflex%20Response)
-- [#Telepathic Assault](#Telepathic%20Assault)
-- [#Memory Editing](#Memory%20Editing)
-- [#Unity of Thought](#Unity%20of%20Thought)
+- [Core Technique - Telepathic Contact](#Core%20Technique%20-%20Telepathic%20Contact)
+- [Facile Mind](#Facile%20Mind)
+- [Transmit Thought](#Transmit%20Thought)
+- [Far Thought](#Far%20Thought)
+- [Suppress Cognition](#Suppress%20Cognition)
+- [Reflex Response](#Reflex%20Response)
+- [Telepathic Assault](#Telepathic%20Assault)
+- [Memory Editing](#Memory%20Editing)
+- [Unity of Thought](#Unity%20of%20Thought)
 
 ## Teleportation Skills
 
-- [#Core Technique - Personal Apportation](#Core%20Technique%20-%20Personal%20Apportation)
-- [#Proficient Apportation](#Proficient%20Apportation)
-- [#Spatial Awareness](#Spatial%20Awareness)
-- [#Burdened Apportation](#Burdened%20Apportation)
-- [#Perceptive Dislocation](#Perceptive%20Dislocation)
-- [#Spatial Synchrony Mandala](#Spatial%20Synchrony%20Mandala)
-- [#Effortless Apportation](#Effortless%20Apportation)
-- [#Stutterjump](#Stutterjump)
-- [#Rift Reduplication](#Rift%20Reduplication)
-- [#Deep Intrusion](#Deep%20Intrusion)
-- [#Offensive Apportation](#Offensive%20Apportation)
+- [Core Technique - Personal Apportation](#Core%20Technique%20-%20Personal%20Apportation)
+- [Proficient Apportation](#Proficient%20Apportation)
+- [Spatial Awareness](#Spatial%20Awareness)
+- [Burdened Apportation](#Burdened%20Apportation)
+- [Perceptive Dislocation](#Perceptive%20Dislocation)
+- [Spatial Synchrony Mandala](#Spatial%20Synchrony%20Mandala)
+- [Effortless Apportation](#Effortless%20Apportation)
+- [Stutterjump](#Stutterjump)
+- [Rift Reduplication](#Rift%20Reduplication)
+- [Deep Intrusion](#Deep%20Intrusion)
+- [Offensive Apportation](#Offensive%20Apportation)
 
 ## Types of Bots
 
@@ -12762,9 +12762,9 @@ The tables below provide a suggested time of day and initial distance for the en
 
 ## VI Player Characters
 
-- [#Android](#Android)
-- [#VI Vehicle Bot](#VI%20Vehicle%20Bot)
-- [#VI Worker Bot](#VI%20Worker%20Bot)
+- [Android](#Android)
+- [VI Vehicle Bot](#VI%20Vehicle%20Bot)
+- [VI Worker Bot](#VI%20Worker%20Bot)
 
 ## Wealth Assets
 
@@ -12796,109 +12796,109 @@ The tables below provide a suggested time of day and initial distance for the en
 
 ## Weapons/Weaponry
 
-- [#Artifact Weaponry](#Artifact%20Weaponry)
-- [#Heavy Weapons](#Heavy%20Weapons)
-- [#Melee Weapons](#Melee%20Weapons)
-- [#Ranged Weapons](#Ranged%20Weapons)
+- [Artifact Weaponry](#Artifact%20Weaponry)
+- [Heavy Weapons](#Heavy%20Weapons)
+- [Melee Weapons](#Melee%20Weapons)
+- [Ranged Weapons](#Ranged%20Weapons)
 
 ## World Tags
 
-- [#Abandoned Colony](#Abandoned%20Colony)
-- [#Alien Ruins](#Alien%20Ruins)
-- [#Altered Humanity](#Altered%20Humanity)
-- [#Anarchists](#Anarchists)
-- [#Anthropomorphs](#Anthropomorphs)
-- [#Area 51](#Area%2051)
-- [#Badlands World](#Badlands%20World)
-- [#Battleground](#Battleground)
-- [#Beastmasters](#Beastmasters)
-- [#Bubble Cities](#Bubble%20Cities)
-- [#Cheap Life](#Cheap%20Life)
-- [#Civil War](#Civil%20War)
-- [#Cold War](#Cold%20War)
-- [#Colonized Population](#Colonized%20Population)
-- [#Cultural Power](#Cultural%20Power)
-- [#Cybercommunists](#Cybercommunists)
-- [#Cyborgs](#Cyborgs)
-- [#Cyclical Doom](#Cyclical%20Doom)
-- [#Desert World](#Desert%20World)
-- [#Doomed World](#Doomed%20World)
-- [#Dying Race](#Dying%20Race)
-- [#Eugenic Cult](#Eugenic%20Cult)
-- [#Exchange Consulate](#Exchange%20Consulate)
-- [#Fallen Hegemon](#Fallen%20Hegemon)
-- [#Feral World](#Feral%20World)
-- [#Flying Cities](#Flying%20Cities)
-- [#Forbidden Tech](#Forbidden%20Tech)
-- [#Former Warriors](#Former%20Warriors)
-- [#Freak Geology](#Freak%20Geology)
-- [#Freak Weather](#Freak%20Weather)
-- [#Friendly Foe](#Friendly%20Foe)
-- [#Gold Rush](#Gold%20Rush)
-- [#Great Work](#Great%20Work)
-- [#Hatred](#Hatred)
-- [#Heavy Industry](#Heavy%20Industry)
-- [#Heavy Mining](#Heavy%20Mining)
-- [#Hivemind](#Hivemind)
-- [#Holy War](#Holy%20War)
-- [#Hostile Biosphere](#Hostile%20Biosphere)
-- [#Hostile Space](#Hostile%20Space)
-- [#Immortals](#Immortals)
-- [#Local Specialty](#Local%20Specialty)
-- [#Local Tech](#Local%20Tech)
-- [#Major Spaceyard](#Major%20Spaceyard)
-- [#Mandarinate](#Mandarinate)
-- [#Mandate Base](#Mandate%20Base)
-- [#Maneaters](#Maneaters)
-- [#Megacorps](#Megacorps)
-- [#Mercenaries](#Mercenaries)
-- [#Minimal Contact](#Minimal%20Contact)
-- [#Misandry/Misogyny](#Misandry/Misogyny)
-- [#Nomads](#Nomads)
-- [#Oceanic World](#Oceanic%20World)
-- [#Out of Contact](#Out%20of%20Contact)
-- [#Outpost World](#Outpost%20World)
-- [#Perimeter Agency](#Perimeter%20Agency)
-- [#Pilgrimage Site](#Pilgrimage%20Site)
-- [#Pleasure World](#Pleasure%20World)
-- [#Police State](#Police%20State)
-- [#Post-Scarcity](#Post-Scarcity)
-- [#Preceptor Archive](#Preceptor%20Archive)
-- [#Pretech Cultists](#Pretech%20Cultists)
-- [#Primitive Aliens](#Primitive%20Aliens)
-- [#Prison Planet](#Prison%20Planet)
-- [#Psionics Academy](#Psionics%20Academy)
-- [#Psionics Fear](#Psionics%20Fear)
-- [#Psionics Worship](#Psionics%20Worship)
-- [#Quarantined World](#Quarantined%20World)
-- [#Radioactive World](#Radioactive%20World)
-- [#Refugees](#Refugees)
-- [#Regional Hegemon](#Regional%20Hegemon)
-- [#Restrictive Laws](#Restrictive%20Laws)
-- [#Revanchists](#Revanchists)
-- [#Revolutionaries](#Revolutionaries)
-- [#Rigid Culture](#Rigid%20Culture)
-- [#Rising Hegemon](#Rising%20Hegemon)
-- [#Ritual Combat](#Ritual%20Combat)
-- [#Robots](#Robots)
-- [#Seagoing Cities](#Seagoing%20Cities)
-- [#Sealed Menace](#Sealed%20Menace)
-- [#Secret Masters](#Secret%20Masters)
-- [#Sectarians](#Sectarians)
-- [#Seismic Instability](#Seismic%20Instability)
-- [#Shackled World](#Shackled%20World)
-- [#Societal Despair](#Societal%20Despair)
-- [#Sole Supplier](#Sole%20Supplier)
-- [#Taboo Treasure](#Taboo%20Treasure)
-- [#Terraform Failure](#Terraform%20Failure)
-- [#Theocracy](#Theocracy)
-- [#Tomb World](#Tomb%20World)
-- [#Trade Hub](#Trade%20Hub)
-- [#Tyranny](#Tyranny)
-- [#Unbraked AI](#Unbraked%20AI)
-- [#Urbanized Surface](#Urbanized%20Surface)
-- [#Utopia](#Utopia)
-- [#Warlords](#Warlords)
-- [#Xenophiles](#Xenophiles)
-- [#Xenophobes](#Xenophobes)
-- [#Zombies](#Zombies)
+- [Abandoned Colony](#Abandoned%20Colony)
+- [Alien Ruins](#Alien%20Ruins)
+- [Altered Humanity](#Altered%20Humanity)
+- [Anarchists](#Anarchists)
+- [Anthropomorphs](#Anthropomorphs)
+- [Area 51](#Area%2051)
+- [Badlands World](#Badlands%20World)
+- [Battleground](#Battleground)
+- [Beastmasters](#Beastmasters)
+- [Bubble Cities](#Bubble%20Cities)
+- [Cheap Life](#Cheap%20Life)
+- [Civil War](#Civil%20War)
+- [Cold War](#Cold%20War)
+- [Colonized Population](#Colonized%20Population)
+- [Cultural Power](#Cultural%20Power)
+- [Cybercommunists](#Cybercommunists)
+- [Cyborgs](#Cyborgs)
+- [Cyclical Doom](#Cyclical%20Doom)
+- [Desert World](#Desert%20World)
+- [Doomed World](#Doomed%20World)
+- [Dying Race](#Dying%20Race)
+- [Eugenic Cult](#Eugenic%20Cult)
+- [Exchange Consulate](#Exchange%20Consulate)
+- [Fallen Hegemon](#Fallen%20Hegemon)
+- [Feral World](#Feral%20World)
+- [Flying Cities](#Flying%20Cities)
+- [Forbidden Tech](#Forbidden%20Tech)
+- [Former Warriors](#Former%20Warriors)
+- [Freak Geology](#Freak%20Geology)
+- [Freak Weather](#Freak%20Weather)
+- [Friendly Foe](#Friendly%20Foe)
+- [Gold Rush](#Gold%20Rush)
+- [Great Work](#Great%20Work)
+- [Hatred](#Hatred)
+- [Heavy Industry](#Heavy%20Industry)
+- [Heavy Mining](#Heavy%20Mining)
+- [Hivemind](#Hivemind)
+- [Holy War](#Holy%20War)
+- [Hostile Biosphere](#Hostile%20Biosphere)
+- [Hostile Space](#Hostile%20Space)
+- [Immortals](#Immortals)
+- [Local Specialty](#Local%20Specialty)
+- [Local Tech](#Local%20Tech)
+- [Major Spaceyard](#Major%20Spaceyard)
+- [Mandarinate](#Mandarinate)
+- [Mandate Base](#Mandate%20Base)
+- [Maneaters](#Maneaters)
+- [Megacorps](#Megacorps)
+- [Mercenaries](#Mercenaries)
+- [Minimal Contact](#Minimal%20Contact)
+- [Misandry/Misogyny](#Misandry/Misogyny)
+- [Nomads](#Nomads)
+- [Oceanic World](#Oceanic%20World)
+- [Out of Contact](#Out%20of%20Contact)
+- [Outpost World](#Outpost%20World)
+- [Perimeter Agency](#Perimeter%20Agency)
+- [Pilgrimage Site](#Pilgrimage%20Site)
+- [Pleasure World](#Pleasure%20World)
+- [Police State](#Police%20State)
+- [Post-Scarcity](#Post-Scarcity)
+- [Preceptor Archive](#Preceptor%20Archive)
+- [Pretech Cultists](#Pretech%20Cultists)
+- [Primitive Aliens](#Primitive%20Aliens)
+- [Prison Planet](#Prison%20Planet)
+- [Psionics Academy](#Psionics%20Academy)
+- [Psionics Fear](#Psionics%20Fear)
+- [Psionics Worship](#Psionics%20Worship)
+- [Quarantined World](#Quarantined%20World)
+- [Radioactive World](#Radioactive%20World)
+- [Refugees](#Refugees)
+- [Regional Hegemon](#Regional%20Hegemon)
+- [Restrictive Laws](#Restrictive%20Laws)
+- [Revanchists](#Revanchists)
+- [Revolutionaries](#Revolutionaries)
+- [Rigid Culture](#Rigid%20Culture)
+- [Rising Hegemon](#Rising%20Hegemon)
+- [Ritual Combat](#Ritual%20Combat)
+- [Robots](#Robots)
+- [Seagoing Cities](#Seagoing%20Cities)
+- [Sealed Menace](#Sealed%20Menace)
+- [Secret Masters](#Secret%20Masters)
+- [Sectarians](#Sectarians)
+- [Seismic Instability](#Seismic%20Instability)
+- [Shackled World](#Shackled%20World)
+- [Societal Despair](#Societal%20Despair)
+- [Sole Supplier](#Sole%20Supplier)
+- [Taboo Treasure](#Taboo%20Treasure)
+- [Terraform Failure](#Terraform%20Failure)
+- [Theocracy](#Theocracy)
+- [Tomb World](#Tomb%20World)
+- [Trade Hub](#Trade%20Hub)
+- [Tyranny](#Tyranny)
+- [Unbraked AI](#Unbraked%20AI)
+- [Urbanized Surface](#Urbanized%20Surface)
+- [Utopia](#Utopia)
+- [Warlords](#Warlords)
+- [Xenophiles](#Xenophiles)
+- [Xenophobes](#Xenophobes)
+- [Zombies](#Zombies)

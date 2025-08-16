@@ -2,6 +2,8 @@
 
 # Relics of the Lost *by Kevin Crawford*
 
+#public #revised-edition #rulebook #swn
+
 ![_page_1_Picture_2](_page_1_Picture_2.jpeg)
 
 **ISBN 978-1-936673-46-9**

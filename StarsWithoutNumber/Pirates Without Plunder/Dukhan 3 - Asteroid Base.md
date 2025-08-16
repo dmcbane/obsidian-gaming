@@ -1,6 +1,6 @@
 ## Dukhan 3 &ndash; Asteroid Base
 
-#asteroid_belt #base #pwp
+#asteroid-belt #base #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/asteroidBase/OGtqyVIm5GKKJZ5jkm7f)
 

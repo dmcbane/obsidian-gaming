@@ -1,6 +1,6 @@
 ## Domoni 5 &ndash; Orbital Ruin
 
-#orbital_ruin #pwp
+#orbital-ruin #pwp
 
 Domoni 5 is an orbital pretech library (sort of).  It is a relay to a distant digital library in the [Phalcas - System](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Phalcas%20-%20System.md)
 

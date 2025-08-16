@@ -1,7 +1,6 @@
-# 53 Bahn
-## Asteroid Belt
+## 53 Bahn &ndash; Asteroid Belt
 
-#asteroid_belt #pwp 
+#asteroid-belt #pwp 
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/asteroidBelt/5f5VygRqHT5rfVA55VVb)
 

@@ -1,6 +1,6 @@
 ## (20) Madler &ndash; Asteroid Belt
 
-#asteroid_belt #pwp #template 
+#asteroid-belt #pwp #template 
 
 [Sectors Without Number]()
 

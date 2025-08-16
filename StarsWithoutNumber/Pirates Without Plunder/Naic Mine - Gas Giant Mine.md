@@ -1,6 +1,6 @@
 ## Naic Mine &ndash; Gas Giant Mine
 
-#gas_giant #mine _pwp
+#gas-giant #mine _pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/FLJjxdN5NChnBcDdwIuR)
 

@@ -1,6 +1,6 @@
 ## Du Martheray 7 &ndash; Asteroid Base
 
-#asteroid_belt #base #pwp
+#asteroid-belt #base #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/asteroidBase/e1qnxpD7Ct3dI08uSNos)
 

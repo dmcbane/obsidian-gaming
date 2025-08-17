@@ -1,16 +1,6 @@
----
-title: Gorle Zubalea - Moon
-updated: 2024-09-28 02:26:26Z
-created: 2024-08-20 01:34:00Z
-latitude: 32.85461970
-longitude: -79.97481030
-altitude: 0.0000
-tags:
-  - moon
-  - pwp
----
-
 ## Gorle Zubalea &ndash; Moon
+
+#moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moon/th1l9dh2qpwDEmY4PFVt)
 

@@ -1,14 +1,6 @@
----
-title: Endeavour 2 - Refueling Station
-updated: 2024-09-09 20:41:37Z
-created: 2024-09-09 20:40:00Z
-tags:
-  - pwp
-  - refueling
-  - station
----
-
 ## Endeavour 2 &ndash; Refueling Station
+
+#pwp #refueling #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moon/fonCisWJvUEWYO0pw5SP)
 

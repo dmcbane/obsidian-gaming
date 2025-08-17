@@ -1,14 +1,6 @@
----
-title: Da Vinci Mine Project - Gas Giant Mine
-updated: 2024-09-07 21:05:56Z
-created: 2024-09-07 21:04:08Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Da Vinci Mine Project &ndash; Gas Giant Mine
+
+#gas-giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/RYiEcvE3TThHzXQPaODy)
 

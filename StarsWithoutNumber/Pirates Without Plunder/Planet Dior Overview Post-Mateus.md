@@ -1,3 +1,5 @@
+#concept #todo
+
 Here’s the **revised summary for Dior**, incorporating the **assassination of Mateus Augusto**:
 
 ---

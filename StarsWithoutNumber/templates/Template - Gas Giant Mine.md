@@ -1,6 +1,6 @@
 ## Elim Project &ndash; Gas Giant Mine
 
-#gas_giant #mine #pwp #template 
+#gas-giant #mine #pwp #template 
 
 [Sectors Without Number]()
 

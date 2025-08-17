@@ -1,14 +1,6 @@
----
-title: Manzi 3 - Research Base
-updated: 2024-09-07 22:21:49Z
-created: 2024-09-07 22:20:23Z
-tags:
-  - base
-  - pwp
-  - research
----
-
 ## Manzi 3 - &ndash; Research Base
+
+#base #pwp #research
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/researchBase/flF2Bw42COns7gwL3iz7)
 

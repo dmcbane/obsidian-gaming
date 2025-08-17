@@ -1,13 +1,6 @@
----
-title: Lyot 4 - Space Station
-updated: 2024-09-28 02:46:34Z
-created: 2024-09-28 02:44:41Z
-tags:
-  - pwp
-  - station
----
-
 ## Lyot 4 &ndash; Space Station
+
+#pwp #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/spaceStation/Nb8wTONqbHkymNqVIeFd)
 

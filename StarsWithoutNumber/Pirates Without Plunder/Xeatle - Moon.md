@@ -1,13 +1,6 @@
----
-title: Xeatle - Moon
-updated: 2024-09-28 00:44:05Z
-created: 2024-09-09 21:02:08Z
-tags:
-  - moon
-  - pwp
----
-
 ## Xeatle &ndash; Moon
+
+#moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moon/n40An10g6WHNCNq9c2L3)
 

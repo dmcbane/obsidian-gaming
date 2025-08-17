@@ -1,33 +1,23 @@
----
-title: Pirates Without Plunder Session 010
-updated: 2024-09-11 00:40:20Z
-created: 2024-09-10 05:25:17Z
-latitude: 32.85461970
-longitude: -79.97481030
-altitude: 0.0000
-tags:
-  - pwp
-  - session
----
-
 # Pirates Without Plunder Session Ten
+
+#pwp #session
 
 ## [Previously...](Pirates%20Without%20Plunder%20Session%20009.md)
 
 -  - The meeting with Viktor went well.
-    - [Elias](Elias%20Merten%20-%20PC.md) asked if they could check the security recordings from [Eric](Eric%20Magnus%20-%20PC.md)'s party so that we might identify the person who [Eric](Eric%20Magnus%20-%20PC.md) purchased the [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION#Pretech,%20Psitech,%20and%20the%20Gates|Pretech) key from. The person that he received it from was wearing a concealer suit that was projecting the appearance of some celebrity from the [Leucipp - System](Leucipp%20-%20System.md). That was a dead end.
+    - [Elias](Elias Merten%20-%20PC.md) asked if they could check the security recordings from [Eric](Eric%20Magnus%20-%20PC.md)'s party so that we might identify the person who [Eric](Eric%20Magnus%20-%20PC.md) purchased the [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION#Pretech,%20Psitech,%20and%20the%20Gates|Pretech) key from. The person that he received it from was wearing a concealer suit that was projecting the appearance of some celebrity from the [Leucipp - System](Leucipp%20-%20System.md). That was a dead end.
     - There was discussion surrounding [Viktor](Viktor%20Stolypin%20-%20NPC.md) having established a corporation owning the [Cambrian](Cambrian%20-%20Free%20Merchant.md) (something between a trust, non-profit, and light-limited corporation in today\'s terms) registered on [Eurynae](Eurynae%20-%20Planet.md) which is the legal center of the sector and as such is legally bullet-proof. [Elias](Elias%20Merten%20-%20PC.md) and [LJS](Long%20John%20Silver%20-%20NPC.md) to provide the name later.
-    - [Viktor](Viktor%20Stolypin%20-%20NPC.md) revealed that they had deposited credits into the company\'s accounts sufficient to fund maintenance for the [Cambrian](Cambrian%20-%20Free%20Merchant.md) for a year. His concept was for the crew to pursue jobs to support themselves and maintain the ship just as if the funds weren't there, but wanted the crew to have the freedom to select jobs based on their search not because they need the funds.
-- [Elias](Elias%20Merten%20-%20PC.md) decided to accept the following job identified during [Eric](Eric%20Magnus%20-%20PC.md)'s party
+    - [Viktor](Viktor Stolypin%20-%20NPC.md) revealed that they had deposited credits into the company\'s accounts sufficient to fund maintenance for the [Cambrian](Cambrian%20-%20Free%20Merchant.md) for a year. His concept was for the crew to pursue jobs to support themselves and maintain the ship just as if the funds weren't there, but wanted the crew to have the freedom to select jobs based on their search not because they need the funds.
+- [Elias](Elias Merten%20-%20PC.md) decided to accept the following job identified during [Eric](Eric%20Magnus%20-%20PC.md)'s party
     - Charitable - refugee crisis due to war torn [Calia](Calia%20-%20System.md) - [Nora Barker](Nora%20Barker%20-%20NPC.md)
         - Flee for Freedom - transferring refugees to [Salima Teji](Salima%20Teji%20-%20Planet.md) in [Teciboe](Teciboe%20-%20System.md)
     - 200 refugees with 240 tons of cargo & people
     - 2 years - 2K credits per person - 400K credits
-    - [Kevin Crawford](Kevin%20Crawford%20-%20NPC.md) is the project lead of the [Flee for Freedom](Flee%20for%20Freedom.md) project to transfer refugees from [Calia](Calia%20-%20System.md) to [Salima Teji](Salima%20Teji%20-%20Planet.md) in the [Teciboe](Teciboe%20-%20System.md) system.
+    - [Kevin Crawford](Kevin Crawford%20-%20NPC.md) is the project lead of the [Flee for Freedom](Flee%20for%20Freedom.md) project to transfer refugees from [Calia](Calia%20-%20System.md) to [Salima Teji](Salima%20Teji%20-%20Planet.md) in the [Teciboe](Teciboe%20-%20System.md) system.
 	- [Kevin Crawford](Kevin%20Crawford%20-%20NPC.md) and two others died in route
 	- One refugee accused another of sleeping with his wife. The insulted party killed the accused and accidentally, [Kevin Crawford](Kevin%20Crawford%20-%20NPC.md).
 	- The perpetrator was killed moments later by the other refugees because he killed them.
-    - [Elias](Elias%20Merten%20-%20PC.md) was able to calm them down and now [Echo Danica](Echo%20Danica.md), the wife of the first victim, is serving as the representative for the refugees
+    - [Elias](Elias Merten%20-%20PC.md) was able to calm them down and now [Echo Danica](Echo%20Danica.md), the wife of the first victim, is serving as the representative for the refugees
     - The crew delivered the refugees to [Salima Teji](Salima%20Teji%20-%20Planet.md) where they settled on the uninhabited continent away from the native inhabitant.
     - Following delivery of the refugees, the [Cambrian](Cambrian%20-%20Free%20Merchant.md) visited the [Oodnadatta 7 - Space Station](Oodnadatta%207%20-%20Space%20Station.md) in hopes of discovering something related to the [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION#Pretech,%20Psitech,%20and%20the%20Gates|Pretech) vault. The station was originally established by [Nebula Nexus Research Corp (NNRC)](Nebula%20Nexus%20Research%20Corp%20(NNRC).md) as a research and observation station of the developing planet, but has outlived it\'s usefulness and has basically been abandoned.
     - Scientist, [Sonny Rain](Sonny%20Rain.md), is maintaining the hydroponics on the station even thought it is not his specialty. He remains on the station only because he can\'t get anyone to come transport him off.
@@ -39,7 +29,7 @@ tags:
 
 ## Possibilities This Session
 
-- [Domoni 5](Domoni%205%20-%20Orbital%20Ruin.md) is an orbital [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION#Pretech,%20Psitech,%20and%20the%20Gates|Pretech) library, but it is the equivalent of a branch library that reaches out to the main branch to pull back information. The information that our team is searching for has is not likely to be available but the following items are in the search history.
+- [Domoni 5](Domoni 5%20-%20Orbital%20Ruin.md) is an orbital [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION#Pretech,%20Psitech,%20and%20the%20Gates|Pretech) library, but it is the equivalent of a branch library that reaches out to the main branch to pull back information. The information that our team is searching for has is not likely to be available but the following items are in the search history.
 
 1.  Quantum Computing for Beginners
 2.  History of Interstellar Travel

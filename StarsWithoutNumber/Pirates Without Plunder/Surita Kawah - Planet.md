@@ -1,13 +1,6 @@
----
-title: Surita Kawah - Planet
-updated: 2024-09-07 16:44:07Z
-created: 2024-09-07 01:00:18Z
-tags:
-  - planet
-  - pwp
----
-
 ## Surita Kawah &ndash; Planet
+
+#planet #pwp
 
 Surita Kawah (Heavy Industry/Megacorps) is a dreary world of massive, planet-spanning manufacturing operations, sad tenement housing and polluted strip mines. It's one major urban center, Neo Eden, houses about 3 million inhabitants, largely the bureaucrats and menial laborers who form the cogs in the machine. Neo Eden always seems to be shrouded in rain and “fog,” or more accurately, smog, which is the result of a century of over-exploitation of the natural world.
 
@@ -17,11 +10,11 @@ Major corporations on Surita Kawah include Motinovation Industries PHC (Privatel
 
 Despite Surita Kawah's bad reputation, it also functions as a center of trade and commerce for the sector and attracts both reputable businessmen and shadier characters looking to earn a quick credit.
 
-- Atmosphere: Breatheable mix
-- Temperature: Temperate
-- Biosphere: Human-miscible
-- Population: Millions
-- Tech Level: TL3
+- Atmosphere: [Breathable Mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^atmosphere-breathable-mix)
+- Temperature: [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-temperate)
+- Biosphere: [Human-miscible](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^biosphere-human-miscible)
+- Population: [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^population-size-millions)
+- Tech Level: [21st century (TL3)](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^planetary-tech-level-3)
 - System: [Thora - System](Thora%20-%20System.md)
 - Gas Giant Mines
 	- [Naruko Project - Gas Giant Mine](Naruko%20Project%20-%20Gas%20Giant%20Mine.md)
@@ -32,6 +25,6 @@ Despite Surita Kawah's bad reputation, it also functions as a center of trade an
 - Space Station
    - 
 - Tags
-   - Heavy Industry
-   - Megacorps
+   - [Heavy Industry](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Heavy%20Industry)
+   - [Megacorps](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Megacorps)
 

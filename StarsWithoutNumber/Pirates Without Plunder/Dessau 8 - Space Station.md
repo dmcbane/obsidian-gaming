@@ -1,13 +1,6 @@
----
-title: Dessau 8 - Space Station
-updated: 2024-09-09 19:39:50Z
-created: 2024-09-09 19:38:51Z
-tags:
-  - pwp
-  - station
----
-
 ## Dessau 8 &ndash; Space Station
+
+#pwp #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/spaceStation/Lrxk1ihKd7JWI1vfLm8k)
 

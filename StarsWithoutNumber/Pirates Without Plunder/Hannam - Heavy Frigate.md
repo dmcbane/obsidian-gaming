@@ -1,4 +1,4 @@
-## Hannam - [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Heavy%20Frigate|Heavy%20Frigate)
+## Hannam - [Heavy Frigate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Heavy%20Frigate)
 #pwp #ship 
 
 - [HP](#^starship-hit-points): 50

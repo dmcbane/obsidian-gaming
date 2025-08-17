@@ -1,14 +1,6 @@
----
-title: Lodwar - Gas Giant Mine
-updated: 2024-09-09 20:10:51Z
-created: 2024-09-09 20:09:36Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Lodwar &ndash; Gas Giant Mine
+
+#gas-giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/8MpX9Kc2k5trMT7hPzBf)
 

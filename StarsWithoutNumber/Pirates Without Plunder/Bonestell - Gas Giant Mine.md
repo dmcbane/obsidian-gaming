@@ -1,14 +1,6 @@
----
-title: Bonestell - Gas Giant Mine
-updated: 2024-09-28 03:22:50Z
-created: 2024-09-28 03:14:17Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Bonestell &ndash; Gas Giant Mine
+
+#gas-giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/TAAtfaoIl6luMqQqOklG)
 

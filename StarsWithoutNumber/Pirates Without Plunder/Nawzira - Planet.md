@@ -4,11 +4,11 @@
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/yqHHF3Q2R3tyxd1x5o0y)
 
-- Atmosphere: [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^atmosphere-breathable-mix|Breathable%20Mix)
-- Temperature: [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-frozen|Frozen)
-- Biosphere: [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^biosphere-no-native|No%20Native)
-- Population: [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^population-size-outpost|Outpost)
-- Tech Level: [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^planetary-tech-level-4-specialties|TL4+)
+- Atmosphere: [Breathable Mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^atmosphere-breathable-mix)
+- Temperature: [Frozen](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-frozen)
+- Biosphere: [No native](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^biosphere-no-native)
+- Population: Hundreds of [Outpost](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^population-size-outpost)
+- Tech Level: [Postech with Specialties (TL4+)](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^planetary-tech-level-4-specialties)
 - System: [Thora - System](Thora%20-%20System.md)
 - Gas Giant Mines
 	- [Adams - Gas Giant Mine](Adams%20-%20Gas%20Giant%20Mine.md)
@@ -22,8 +22,8 @@
 	- [Clark 3 - Space Station](Clark%203%20-%20Space%20Station.md)
 	- [Manti 9 - Space Station](Manti%209%20-%20Space%20Station.md)
 - Tags
-	- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Hatred|Hatred)
-	- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Restrictive%20Laws|Restrictive%20Laws)
+	- [Hatred](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Hatred)
+	- [Restrictive Laws](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Restrictive%20Laws)
 
 
 ## Concepts for the planet 

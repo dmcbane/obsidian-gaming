@@ -1,13 +1,6 @@
----
-title: Gill 6 - Space Station
-updated: 2024-09-09 18:41:51Z
-created: 2024-09-09 18:38:24Z
-tags:
-  - pwp
-  - station
----
-
 ## Gill 6 &ndash; Space Station
+
+#pwp #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/spaceStation/XM6Wv9pd8pizjRbEitMg)
 

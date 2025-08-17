@@ -1,29 +1,22 @@
----
-title: Ditriya Puna - Planet
-updated: 2024-09-09 17:28:54Z
-created: 2024-09-09 16:43:28Z
-tags:
-  - planet
-  - pwp
----
-
 ## Ditriya Puna &ndash; Planet
+
+#planet #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/diWe5Zl4Lt29ZTsWug3U)
 
-- Atmosphere: [Breatheable mix](../../../Gaming/StarsWithoutNumber/Breatheable%20Mix.md)
-- Temperature: [Temperate](../../../Gaming/StarsWithoutNumber/Temperate.md)
-- Biosphere: [Immiscible](../../../Gaming/StarsWithoutNumber/Immiscible.md)
-- Population: Several [Millions](../../../Gaming/StarsWithoutNumber/Millions.md)
-- Tech Level: [TL1](../../../Gaming/StarsWithoutNumber/TL1.md)
-- System: [Phalcas - System](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Phalcas%20-%20System.md)
+- Atmosphere: [Breathable Mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^atmosphere-breathable-mix)
+- Temperature: [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-temperate)
+- Biosphere: [Immiscible](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^biosphere-immiscible)
+- Population: Several [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^population-size-millions)
+- Tech Level: [Pre-gunpowder (TL1)](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^planetary-tech-level-1)
+- System: [Phalcas - System](Phalcas%20-%20System.md)
 - Gas Giant Mines
-	- [Niquero Project - Gas Giant Mine](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Niquero%20Project%20-%20Gas%20Giant%20Mine.md)
+	- [Niquero Project - Gas Giant Mine](Niquero%20Project%20-%20Gas%20Giant%20Mine.md)
 - Orbital Ruins
-   - [Mistretta 9 - Orbital Ruin](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Mistretta%209%20-%20Orbital%20Ruin.md)
+   - [Mistretta 9 - Orbital Ruin](Mistretta%209%20-%20Orbital%20Ruin.md)
 - Space Station
-   - [Honda 8 - Space Station](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Honda%208%20-%20Space%20Station.md)
+   - [Honda 8 - Space Station](Honda%208%20-%20Space%20Station.md)
 - Tags
-	- [Civil War](../../../Gaming/StarsWithoutNumber/Civil%20War.md)
-   - [Sole Supplier](../../../Gaming/StarsWithoutNumber/Sole%20Supplier.md)
+	- [Civil War](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Civil%20War)
+   - [Sole Supplier](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Sole%20Supplier)
 

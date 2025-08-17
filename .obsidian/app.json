@@ -6,8 +6,8 @@
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
-    "margin": "2",
-    "downscalePercent": 90
+    "margin": "0",
+    "downscalePercent": 85
   },
   "useMarkdownLinks": true,
   "newFileLocation": "current"

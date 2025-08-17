@@ -1,24 +1,17 @@
----
-title: Martis - Planet
-updated: 2024-09-28 01:16:06Z
-created: 2024-09-09 19:33:08Z
-tags:
-  - planet
-  - pwp
----
-
 ## Martis &ndash; Planet
+
+#planet #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/planet/CX0LtdHpFN8HHNeYmqW3)
 
-- Atmosphere: [Breatheable mix](../../../Gaming/StarsWithoutNumber/Breatheable%20Mix.md)
-- Temperature: [Temperate](../../../Gaming/StarsWithoutNumber/Temperate.md)
-- Biosphere: [Human-miscible](../../../Gaming/StarsWithoutNumber/Human-Miscible.md)
-- Population: Hundreds of [Millions](../../../Gaming/StarsWithoutNumber/Millions.md)
-- Tech Level: [TL5](../../../Gaming/StarsWithoutNumber/TL5.md)
-- System: [Soonoror - System](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Soonoror%20-%20System.md)
+- Atmosphere: [Breathable Mix](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^atmosphere-breathable-mix)
+- Temperature: [Temperate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^climate-temperate)
+- Biosphere: [Human-miscible](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^biosphere-human-miscible)
+- Population: Hundreds of [Millions](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^population-size-millions)
+- Tech Level: [Pretech (TL5)](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^planetary-tech-level-5)
+- System: [Soonoror - System](Soonoror%20-%20System.md)
 - Research Bases
-	- [Aban 6 - Research Base](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Aban%206%20-%20Research%20Base.md)
+	- [Aban 6 - Research Base](Aban%206%20-%20Research%20Base.md)
 - Tags
-   - [Flying Cities](../../../Gaming/StarsWithoutNumber/Flying%20Cities.md)
-   - [Night World](../../../Gaming/StarsWithoutNumber/Night%20World.md)
+   - [Flying Cities](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Flying%20Cities)
+   - [Night World](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Night%20World)

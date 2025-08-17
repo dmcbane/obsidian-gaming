@@ -1,4 +1,4 @@
-## Conquest - [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Heavy%20Frigate|Heavy%20Frigate)
+## Conquest - [Heavy Frigate](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Heavy%20Frigate)
 #pwp #ship 
 
 - [HP](#^starship-hit-points): 50

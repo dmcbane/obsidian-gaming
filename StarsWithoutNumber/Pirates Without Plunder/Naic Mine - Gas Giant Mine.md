@@ -1,14 +1,6 @@
----
-title: Naic Mine - Gas Giant Mine
-updated: 2024-09-09 19:20:45Z
-created: 2024-09-09 19:19:34Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Naic Mine &ndash; Gas Giant Mine
+
+#gas-giant #mine _pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/FLJjxdN5NChnBcDdwIuR)
 

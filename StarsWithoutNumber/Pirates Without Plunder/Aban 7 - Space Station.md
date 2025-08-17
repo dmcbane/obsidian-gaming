@@ -1,11 +1,10 @@
-# Aban 7
-## Space Station
+## Aban 7 &ndash; Space Station
 
 #pwp #station 
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/spaceStation/lcvuwYpFY2w59YdLIryW)
 
-- Planet: [Hasim - Planet](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Hasim%20-%20Planet.md)
+- Planet: [Hasim - Planet](Hasim%20-%20Planet.md)
 
 - Attributes:
    -   Occupation: Freeze-dried ancient corpses

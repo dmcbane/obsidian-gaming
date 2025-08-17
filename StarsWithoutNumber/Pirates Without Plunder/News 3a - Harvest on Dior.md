@@ -1,17 +1,6 @@
----
-title: News 3a - Harvest on Dior
-updated: 2024-09-01 14:59:13Z
-created: 2024-08-19 05:34:42Z
-latitude: 32.85461970
-longitude: -79.97481030
-altitude: 0.0000
-tags:
-  - news
-  - public
-  - pwp
----
-
 # News 3a
+
+#news #public #pwp
 
 ## Harvest on Dior - Salvation or Doom
 

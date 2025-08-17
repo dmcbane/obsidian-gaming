@@ -1,13 +1,6 @@
----
-title: Santama Miti VII - Moon
-updated: 2024-09-09 21:26:07Z
-created: 2024-09-09 21:21:20Z
-tags:
-  - moon
-  - pwp
----
-
 ## Santama Miti VII &ndash; Moon
+
+#moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moon/lNzNjE4o1AxgtNhAulKD)
 

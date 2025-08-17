@@ -1,14 +1,6 @@
----
-title: Rabe 5 - Research Base
-updated: 2024-09-09 20:57:01Z
-created: 2024-09-09 20:55:56Z
-tags:
-  - base
-  - pwp
-  - research
----
-
 ## Rabe 5 &ndash; Research Base
+
+#base #pwp #research
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/researchBase/uxdVKgnJWImjXVmOOwEM)
 

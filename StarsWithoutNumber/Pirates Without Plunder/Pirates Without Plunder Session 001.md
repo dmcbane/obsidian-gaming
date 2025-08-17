@@ -1,16 +1,6 @@
----
-title: Pirates Without Plunder Session 001
-updated: 2024-09-01 15:05:26Z
-created: 2024-08-19 05:19:20Z
-latitude: 32.85461970
-longitude: -79.97481030
-altitude: 0.0000
-tags:
-  - pwp
-  - session
----
-
 # Pirates Without Plunder Session One
+
+#pwp #session
 
 ## Summary
 

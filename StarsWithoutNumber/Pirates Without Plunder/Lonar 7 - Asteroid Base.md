@@ -1,14 +1,6 @@
----
-title: Lonar 7 - Asteroid Base
-updated: 2024-09-28 00:31:36Z
-created: 2024-09-28 00:27:20Z
-tags:
-  - asteroid_belt
-  - base
-  - pwp
----
-
 ## Lonar 7 &ndash; Asteroid Base
+
+#asteroid-belt #base #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/asteroidBase/bsSbbliuAf7vvvNQhvqy)
 

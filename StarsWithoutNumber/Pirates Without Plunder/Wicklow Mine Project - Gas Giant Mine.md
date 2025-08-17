@@ -1,14 +1,6 @@
----
-title: Wicklow Mine Project - Gas Giant Mine
-updated: 2024-09-09 19:52:52Z
-created: 2024-09-09 19:51:10Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Wicklow Mine Project &ndash; Gas Giant Mine
+
+#gas-giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/PJb8kCN9qRThGPNTZzVW)
 

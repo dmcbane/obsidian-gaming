@@ -8,7 +8,7 @@
 
 ### Asteroid Belts
 
--   [(20) Madler - Asteroid Belt]((20)%20Madler%20-%20Asteroid%20Belt.md)
+-   [(20) Madler - Asteroid Belt](20)%20Madler%20-%20Asteroid%20Belt.md)
 
 ### Planets
 

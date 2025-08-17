@@ -1,13 +1,6 @@
----
-title: Maxas - Moon
-updated: 2024-09-09 20:46:04Z
-created: 2024-09-09 20:42:02Z
-tags:
-  - moon
-  - pwp
----
-
 ## Maxas &ndash; Moon
+
+#moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moon/1T9JOr01PZXcafp60vWH)
 

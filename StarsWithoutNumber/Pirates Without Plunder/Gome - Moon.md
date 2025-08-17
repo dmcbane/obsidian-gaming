@@ -1,13 +1,6 @@
----
-title: Gome - Moon
-updated: 2024-09-07 01:26:28Z
-created: 2024-09-07 01:19:31Z
-tags:
-  - moon
-  - pwp
----
-
 ## Gome Zubalea &ndash; Moon
+
+#moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moon/mFtEhqVvJgaUIJasvLE1)
 

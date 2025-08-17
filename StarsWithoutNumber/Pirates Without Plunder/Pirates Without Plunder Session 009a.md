@@ -1,17 +1,6 @@
----
-title: Pirates Without Plunder Session 009 - Victor Stolypin Meeting
-updated: 2024-09-10 05:20:32Z
-created: 2024-09-10 05:17:18Z
-latitude: 32.85461970
-longitude: -79.97481030
-altitude: 0.0000
-tags:
-  - public
-  - pwp
-  - session
----
+# Meeting with Victor Stolypin &ndash; Dialog
 
-# Meeting with Victor Stolypin
+#dialog #public #pwp #session
 
 Each of you, [Benny](Benito%20Benny%20Maroni%20-%20PC.md), [Elias](Elias%20Merten%20-%20PC.md), [Leon](Leon%20Ardo%20-%20PC.md), [LJS](Long%20John%20Silver%20-%20NPC.md), and [Sal](Salizar%20Sal%20Maroni%20-%20PC.md), received invitations to meet at the [Masters Shipwrights](Masters%20Shipwrights.md) facility where you originally met with [Madhav Gupta](Madhav%20Gupta%20-%20NPC.md). Upon arrival, you are transported via lift to the space station and escorted to a large conference room where you converse amongst yourselves as you wait to begin. You are joined by [Madhav](Madhav%20Gupta%20-%20NPC.md) and others who [Sal](Salizar%20Sal%20Maroni%20-%20PC.md) and [Benny](Benito%20Benny%20Maroni%20-%20PC.md) recognize as heads of the [Maroni family](Maroni%20family.md). Eventually, you are also joined by [Viktor Stolypin](Viktor%20Stolypin%20-%20NPC.md) who steps to the head of the table and addresses the room in Mandate with a light Russian accent.
 

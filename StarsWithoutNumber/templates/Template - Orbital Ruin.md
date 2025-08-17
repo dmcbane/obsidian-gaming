@@ -1,6 +1,6 @@
 ## Talsi 9 &ndash; Orbital Ruin
 
-#orbital_ruin #pwp #template 
+#orbital-ruin #pwp #template 
 
 [Sectors Without Number]()
 

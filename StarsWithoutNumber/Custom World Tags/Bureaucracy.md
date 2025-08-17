@@ -1,5 +1,7 @@
 ### **BUREAUCRACY**
 
+#custom #world-tag
+
 _A world where layers of regulation, red tape, and official process control every aspect of life._
 
 Everything must be filed, stamped, and approved. Whether it's launching a shuttle, selling fruit, or requesting medical aid, no action escapes the iron net of administration. The bureaucracy here is not merely a government function—it is the government. Officials wield more power through procedure than soldiers do with guns. Careers are made or broken by navigating the system, and data—properly notarized, categorized, and processed—is more dangerous than most weapons.

@@ -49,8 +49,8 @@ The session ended as Elias shot and killed Leroy Jones on the threshold of the v
 ### PCs are aware of:
 -  Review of situation:
 	- The door from the transport tunnel into the foyer of the Exchange Consulate escrow vault (the one that the transport tractor hit at full speed) is jammed closed.
-	- [Benny](Benito%20Benny%20Maroni%20-%20PC.md) (Jimmy's character) and [Whiat](Whiat%20Dray%20-%20PC.md) (Ethan's character) are in the transport tunnel standing guard.
-	- [Elias](Elias%20Merten%20-%20PC.md) (David's character), [Sal](Salizar%20Sal%20Maroni%20-%20PC.md) (Daniel's character), [Leon](Leon%20Ardo%20-%20PC.md) (Mary's character),  [Ryker](Ryker%20Vox%20-%20PC.md) (Mike's character) and [Nico](Nico%20Santero%20-%20NPC.md) (NPC) are inside at the threshold of the vault.  
+	- [Benny](Benito Benny%20Maroni%20-%20PC.md) (Jimmy's character) and [Whiat](Whiat%20Dray%20-%20PC.md) (Ethan's character) are in the transport tunnel standing guard.
+	- [Elias](Elias Merten%20-%20PC.md) (David's character), [Sal](Salizar%20Sal%20Maroni%20-%20PC.md) (Daniel's character), [Leon](Leon%20Ardo%20-%20PC.md) (Mary's character),  [Ryker](Ryker%20Vox%20-%20PC.md) (Mike's character) and [Nico](Nico%20Santero%20-%20NPC.md) (NPC) are inside at the threshold of the vault.  
 - The team planned for Sal, Elias, and Nico to stay in the vault and attempt to identify content that might be useful or valuable to us, while Leon and Ryker teleports back to Benny and Whiat and then go to the holding area to acquire a ship to transport the haul off world.
 - Nico revealed that he has a laser pistol in his pocket ready to go in case Leroy tried anything.  
 - The first AI we run into in the first room is clearly confused, mixing up our names with people we've never heard of and assuming we're with various organizations.

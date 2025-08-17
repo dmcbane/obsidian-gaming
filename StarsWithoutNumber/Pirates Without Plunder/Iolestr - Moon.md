@@ -1,13 +1,6 @@
----
-title: Iolestr - Moon
-updated: 2024-09-08 00:58:58Z
-created: 2024-09-08 00:54:14Z
-tags:
-  - moon
-  - pwp
----
-
 ## Iolestr &ndash; Moon
+
+#moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moon/GwrliPpZgZ96yV47UcWE)
 

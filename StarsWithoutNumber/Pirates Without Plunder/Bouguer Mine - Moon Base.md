@@ -1,14 +1,6 @@
----
-title: Bouguer Mine - Moon Base
-updated: 2024-09-07 01:36:04Z
-created: 2024-09-07 01:33:02Z
-tags:
-  - base
-  - moon
-  - pwp
----
-
 ## Bouguer Mine &ndash; Moon Base
+
+#base #moon #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/moonBase/lYHSwvsu2KtlnZhLgtqS)
 

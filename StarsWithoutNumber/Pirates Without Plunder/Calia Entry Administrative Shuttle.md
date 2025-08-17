@@ -1,16 +1,16 @@
 ## [Calia - System](Calia%20-%20System.md) Entry Administrative [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Shuttle|Shuttle)
 #pwp #ship 
 
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-hit-points|HP): 15
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-power|Power): 3/2 free
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-armor-class|AC): 11
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-mass|Mass): 5/0 free
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-armor|Armor): 0
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-crew|Crew): 1/20
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-speed|Speed): 3
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-hull-class|Hull%20Class): Fighter
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-npc-crew-skill-modifier|Crew%20Skill): +1 NPC
-- [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-npc-crew-skill-modifier|CP): 4
+- [HP](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-hit-points): 15
+- [Power](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-power): 3/2 free
+- [AC](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-armor-class): 11
+- [Mass](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-mass): 5/0 free
+- [Armor](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-armor): 0
+- [Crew](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-crew): 1/20
+- [Speed](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-speed): 3
+- [Hull Class](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-hull-class): Fighter
+- [Crew Skill](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-npc-crew-skill-modifier): +1 NPC
+- [CP](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-npc-crew-skill-modifier): 4
 - Weapons:
   None
 - Defenses:

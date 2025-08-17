@@ -1,5 +1,7 @@
 ### **Legalis Nexus**
 
+#custom #world-tag 
+
 _A sector-spanning bureaucratic and corporate registration center_
 
 **The world is the administrative heart of interstellar corporate legitimacy, legal arbitration, and archival authority.** Every major corporation, noble house, and planetary government files its records here. Operating without a presence on this world is commercial suicide in most of the sector. From the orbital docks down to the deep data vaults beneath the equatorial capital, every structure hums with the quiet energy of filing, indexing, notarizing, and investigating.

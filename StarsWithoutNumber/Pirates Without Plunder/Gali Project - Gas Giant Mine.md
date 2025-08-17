@@ -1,14 +1,6 @@
----
-title: Gali Project - Gas Giant Mine
-updated: 2024-09-07 22:10:42Z
-created: 2024-09-07 22:09:18Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Gali Project &ndash; Gas Giant Mine
+
+#gas-giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/tuPgE1MngYhhWkvDEWZn)
 

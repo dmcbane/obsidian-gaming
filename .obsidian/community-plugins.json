@@ -10,7 +10,7 @@
   "url-into-selection",
   "obsidian-scroll-offset",
   "tag-wrangler",
-  "remotely-save",
   "obsidian-local-rest-api",
-  "obsidian-git"
+  "obsidian-git",
+  "gemini-scribe"
 ]

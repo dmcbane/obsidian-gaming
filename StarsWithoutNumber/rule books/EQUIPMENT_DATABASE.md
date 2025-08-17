@@ -1,6 +1,6 @@
 # EQUIPMENT DATABASE
 
-
+#public #revised-edition #rulebook #swn
 # CREDITS
 
 This compendium is published by Angry Golem Games Author Davide Tramma Editing Royce Bowden

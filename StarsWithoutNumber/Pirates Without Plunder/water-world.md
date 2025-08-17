@@ -1,18 +1,10 @@
----
-title: water-world
-updated: 2024-08-24 08:06:58Z
-created: 2024-08-24 07:52:38Z
-latitude: 32.85461970
-longitude: -79.97481030
-altitude: 0.0000
-tags:
-  - concepts
-  - pwp
----
+# Water world notes &ndash; Concept
 
-## Water world notes
+#concepts #pwp
 
-### where the library is relaying information through
+
+[Ankanju Ratri - Planet](Ankanju%20Ratri%20-%20Planet.md) is this world - apply these concepts there as applicable
+## Where the library is relaying information through
 
 **Environment:**
 

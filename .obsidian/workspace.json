@@ -8,12 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "654018d1acf41829",
+            "id": "c0f65a50b825434f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StarsWithoutNumber/Pirates Without Plunder/Nawzira - Planet.md",
+                "file": "StarsWithoutNumber/rule books/STARS WITHOUT NUMBER, FREE EDITION - obsidian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -27,11 +28,117 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Nawzira - Planet"
+              "title": "STARS WITHOUT NUMBER, FREE EDITION - obsidian"
+            }
+          },
+          {
+            "id": "7a27cd291dbec63c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StarsWithoutNumber/Pirates Without Plunder/Calia - System.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Calia - System"
+            }
+          },
+          {
+            "id": "dd62efd8f0920824",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StarsWithoutNumber/Pirates Without Plunder/Xenotech.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Xenotech"
+            }
+          },
+          {
+            "id": "09c745688323837e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StarsWithoutNumber/Pirates Without Plunder/Pirates Without Plunder Session 019.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Pirates Without Plunder Session 019"
+            }
+          },
+          {
+            "id": "3b67acba485c340d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StarsWithoutNumber/Pirates Without Plunder/Madhav Gupta - NPC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Madhav Gupta - NPC"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -63,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Blacksite Burn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 421.5,
+    "collapsed": true
   },
   "right": {
     "id": "c370a85c5c9ff8b9",
@@ -119,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StarsWithoutNumber/rule books/STARS WITHOUT NUMBER, FREE EDITION - obsidian.md",
+                "file": "StarsWithoutNumber/Pirates Without Plunder/Encounter - The Sky Falls Quiet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +237,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for STARS WITHOUT NUMBER, FREE EDITION - obsidian"
+              "title": "Backlinks for Encounter - The Sky Falls Quiet"
             }
           },
           {
@@ -138,12 +246,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StarsWithoutNumber/rule books/STARS WITHOUT NUMBER, FREE EDITION - obsidian.md",
+                "file": "StarsWithoutNumber/Pirates Without Plunder/Encounter - The Sky Falls Quiet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from STARS WITHOUT NUMBER, FREE EDITION - obsidian"
+              "title": "Outgoing links from Encounter - The Sky Falls Quiet"
             }
           },
           {
@@ -173,16 +281,37 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "ab27945ce90e6c52",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d5447612e89dab2f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
@@ -191,46 +320,47 @@
       "zk-prefixer:Create new unique note": false,
       "templates:Insert template": false,
       "publish:Publish changes...": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "chat-with-bard:New Gemini Chat": false,
       "obsidian-importer:Open Importer": false,
-      "remotely-save:Remotely Save": false
+      "gemini-scribe:Open Gemini Chat": false,
+      "gemini-scribe:Open Agent Mode": false
     }
   },
-  "active": "654018d1acf41829",
+  "active": "3b67acba485c340d",
   "lastOpenFiles": [
-    "StarsWithoutNumber/Pirates Without Plunder/Calia - System.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Campaign Analysis - Location Improvements.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Encounter - Not Even the Deeps.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Cross Parsec Corporation - Enhanced Operations.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Elo Vara - Exchange Operative.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Encounter - Blacksite Burn.md",
-    "StarsWithoutNumber/Pirates Without Plunder/M.V. Shadow Strike - Fighter.md",
-    "StarsWithoutNumber/Pirates Without Plunder/M.V. Void Talon - Fighter.md",
-    "StarsWithoutNumber/Pirates Without Plunder/M.V. Reckoners Hook - Heavy Tug.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Carrion Cloak Operations - Organization.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Cross Parsec Corporation - Organization.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Helga - Moon.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Encounter - Echoes of the Hymn.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Multani Research Group - Organization.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Captain Vex Korvain - NPC.md",
     "StarsWithoutNumber/Pirates Without Plunder/Pirates Without Plunder Session 019.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Encounter - The Sky Falls Quiet.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Ankanju Ratri - Planet.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Monterv - System.md",
-    "ShadowRun/Session 20241019.md",
-    "Untitled.md",
+    "StarsWithoutNumber/rule books/STARS WITHOUT NUMBER, FREE EDITION - obsidian.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Madhav Gupta - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Calia - System.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Xenotech.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Pirates Without Plunder Session 016.md",
+    "StarsWithoutNumber/Pirates Without Plunder/R.V. Aurora Parallax - Research Ship.md",
+    "StarsWithoutNumber/rule books/Civilian Starships.md",
+    "StarsWithoutNumber/Pirates Without Plunder/GM Tools/gm-quick-reference-sheets.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Pirates Without Plunder Session 006.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Papadoudou - Planet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/M.V. Iron Hymn - Destroyer.md",
+    "StarsWithoutNumber/Pirates Without Plunder/M.V. Lumens Grace - Yacht.md",
+    "StarsWithoutNumber/Pirates Without Plunder/M.V.  Silent Harbor - Free Merchant.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/The Sky Falls Quiet - Enhanced.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - The Sky Falls Quiet - Ship-to-Ship.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - The Sky Falls Quiet.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Pirates Without Plunder Session 010.md",
+    "StarsWithoutNumber/Pirates Without Plunder/GM Tools/Player Handout.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - Blacksite Burn (attachments)/Pasted image 20250724234023.png",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - Blacksite Burn.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - Not Even the Deeps.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - Echoes of the Hymn.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - Blacksite Burn (attachments)",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Echoes of the Hymn - Enhanced.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Not Even The Deeps - Enhanced.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Blacksite Burn - Enhanced.md",
+    "StarsWithoutNumber/Pirates Without Plunder/GM Tools",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters",
+    "StarsWithoutNumber/Pirates Without Plunder/Sefadu 3 - Space Station.md",
     "Untitled",
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",
-    "broken links output.md",
-    "StarsWithoutNumber/rule books/Suns Of Gold.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Pirates Without Plunder Session 018.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Pirates Without Plunder Session 017.md",
-    "StarsWithoutNumber/Pirates Without Plunder/flash light.md",
     "StarsWithoutNumber/Pirates Without Plunder/Encounter - Blacksite Burn (attachments)/Pasted image 20250724234023.png",
     "StarsWithoutNumber/Pirates Without Plunder/Encounter - Blacksite Burn (attachments)",
     "StarsWithoutNumber/Custom World Tags",
@@ -243,10 +373,6 @@
     "StarsWithoutNumber/rule books/images/_page_22_Picture_8.jpeg",
     "StarsWithoutNumber/rule books/_page_0_Picture_0.jpeg",
     "StarsWithoutNumber/rule books/_page_29_Picture_13.jpeg",
-    "StarsWithoutNumber/rule books/_page_22_Picture_8.jpeg",
-    "StarsWithoutNumber/rule books/images/_page_1_Picture_9.jpeg",
-    "StarsWithoutNumber/Pirates Without Plunder/images",
-    "StarsWithoutNumber/rule books/images",
-    "StarsWithoutNumber/rule books/New folder"
+    "StarsWithoutNumber/rule books/_page_22_Picture_8.jpeg"
   ]
 }

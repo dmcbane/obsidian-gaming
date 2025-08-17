@@ -1,14 +1,6 @@
----
-title: Weinbaum 6 - Research Base
-updated: 2024-09-09 19:23:00Z
-created: 2024-09-09 19:21:40Z
-tags:
-  - base
-  - pwp
-  - research
----
-
 ## Weinbaum 6 &ndash; Research Base
+
+#base #pwp #research
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/researchBase/lGnPD0S6imUGzLlpAFOr)
 

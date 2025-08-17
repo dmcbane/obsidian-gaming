@@ -1,22 +1,12 @@
----
-title: Pirates Without Plunder Session 002
-updated: 2024-09-10 17:25:31Z
-created: 2024-08-19 05:21:42Z
-latitude: 32.85461970
-longitude: -79.97481030
-altitude: 0.0000
-tags:
-  - pwp
-  - session
----
-
 # Pirates Without Plunder Session 002
+
+#pwp #session
 
 ## Summary
 
 Continued from Session One following [ Mike (Jimmy Hale)](Michael%20Jones%20-%20PC.md) having gotten the [Cambrian](Cambrian%20-%20Free%20Merchant.md) (soon to be stolen Free Merchant) started. Then comms officer, [Ev\'ee (Mary McBane)](Ev_ee%20Lucian%20-%20PC.md), received a message from the [Motinovation](Motinovation%20Industries%20(MI).md) fixer, [Aaron Vershin - NPC](Aaron%20Vershin%20-%20NPC.md), congratulating them on having located ["The Assiniboine"](Cambrian%20-%20Free%20Merchant.md) (which was renamed to the \"Cambrian\") and transmitted the navigation routes ([](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION#Making%20Spike%20Drills|"rutters")) and instructions for the delivery of the ship.
 
-After much discussion, the [PWP](Players%20and%20Their%20Characters.md) decided to forgo that option. They eventually figured out how to get the hanger bay doors open and [Mike](Michael%20Jones%20-%20PC.md) left the Red Sun Trading office and joined the organized chaos of Mythos Spaceport. With a few minutes to catch their breaths, they searched job boards and underground job boards to find a way to earn some credits. See [#Job Opportunites](#Job%20Opportunites) below for the results that they considered. They decided to go with both the [Mining Equipment](#Mike%20's%20Gas%20Giant%20Mining%20Equipment) and the [Black Market](#Eric%20's%20Black%20Market%20Question%20Mark) opportunities.
+After much discussion, the [PWP](Players%20and%20Their%20Characters.md) decided to forgo that option. They eventually figured out how to get the hanger bay doors open and [Mike](Michael%20Jones%20-%20PC.md) left the Red Sun Trading office and joined the organized chaos of Mythos Spaceport. With a few minutes to catch their breaths, they searched job boards and underground job boards to find a way to earn some credits. See [Job Opportunites](#Job%20Opportunites) below for the results that they considered. They decided to go with both the [Mining Equipment](#Mike%20's%20Gas%20Giant%20Mining%20Equipment) and the [Black Market](#Eric%20's%20Black%20Market%20Question%20Mark) opportunities.
 
 ## Job Opportunites
 

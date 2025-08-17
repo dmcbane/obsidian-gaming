@@ -1,7 +1,7 @@
 # Badwater Mine
 ## Gas Giant Mine
 
-#gas_giant #mine #pwp 
+#gas-giant #mine #pwp 
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/tFuQ00hwK2kcsgBhYYGn)
 

@@ -1,13 +1,6 @@
----
-title: Maraldi 1 - Space Station
-updated: 2024-09-08 00:16:37Z
-created: 2024-09-08 00:15:00Z
-tags:
-  - pwp
-  - station
----
-
 ## Maraldi 1 &ndash; Space Station
+
+#pwp #station
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/spaceStation/LdFUEfcCiarCBGwGkH8x)
 

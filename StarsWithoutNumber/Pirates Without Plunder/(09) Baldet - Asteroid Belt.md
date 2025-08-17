@@ -1,7 +1,5 @@
-# (09) Baldet
-## Asteroid Belt
-
-#asteroid_belt #pwp 
+## (09) Baldet &ndash; Asteroid Belt
+#asteroid-belt #pwp 
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/asteroidBelt/6HWcn0xe0VaphAaGhlA2)
 

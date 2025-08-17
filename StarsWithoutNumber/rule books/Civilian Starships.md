@@ -1,6 +1,7 @@
 ![_page_0_Picture_0](_page_0_Picture_0.jpeg)
 
 # CIVILIAN STARSHIPS Compatible with Stars Without Number *By Richard Hazlewood*
+#public #revised-edition #rulebook #swn
 
 - Dale McBane (Order #39667162)
 - Revision 1
@@ -18,15 +19,15 @@ All rights reserved. Reproduction of this work by any means without the written 
 
 ## *TABLE OF CONTENTS*
 
-| Introduction                                                     | 3 |
-| ---------------------------------------------------------------- | --: |
-| [#Required Materials](#Required%20Materials)                                          | 3 |
-| [#About The Author](#About%20The%20Author)                                            | 3 |
-| [#Book Overview](#Book%20Overview)                                               | 4 |
-| [#Starship Operation Costs](#Starship%20Operation%20Costs)                                    | 5 |
-| [#Starship Designs](#Starship%20Designs)                                            | 7 |
-| [#New Starship Fittings](#New%20Starship%20Fittings)                                       | 9 |
-| [](#Starships%20with%20Ne[[#Starships%20with%20Ne[[#Starships%20with%20New%20Fittings)w Fittings]] | 10 |
+| Introduction                                                      |   3 |
+| ----------------------------------------------------------------- | --: |
+| [Required Materials](#Required%20Materials)                       |   3 |
+| [About The Author](#About%20The%20Author)                         |   3 |
+| [Book Overview](#Book%20Overview)                                 |   4 |
+| [Starship Operation Costs](#Starship%20Operation%20Costs)         |   5 |
+| [Starship Designs](#Starship%20Designs)                           |   7 |
+| [New Starship Fittings](#New%20Starship%20Fittings)               |   9 |
+| [Starships With New Fittings](#STARSHIPS%20WITH%20NEW%20FITTINGS) |  10 |
 
 ![_page_2_Picture_3](_page_2_Picture_3.jpeg)
 

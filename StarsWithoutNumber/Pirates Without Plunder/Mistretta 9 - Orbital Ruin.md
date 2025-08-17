@@ -1,13 +1,6 @@
----
-title: Mistretta 9 - Orbital Ruin
-updated: 2024-09-09 16:51:44Z
-created: 2024-09-09 16:50:37Z
-tags:
-  - orbital_ruin
-  - pwp
----
-
 ## Mistretta 9 &ndash; Orbital Ruin
+
+#orbital-ruin #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/orbitalRuin/guDNSz0TKbVkq9pVQcF5)
 

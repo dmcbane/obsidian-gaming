@@ -1,14 +1,6 @@
----
-title: Niquero Project - Gas Giant Mine
-updated: 2024-09-09 16:49:12Z
-created: 2024-09-09 16:47:41Z
-tags:
-  - gas_giant
-  - mine
-  - pwp
----
-
 ## Niquero Project &ndash; Gas Giant Mine
+
+#gas-giant #mine #pwp
 
 [Sectors Without Number](https://sectorswithoutnumber.com/sector/bfDcBzTtgpeyLUfwzjio/gasGiantMine/4uNlBVNFEzaQtj71Z5tj)
 

@@ -40,6 +40,29 @@
 	- Power: 30/3 free (when "Lab" cryostasis pods are removed)
 	- Mass: 13/2 free (when "Lab" cryostasis pods are removed)
 
+<<<<<<< HEAD
+=======
+- [HP](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-hit-points): 40
+- [Power](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-power): 15/1 free
+- [AC](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-armor-class): 5
+- [Mass](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-mass): 15/0 free
+- [Armor](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-armor): 10
+- [Crew](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-crew): 10/40
+- [Speed](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-speed): 1
+- [Hull Class](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-hull-class): Frigate
+- [Crew Skill](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-npc-crew-skill-modifier): +1 NPC
+- [CP](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-npc-crew-skill-modifier): 4
+- Weapons: None
+- Defenses: Hardened Polyceramic Overlay
+- Fittings:
+  Drive-2 Upgrade, Cargo (20 tons), Extended Stores, Fuel Bunkers, Fuel Scoops, Hydroponics Production, Laboratoryx4, Ship’s Locker, Survey Sensor Array; Workshop
+- Cost:
+	164.4k per month operating costs (break down follows)
+  4,890k [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-cost|base%20price)
+  20.4k [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#Six-Month%20Maintenance|maintenance)
+  120k [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION%20-%20obsidian.md#^starship-crew-cost|crew%20cost)
+  24k stores
+>>>>>>> origin/main
 
 Still relatively uncommon in the Post-Scream galaxy, the Hawking is built by more established interstellar
 powers to explore interesting phenomena around them and conduct basic scientific research. The ship uses a

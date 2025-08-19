@@ -61,13 +61,19 @@ With the ship’s systems now understood, and the 188 innocent captives returned
 - [Encounter - Not Even the Deeps](Encounter%20-%20Not%20Even%20the%20Deeps.md) - During the transit to the system departure point, the team is ambushed by the slavers
 ## What actually Happened
 
-- Escaped from the Capt Vex on the Silent Harbor also Iron Hymn and Lumens Grace from the Cygnus Arc Cartel slavery operations unit.
-- Task a computer with pattern matching the ancient star routes to modern routes
-- List of vaults
-- Look into Cygnus Arc and Flee for Freedom Nora Barker
-- Search for Sunken Ocean World
-- Talked to [Madhav Gupta - NPC](Madhav%20Gupta%20-%20NPC.md) about Pretech Spinal Weapon platform nano schematic - Xenotech parent company for manufacturing and Madhav Gupta/Mastershipwrights as sole installer but he has to figure out if they can even manufacturer
-- Benny try to sell - his luxury item guy is Guido Gusepe Han
-	- Madhav offered 50000Cr for the crate of ultra dense synthetic diamonds - 150000Cr 
-	- Shipping crate of priceless luxury items that are now priceless - 750000Cr
-- 
+- In accordance with [Encounter - The Sky Falls Quiet](Encounter%20-%20The%20Sky%20Falls%20Quiet.md), as our team finished dropping off the kidnap victims, the M.V. Silent Harbor dropped into the lower atmosphere making their announcement.
+- When the jamming started, our team decided to leave.
+- Someone from the opposing fleet hacked in and took control of the Aurora Parallax, but PWP was able to regain control by disconnecting power to the systems with external connections (communications, sensors, navigation, etc.).
+- After a stressful conflict, PWP escaped from the Capt Vex Korvain of the Silent Harbor (the Iron Hymn and Lumens Grace, also from the Cygnus Arc Cartel slavery operations unit, were also part of the conflict).
+- PWP jumped to Calia and after clearing entry control, met with [Madhav Gupta - NPC](Madhav%20Gupta%20-%20NPC.md) on [Papadoudou - Planet](Papadoudou%20-%20Planet.md).
+- [Madhav](Madhav%20Gupta%20-%20NPC.md) put them into contact with [Carlos Thomas - NPC](Carlos%20Thomas%20-%20NPC.md) to sell the [R.V. Aurora Parallax](R.V.%20Aurora%20Parallax%20-%20Research%20Ship.md).
+- After negotiating with [Carlos](Carlos%20Thomas%20-%20NPC.md) to sell the [Parallax](R.V.%20Aurora%20Parallax%20-%20Research%20Ship.md), the team made plans for the future including:
+	- Trying to determine if the ancient star routes discovered in the Exchange Consolate Escrow Vault on [Nawzira - Planet](Nawzira%20-%20Planet.md) could be matched to modern routes and they tasked a computer to begin the process.
+	- Trying to determine if any of the Pretech vaults from the List of vaults discovered in the Exchange Consolate Escrow Vault might be in known locations.
+	- Look into Cygnus Arc and Flee for Freedom Nora Barker
+	- Search for the Sunken Ocean World mentioned in an item from the Exchange Consolate Escrow Vault (ECEV)
+	- Talked to [Madhav Gupta - NPC](Madhav%20Gupta%20-%20NPC.md) about Pretech Spinal Weapon platform nano schematic discovered in the ECEV - He needed to discuss the possibility with his contacts at [Meridian Dynamics Corporation (MDC)](Meridian%20Dynamics%20-%20Corporation.md) to see if they would be able to extract enough information from the schematic to allow them to manufacture a product based off of it.  This would provide [Madhav Gupta - NPC](Madhav%20Gupta%20-%20NPC.md) and [Masters Shipwrights](Masters%20Shipwrights.md) with the opportunity to be sole installers of the product.
+	- Madhav offered 50000Cr for the crate of ultra dense synthetic diamonds
+	- Benny was to try to sell two items through his luxury item guy, [Guido Gusepe Han](Guido%20Gusepe%20Han%20-%20NPC.md):
+		- Shipping crate of priceless luxury items that are now priceless - 750000Cr
+		- Ultra dense synthetic diamonds - 150000Cr

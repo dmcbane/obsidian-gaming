@@ -106,7 +106,7 @@
 
 -   Poking around in the configuration settings our team might eventually figure out that the library is attempting to connect to the main library at coordinates outside of the known sector. Also, the symbols on the [](STARS%20WITHOUT%20NUMBER,%20FREE%20EDITION#Pretech,%20Psitech,%20and%20the%20Gates|Pretech) key that the player's have match the design for the main library icon in the libraries configuration files.
 
--   [Xenotech](Xenotech.md)
+-   [Xenotech - Corporation](Xenotech%20-%20Corporation.md)
     -   [Kyle Amadeu](Kyle%20Amadeu.md) - says
     -   [](Common%20Armor%20Varieties#Vestimentum|Vestimentum) - equivalent of a rechargeable Type A battery built into the armor with a charger installed on the [Cambrian](Cambrian%20-%20Free%20Merchant.md)
         -   [](Common%20Armor%20Varieties#Secure%20Clothing|John%20Wick) suit 19 AC

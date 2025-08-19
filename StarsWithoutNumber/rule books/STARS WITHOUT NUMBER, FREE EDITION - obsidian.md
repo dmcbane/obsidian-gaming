@@ -9565,6 +9565,8 @@ The table provides simplified combat statistics. NPCs don't normally have foci, 
 | Serial Killer        |  6  |       12       |   +8    | By weapon +3 |  10m | 12  |   +3   |  12+  |
 | Skilled Professional |  1  |       10       |   +0    |  By weapon   |  10m |  6  |   +2   |  15+  |
 
+^386ab0
+
 ***Move*** is the distance the NPC travels when they take a Move action in combat. For humans, this is ten meters, though gengineered or other boosted subjects might be able to move faster than this. ^npc-move
 
 ***ML*** is the NPC's Morale score, their likelihood of retreating when in danger. When an NPC faces unusual peril, they need to make a Morale check on 2d6. If they roll equal or less than their Morale score, they withstand the danger and continue fighting. If they roll more than their Morale, they break. Poorly-trained combatants will simply run for their lives or beg for mercy, while more hardened ones will make a fighting withdrawal to a place of safety. PCs never need to make Morale checks. ^npc-morale

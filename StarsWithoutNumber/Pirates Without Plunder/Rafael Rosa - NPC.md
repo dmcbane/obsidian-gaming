@@ -3,7 +3,7 @@
 #npc #pwp 
 ### Heir Apparent of [Planet Dior](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Dior%20-%20Planet.md) in the [Calia system](:/).
 
-Nephew of [Mateus Augusto](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Mateus%20Augusto.md) and [Lucia Augusto](../../../Gaming/StarsWithoutNumber/PiratesWithoutPlunder/Lucia%20Augusto.md)
+Nephew of [Mateus Augusto - NPC](Mateus%20Augusto%20-%20NPC.md) and [Lucia Augusto - NPC](Lucia%20Augusto%20-%20NPC.md)
 
 [HD](../../../Gaming/StarsWithoutNumber/Hit%20Dice.md): 1
 [AC](../../../Gaming/StarsWithoutNumber/Armor%20Class-1.md): 10

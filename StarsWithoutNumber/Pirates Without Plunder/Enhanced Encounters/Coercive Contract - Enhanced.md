@@ -2,19 +2,19 @@
 
 ## Background Setup
 
-Captain Vex Korvain, working for Nora Barker's Cygnus Arc Cartel operations, has tracked the PCs to Papadoudou using **quantum trackers** planted on the Aurora Parallax during previous encounters. After researching Carlos Thomas and discovering he brokered the ship's sale, Korvain applied pressure to extract the PCs' location and activities.
+[Captain Vex Korvain](Vex%20Korvain%20-%20NPC.md), working for [Nora Barker](Nora%20Barker%20-%20NPC.md)'s [Cygnus Arc Cartel - Faction](Cygnus%20Arc%20Cartel%20-%20Faction.md) operations, has tracked the PCs to [Papadoudou](Papadoudou%20-%20Planet.md) using **quantum trackers** planted on the [R.V. Aurora Parallax](R.V.%20Aurora%20Parallax%20-%20Research%20Ship.md) during previous encounters. After researching [Carlos Thomas](Carlos%20Thomas%20-%20NPC.md) and discovering he brokered the ship's sale, [Korvain](Vex%20Korvain%20-%20NPC.md) applied pressure to extract the PCs' location and activities.
 
-Nora Barker sees an opportunity: the growing political instability in the Calia System, particularly around Dior's succession crisis, threatens to bring unwanted scrutiny to her slavery operations. She wants the PCs to help plant an operative at the upcoming system-wide leadership council meeting on Dior, leveraging their relationships with Rafael Rosa, Lucia Augusto, and Kartik Chandan (Long John Silver).
+[Nora Barker](Nora%20Barker%20-%20NPC.md) sees an opportunity: the growing political instability in the [Calia System](Calia%20-%20System.md), particularly around [Dior](Dior%20-%20Planet.md)'s succession crisis, threatens to bring unwanted scrutiny to her slavery operations. She wants the PCs to help plant an operative at the upcoming system-wide leadership council meeting on Dior, leveraging their relationships with [Rafael Rosa](Rafael%20Rosa%20-%20NPC.md), [Lucia Augusto](Lucia%20Augusto%20-%20NPC.md), and [Kartik Chandan](Kartik%20Chandan%20-%20NPC.md) ([Long John Silver](Long%20John%20Silver%20-%20NPC.md)).
 
 ---
 
 ## Opening Scene: The Unexpected Contact
 
-**Location:** Papadoudou spaceport, shortly after the Aurora Parallax sale concludes
+**Location:** [Papadoudou](Papadoudou%20-%20Planet.md) spaceport, shortly after the [R.V. Aurora Parallax](R.V.%20Aurora%20Parallax%20-%20Research%20Ship.md) sale concludes
 
-As the PCs wrap up their business with Carlos Thomas, they receive an encrypted message on a secure channel they've never used before:
+As the [PCs](Players%20and%20Their%20Characters.md) wrap up their business with [Carlos Thomas](Carlos%20Thomas%20-%20NPC.md), they receive an encrypted message on a secure channel they've never used before:
 
-> **"Your recent humanitarian efforts on Ankanju Ratri were admirable. We represent parties who share your interest in... refugee assistance. Meet us at Cargo Bay 47-Delta, Level 3. Come alone, or at least with minimal security presence. We have a business proposition that could prove mutually beneficial. You have 30 minutes."**
+> **"Your recent humanitarian efforts on [Ankanju Ratri](Ankanju%20Ratri%20-%20Planet.md) were admirable. We represent parties who share your interest in... refugee assistance. Meet us at Cargo Bay 47-Delta, Level 3. Come alone, or at least with minimal security presence. We have a business proposition that could prove mutually beneficial. You have 30 minutes."**
 > 
 > **- Friends of Freedom**
 
@@ -24,9 +24,9 @@ As the PCs wrap up their business with Carlos Thomas, they receive an encrypted 
 
 **Location:** Cargo Bay 47-Delta - a mid-sized loading bay currently "empty" but with several shipping containers providing cover
 
-When the PCs arrive, they find what appears to be a normal cargo transfer operation. A few workers in coveralls are moving crates, and a well-dressed woman in her 40s stands near a small office setup.
+When the [PCs](Players%20and%20Their%20Characters.md) arrive, they find what appears to be a normal cargo transfer operation. A few workers in coveralls are moving crates, and a well-dressed woman in her 40s stands near a small office setup.
 
-**The Woman:** "Thank you for coming. I'm **Miranda Cole**, logistics coordinator for Flee for Freedom. We've been monitoring your activities and are impressed by your commitment to helping displaced persons."
+**The Woman:** "Thank you for coming. I'm **[Miranda Cole](Miranda%20Cole%20-%20NPC.md)**, logistics coordinator for Flee for Freedom. We've been monitoring your activities and are impressed by your commitment to helping displaced persons."
 
 ### Skill Checks & Information Gathering:
 - **Notice DC 12:** The "workers" are too alert and positioned too tactically
@@ -50,7 +50,9 @@ At this point, **Nora Barker** steps out from behind one of the shipping contain
 ### Nora's Demands:
 1. **The Job:** Plant her operative (**Agent Voss** - skilled assassin/spy) into the upcoming Dior Leadership Council meeting
 2. **The Leverage:** Their connections to Rafael Rosa, Lucia Augusto, and "Long John Silver" make them ideal intermediaries
-3. **The Threat:** Refuse, and Cygnus Arc will make their lives very difficult in this sector
+3. **The Primary Threat:** The Maroni family's shipyard operations and legitimate businesses face "regulatory scrutiny" and "unfortunate accidents"
+4. **The Personal Threat:** Nadia Maroni and other family members become targets for "competitor actions"
+5. **The Backup Threat:** Refuse, and Cygnus Arc will make their lives very difficult in this sector
 
 ### Nora's Reasoning:
 - The leadership council threatens to bring stability to Calia System
@@ -61,7 +63,9 @@ At this point, **Nora Barker** steps out from behind one of the shipping contain
 ### Key Information Nora Reveals:
 - **Quantum Trackers:** "Did you really think we wouldn't place tracking devices during our previous encounters? Your ship's hull still carries our quantum resonance markers."
 - **Carlos Thomas:** "Your ship broker was very helpful once we explained the situation. Don't worry—he's unharmed, but he understands the importance of cooperation now."
+- **Family Leverage:** "The Maroni family has such deep roots here on Papadoudou. It would be unfortunate if their legitimate business operations faced... complications."
 - **System Intelligence:** She knows about their connections to Dior's leadership and their recent activities
+- **Teleporter Awareness:** "We're well aware of your team's unique mobility capabilities. Rest assured, we've planned accordingly."
 
 ---
 
@@ -120,7 +124,8 @@ At this point, **Nora Barker** steps out from behind one of the shipping contain
 - **Move:** 10m
 - **Morale:** 8
 - **Skills:** Shoot+1, Sneak+1
-- **Equipment:** Restraint fields, neural scramblers
+- **Equipment:** Restraint fields, neural scramblers, **teleporter jammers** (20m radius)
+- **Special:** Each operative carries photos of Maroni family members and shipyard blueprints
 
 ---
 
@@ -198,12 +203,12 @@ If the PCs engage with the proposition, Nora provides crucial intelligence:
          |                          |
     ┌────┴────┐                ┌────┴────┐
     │ Office  │                │Container│
-    │Setup ⚫ │                │   #1    │
+    │Setup ⚫ │                │   #1 📡 │
     └─────────┘                └─────────┘
                                     
          [Containers #2-4]              
     ┌─────────┐ ┌─────────┐ ┌─────────┐
-    │ ⚫       │ │    ⚫    │ │       ⚫ │
+    │ ⚫   📡  │ │    ⚫    │ │   📡  ⚫ │
     │Container│ │Container│ │Container│
     │   #2    │ │   #3    │ │   #4    │
     └─────────┘ └─────────┘ └─────────┘
@@ -216,13 +221,16 @@ If the PCs engage with the proposition, Nora provides crucial intelligence:
     └─────────┘           └─────────┘
                                     
     [Emergency Exit]         [Main Cargo Doors]
+                     📡 Jammer Control
 ```
 
 **Legend:**
 - ⚫ = Operative positions
+- 📡 = Teleporter jammer locations (overlapping 20m coverage)
 - Miranda starts at Office Setup
-- Nora hidden behind Container #3
+- Nora hidden behind Container #3 with jammer control
 - Emergency Exit requires Tech DC 12 to open quickly
+- **Jammer Coverage:** Entire bay except small area near main cargo doors
 
 ---
 
@@ -255,10 +263,26 @@ If the PCs engage with the proposition, Nora provides crucial intelligence:
 ### Nora's Escalation Table (Roll 1d6 if PCs are uncooperative)
 | Roll | Escalation |
 |------|------------|
-| 1-2  | Reveals quantum tracker locations on their gear |
-| 3-4  | Shows them surveillance footage of Carlos being "interviewed" |
-| 5    | Calls in additional backup (2 more operatives arrive) |
-| 6    | Activates emergency beacon - Iron Hymn is 2 hours out |
+| 1-2  | Shows real-time surveillance footage of Maroni shipyard with operatives in position |
+| 3-4  | Reveals detailed dossiers on Nadia Maroni and family locations |
+| 5    | Activates teleporter jammers and calls in additional backup (2 more operatives arrive) |
+| 6    | "Workplace accident" occurs at Maroni shipyard - explosion visible from spaceport |
+
+### Family Leverage Details
+| Target | Location | Leverage Type | Immediate Threat |
+|--------|----------|---------------|------------------|
+| Nadia Maroni | Papadoudou Shipyard Office | Business disruption | Regulatory shutdown |
+| Taj Maroni | Residential district | Personal safety | "Random" street crime |
+| Fahrkad Maroni | Transport hub | Business sabotage | Cargo "accidents" |
+| Vincenzo Salizar | Family restaurant | Economic pressure | Health inspections, permits |
+
+### Teleporter Countermeasures
+| Countermeasure | Effect | Duration | PC Counter |
+|----------------|--------|----------|-----------|
+| Jammer Field | Teleport requires Tech DC 18 | 10 minutes | EMP or system hack |
+| Predictive Tracking | +4 to hit teleporting targets | Until moved | Unpredictable patterns |
+| Area Denial | Threatens family if PCs flee | Permanent | Eliminate operatives |
+| Psionic Damping | +2 System Strain per attempt | 1 hour | Medical treatment |
 
 ### PC Reputation Consequences (Roll 1d8 after encounter resolution)
 | Roll | Immediate Consequence |
@@ -290,8 +314,10 @@ If the PCs engage with the proposition, Nora provides crucial intelligence:
 ### Cygnus Arc Operative Equipment:
 - **Restraint Field Projectors:** Creates energy shackles (Str DC 15 to break)
 - **Neural Scramblers:** Mental save DC 12 or confused 1d4 rounds
+- **Teleporter Jammers:** 20m radius, Tech DC 18 to overcome, drains 2 system strain per attempt
 - **Smoke Grenades:** Creates concealment for 3 rounds
-- **Emergency Extraction:** Each has personal teleporter (1 use, 100m range)
+- **Family Surveillance Photos:** Recent images of Maroni family members with timestamps
+- **Emergency Extraction:** Each has personal teleporter (1 use, 100m range, not affected by their own jammers)
 
 ### Morale Modifiers:
 - **Nora Present:** +1 to operative morale
@@ -323,18 +349,25 @@ If the PCs engage with the proposition, Nora provides crucial intelligence:
 
 ### Before Session:
 - [ ] Review PC relationships with Rafael, Lucia, and Kartik
+- [ ] **Prepare Maroni family member details and current locations**
+- [ ] **Research Papadoudou shipyard layout and operations**
 - [ ] Prepare Nora's voice and mannerisms (corporate executive meets crime boss)
 - [ ] Ready backup plans if PCs immediately attack or flee
 - [ ] Review quantum tracker mechanics from previous sessions
+- [ ] **Set up teleporter jammer rules and countermeasures**
 
 ### During Session:
 - [ ] Track Miranda's stress level (nervous → panicked → flees)
 - [ ] Monitor PC body language for engagement vs. resistance
+- [ ] **Watch for teleporter usage and apply jammer effects**
+- [ ] **Play family leverage card at appropriate dramatic moment**
 - [ ] Adjust Nora's offer based on PC concerns
 - [ ] Note which quantum trackers PCs find/remove
 
 ### After Session:
 - [ ] Determine long-term consequences based on PC choice
+- [ ] **Update Maroni family safety status**
+- [ ] **Plan shipyard consequences (damage, casualties, investigations)**
 - [ ] Plan follow-up encounters (council meeting or Cygnus Arc retaliation)
 - [ ] Update NPC relationship status
 - [ ] Prepare political ramifications for next session

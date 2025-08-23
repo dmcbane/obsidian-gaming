@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - Coercive Contract.md",
+                "file": "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Coercive Contract - Enhanced.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Encounter - Coercive Contract"
+              "title": "Coercive Contract - Enhanced"
             }
           }
         ]
@@ -180,8 +180,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
@@ -204,6 +204,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
@@ -222,31 +223,31 @@
   "active": "56ed53ec14155751",
   "lastOpenFiles": [
     "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/encounter - Coercive Contract - Enhanced.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - Blacksite Burn.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - Coercive Contract.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Pirates Without Plunder Session 020.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Pirates Without Plunder Session 019.md",
-    "StarsWithoutNumber/rule books/STARS WITHOUT NUMBER, FREE EDITION - obsidian.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Nora Barker - NPC.md",
-    "StarsWithoutNumber/Pirates Without Plunder/GM Tools/gm-quick-reference-sheets.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Meridian Dynamics - Corporation.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Xenotech - Corporation.md",
-    "StarsWithoutNumber/Pirates Without Plunder/GuardianOne - Corporation.md",
-    "StarsWithoutNumber/Pirates Without Plunder/GuardianOne - Corporation.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Lucia Augusto - NPC.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Rafael Rosa - NPC.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - The Sky Falls Quiet - Ship-to-Ship.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Blacksite Burn - Enhanced.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Echoes of the Hymn - Enhanced.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Not Even The Deeps - Enhanced.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/The Sky Falls Quiet - Enhanced.md",
-    "StarsWithoutNumber/Pirates Without Plunder/GM Tools/Player Handout.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Madhav Gupta - NPC.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Guido Gusepe Han - NPC.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Vex Korvain - NPC.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - The Sky Falls Quiet.md",
-    "StarsWithoutNumber/Pirates Without Plunder/Calia - System.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Marcus Webb - NPC (1).md",
+    "StarsWithoutNumber/Pirates Without Plunder/Maria Santos - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Marcus Webb - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Luminous Tide Singer - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Nina Cross - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Marcus Torrino - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Coercive Contract - Enhanced.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Miranda Cole - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Elena Vasquez - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Agent Catherine Voss - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Ervhad Higgins - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Fahrkad Maroni - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Taj Maroni - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Samuel Dunce.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Sonny Rain.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Nebula Nexus Research Corp (NNRC).md",
+    "StarsWithoutNumber/Pirates Without Plunder/Echo Danica.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Scrunglo.md",
     "StarsWithoutNumber/Pirates Without Plunder/Carlos Thomas - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Vex Korvain - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Guido Gusepe Han - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Nora Barker - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Rafael Rosa - NPC.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - Coercive Contract.md",
+    "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - Blacksite Burn.md",
     "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - Blacksite Burn (attachments)/Pasted image 20250724234023.png",
     "StarsWithoutNumber/Pirates Without Plunder/Enhanced Encounters/Encounter - Blacksite Burn (attachments)",
     "StarsWithoutNumber/Pirates Without Plunder/GM Tools",
